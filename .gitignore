@@ -1,0 +1,16 @@
+venv/
+config/api_keys.env
+
+models/*.pkl
+models/*.keras
+models/*.h5
+
+data/safe_urls.csv
+data/merchant_database_fixed.csv
+data/scam_report_database_500.csv
+data/merchant_database.csv
+data/scam_reports.csv
+
+__pycache__/
+*.pyc
+.DS_Store

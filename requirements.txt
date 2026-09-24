@@ -1,0 +1,24 @@
+# Backend
+flask==3.0.3
+pandas==2.2.2
+numpy==1.26.4
+
+# QR decoding
+opencv-python==4.10.0.84
+
+# Location verification
+opencage==2.4.0
+
+# URL threat intelligence
+requests==2.32.3
+
+# Zero-day / anomaly detection
+scikit-learn==1.5.1
+tensorflow==2.17.0
+
+# Sandbox analysis
+playwright==1.46.0
+
+# Frontend
+streamlit==1.38.0
+streamlit-js-eval==0.1.7
