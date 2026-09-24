@@ -1,6 +1,7 @@
 # Backend
 flask==3.0.3
 flask-cors
+python-dotenv
 pandas==2.2.2
 numpy==1.26.4
 
