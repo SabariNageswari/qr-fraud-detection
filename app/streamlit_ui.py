@@ -7,9 +7,6 @@ from app.alert.voice_alert import trigger_browser_voice_alert
 
 API_URL = "http://127.0.0.1:5000/scan"
 
-
-st.set_page_config(page_title="Multi-Layer AI-Based QR Fraud Detection", page_icon="🔍", layout="centered")
-
 st.markdown("""
 <style>
     .main {
