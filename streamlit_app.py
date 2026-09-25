@@ -14,7 +14,7 @@ def start_flask_backend():
         ]
     )
 
-    time.sleep(5)
+    time.sleep(20)
 
     return process
 
