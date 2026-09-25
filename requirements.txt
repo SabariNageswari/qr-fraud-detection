@@ -7,7 +7,7 @@ pandas==2.2.2
 numpy==1.26.4
 
 # QR decoding
-opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
 
 # Location verification
 opencage==2.4.0
