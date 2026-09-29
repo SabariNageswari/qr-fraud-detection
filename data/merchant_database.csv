@@ -1,0 +1,2501 @@
+upi_id,merchant_name,address,latitude,longitude,shop_type,registered
+classicbookstore@upi,Classic Book Store 1448,Coimbatore,11.037348,76.958283,fixed,True
+smartmobileshop@okaxis,Smart Mobile Shop 1115,Tiruchirappalli,10.802487,78.732841,fixed,True
+lakshmimobileshop@okhdfcbank,Lakshmi Mobile Shop 1065,Tiruppur,11.101762,77.317647,fixed,True
+poojaa58@okhdfcbank,Pooja A58,Tiruppur,11.133176,77.318984,mobile,True
+mohanr85@paytm,Mohan R85,Madurai,9.936981,78.112672,mobile,True
+abchotel@okaxis,ABC Hotel,Coimbatore,11.022068,76.94748,fixed,True
+gokulk99@upi,Gokul K99,Bengaluru,12.956852,77.555273,mobile,True
+naveens71@okicici,Naveen S71,Madurai,9.904705,78.123282,mobile,True
+srijuicecorner@okhdfcbank,Sri Juice Corner,Erode,11.345684,77.712024,fixed,True
+rahulk21@okaxis,Rahul K21,Coimbatore,11.026101,76.948702,mobile,True
+krishnastore@oksbi,Krishna Store,Tirupur,11.11293,77.325233,fixed,True
+krishnapharmacy@okaxis,Krishna Pharmacy,Trichy,10.81486,78.67545,fixed,True
+abcelectronics@oksbi,ABC Electronics,Madurai,9.973281,78.090403,fixed,True
+newbookstore@oksbi,New Book Store 1132,Bengaluru,12.983539,77.563934,fixed,True
+sunkiranastore@ybl,Sun Kirana Store,Madurai,9.959873,78.144693,fixed,True
+srihotel@oksbi,Sri Hotel,Tirupur,11.128523,77.353954,fixed,True
+ammantextiles@okaxis,Amman Textiles 1415,Bengaluru,12.963184,77.622915,fixed,True
+aishwaryam69@okhdfcbank,Aishwarya M69,Tiruchirappalli,10.794384,78.675509,mobile,True
+muruganbeautyparlour@upi,Murugan Beauty Parlour,Salem,11.664028,78.178105,fixed,True
+classicrestaurant@ybl,Classic Restaurant 1104,Coimbatore,11.026611,76.955679,fixed,True
+divyas50@okaxis,Divya S50,Erode,11.301632,77.699582,mobile,True
+annagrocery@paytm,Anna Grocery,Tirupur,11.125365,77.329484,fixed,True
+gokulm24@okhdfcbank,Gokul M24,Madurai,9.895092,78.087286,mobile,True
+harik23@upi,Hari K23,Chennai,13.071716,80.293004,mobile,True
+redteacorner@ybl,Red Tea Corner,Madurai,9.957973,78.110173,fixed,True
+xyzfruitsvegetables@paytm,XYZ Fruits & Vegetables,Tirupur,11.089044,77.327368,fixed,True
+royaltextiles@ybl,Royal Textiles 1265,Madurai,9.960193,78.137802,fixed,True
+newrestaurant@okhdfcbank,New Restaurant 1035,Erode,11.332663,77.730935,fixed,True
+starhardwarestore@upi,Star Hardware Store 1326,Coimbatore,10.99241,76.946516,fixed,True
+omvegetableshop@okicici,Om Vegetable Shop,Tirupur,11.12476,77.325427,fixed,True
+lakshmiclothingstore@paytm,Lakshmi Clothing Store 1428,Erode,11.34141,77.728033,fixed,True
+tamilpharmacy@okaxis,Tamil Pharmacy,Coimbatore,10.982403,76.945671,fixed,True
+lakshmitextiles@okaxis,Lakshmi Textiles 1180,Salem,11.696618,78.121521,fixed,True
+rohits84@paytm,Rohit S84,Chennai,13.104192,80.232001,mobile,True
+xyzdhaba@paytm,XYZ Dhaba,Tirupur,11.097018,77.346774,fixed,True
+royalelectronics@paytm,Royal Electronics 1125,Salem,11.673971,78.160221,fixed,True
+kavins15@oksbi,Kavin S15,Tiruppur,11.077955,77.365668,mobile,True
+newcafe@okhdfcbank,New Cafe 1367,Tiruchirappalli,10.776684,78.708947,fixed,True
+keerthanaa39@okicici,Keerthana A39,Chennai,13.12063,80.246561,mobile,True
+newelectronics@oksbi,New Electronics 1259,Bengaluru,12.989462,77.586276,fixed,True
+arunm99@okaxis,Arun M99,Tiruppur,11.126518,77.372138,mobile,True
+newgrocerystore@okaxis,New Grocery Store 1274,Salem,11.654473,78.154398,fixed,True
+sanjayk22@paytm,Sanjay K22,Coimbatore,11.043225,76.955651,mobile,True
+lakshmistationery@upi,Lakshmi Stationery 1267,Coimbatore,10.995547,76.933182,fixed,True
+redkiranastore@okaxis,Red Kirana Store,Trichy,10.754701,78.689253,fixed,True
+vijayp91@paytm,Vijay P91,Tiruchirappalli,10.823214,78.703232,mobile,True
+royalbakery@paytm,Royal Bakery 1312,Chennai,13.095308,80.259101,fixed,True
+muruganvehicleparking@okicici,Murugan Vehicle Parking,Tirupur,11.100788,77.333644,fixed,True
+poojap14@ybl,Pooja P14,Tiruppur,11.11099,77.339442,mobile,True
+vignesha77@okicici,Vignesh A77,Madurai,9.943341,78.144439,mobile,True
+modernelectronics@okhdfcbank,Modern Electronics,Tirupur,11.118423,77.324949,fixed,True
+haris60@oksbi,Hari S60,Madurai,9.941169,78.133014,mobile,True
+bluetextiles@okicici,Blue Textiles,Tirupur,11.082035,77.328279,fixed,True
+ammanrestaurant@paytm,Amman Restaurant,Erode,11.314608,77.710799,fixed,True
+superparking@okaxis,Super Parking,Trichy,10.827111,78.73296,fixed,True
+citychemist@oksbi,City Chemist,Tirupur,11.099806,77.314858,fixed,True
+newsalon@ybl,New Salon 1037,Salem,11.634897,78.133921,fixed,True
+classicsalon@paytm,Classic Salon 1294,Chennai,13.046996,80.265667,fixed,True
+sureshp22@upi,Suresh P22,Bengaluru,12.939605,77.608609,mobile,True
+newtextiles@okicici,New Textiles 1450,Coimbatore,11.013274,76.957423,fixed,True
+vigneshm72@upi,Vignesh M72,Bengaluru,12.995586,77.611746,mobile,True
+lakshmibookstore@paytm,Lakshmi Book Store 1466,Tiruppur,11.132681,77.355371,fixed,True
+supersupermarket@okicici,Super Super Market,Chennai,13.133393,80.254536,fixed,True
+anitham91@okaxis,Anitha M91,Coimbatore,10.993376,76.987391,mobile,True
+nilatollplaza@okhdfcbank,Nila Toll Plaza,Erode,11.322028,77.718028,fixed,True
+newrestaurant2@okhdfcbank,New Restaurant 1188,Tiruchirappalli,10.760248,78.683775,fixed,True
+lakshmibakery@oksbi,Lakshmi Bakery 1473,Erode,11.360619,77.678622,fixed,True
+starpetrolbunk@paytm,Star Petrol Bunk,Salem,11.687634,78.119433,fixed,True
+newbhavan@okhdfcbank,New Bhavan,Erode,11.348161,77.705199,fixed,True
+royalvegetableshop@upi,Royal Vegetable Shop,Coimbatore,11.069997,76.954408,fixed,True
+nilatoolshardware@upi,Nila Tools & Hardware,Madurai,9.958429,78.07287,fixed,True
+shalinir32@okaxis,Shalini R32,Chennai,13.072064,80.241366,mobile,True
+keerthanap44@okhdfcbank,Keerthana P44,Bengaluru,12.969459,77.581562,mobile,True
+lakshmimobileshop2@okaxis,Lakshmi Mobile Shop 1085,Erode,11.322673,77.697312,fixed,True
+smartstationery@okhdfcbank,Smart Stationery 1289,Tiruppur,11.112716,77.305589,fixed,True
+srigrocerystore@upi,Sri Grocery Store 1124,Tiruchirappalli,10.823349,78.724314,fixed,True
+classicelectronics@oksbi,Classic Electronics 1342,Chennai,13.062731,80.260448,fixed,True
+swethaa96@oksbi,Swetha A96,Coimbatore,11.032598,76.967427,mobile,True
+starhardwarestore2@okhdfcbank,Star Hardware Store 1491,Tiruchirappalli,10.829176,78.670658,fixed,True
+annatoolshardware@ybl,Anna Tools & Hardware,Salem,11.636249,78.179534,fixed,True
+kavyap46@okhdfcbank,Kavya P46,Madurai,9.963056,78.146947,mobile,True
+lakshmihotel@oksbi,Lakshmi Hotel,Chennai,13.058948,80.321236,fixed,True
+harinim16@okicici,Harini M16,Erode,11.30163,77.727633,mobile,True
+sreevehicleparking@okhdfcbank,Sree Vehicle Parking,Chennai,13.070751,80.202286,fixed,True
+lakshmirestaurant@upi,Lakshmi Restaurant 1284,Coimbatore,11.006656,76.965227,fixed,True
+shalinik35@upi,Shalini K35,Madurai,9.907017,78.082131,mobile,True
+vigneshk57@okhdfcbank,Vignesh K57,Tiruchirappalli,10.753723,78.676964,mobile,True
+royalfillingstation@ybl,Royal Filling Station,Chennai,13.013782,80.259986,fixed,True
+anitham88@paytm,Anitha M88,Erode,11.362318,77.699955,mobile,True
+rahulk39@okhdfcbank,Rahul K39,Erode,11.333935,77.704623,mobile,True
+kavyap79@oksbi,Kavya P79,Salem,11.687315,78.112477,mobile,True
+krishnacakesmore@ybl,Krishna Cakes & More,Chennai,13.105067,80.301293,fixed,True
+blueparking@upi,Blue Parking,Trichy,10.828416,78.720961,fixed,True
+redelectronics@okaxis,Red Electronics,Trichy,10.820434,78.673567,fixed,True
+tamilbooksstationery@oksbi,Tamil Books & Stationery,Chennai,13.094609,80.194122,fixed,True
+classictextiles@okicici,Classic Textiles 1252,Coimbatore,11.032221,76.92077,fixed,True
+newmobileshop@upi,New Mobile Shop 1048,Bengaluru,12.997243,77.624306,fixed,True
+sureshm90@upi,Suresh M90,Madurai,9.930879,78.110965,mobile,True
+srisalon@upi,Sri Salon 1018,Madurai,9.933116,78.118888,fixed,True
+sripharmacy@okaxis,Sri Pharmacy,Salem,11.692646,78.140922,fixed,True
+meenam95@paytm,Meena M95,Bengaluru,12.943519,77.612829,mobile,True
+harinip86@paytm,Harini P86,Erode,11.327807,77.753933,mobile,True
+praveenk87@okhdfcbank,Praveen K87,Chennai,13.056879,80.240632,mobile,True
+aishwaryam88@okaxis,Aishwarya M88,Tiruchirappalli,10.777297,78.686067,mobile,True
+sunhardwarestore@ybl,Sun Hardware Store,Salem,11.6438,78.15865,fixed,True
+smartbakery@oksbi,Smart Bakery 1222,Coimbatore,11.017236,76.993135,fixed,True
+greenparking@paytm,Green Parking,Trichy,10.786519,78.731669,fixed,True
+moonmedicals@ybl,Moon Medicals,Erode,11.32895,77.700522,fixed,True
+ammanpetrolstation@okhdfcbank,Amman Petrol Station 1322,Tiruppur,11.096334,77.368741,fixed,True
+nilapetrolbunk@oksbi,Nila Petrol Bunk,Erode,11.323987,77.719781,fixed,True
+classicvegetableshop@okhdfcbank,Classic Vegetable Shop 1337,Tiruchirappalli,10.786876,78.703744,fixed,True
+naveena21@okicici,Naveen A21,Tiruchirappalli,10.783021,78.689719,mobile,True
+smarttextiles@okicici,Smart Textiles 1261,Coimbatore,10.991199,76.926634,fixed,True
+deepar57@oksbi,Deepa R57,Madurai,9.947762,78.122803,mobile,True
+abcteapoint@paytm,ABC Tea Point,Erode,11.363115,77.734155,fixed,True
+kaverifruitsvegetables@upi,Kaveri Fruits & Vegetables,Trichy,10.79872,78.692444,fixed,True
+divyak74@upi,Divya K74,Erode,11.332497,77.732107,mobile,True
+vijaya40@oksbi,Vijay A40,Tiruchirappalli,10.773274,78.724134,mobile,True
+rohitm10@okicici,Rohit M10,Salem,11.639652,78.184928,mobile,True
+mohans63@ybl,Mohan S63,Bengaluru,12.990617,77.556319,mobile,True
+royalteastall@oksbi,Royal Tea Stall,Chennai,13.154354,80.269168,fixed,True
+lakshmifillingstation@okaxis,Lakshmi Filling Station,Erode,11.337323,77.727813,fixed,True
+newcakesmore@okicici,New Cakes & More,Trichy,10.81979,78.700629,fixed,True
+rohits30@okhdfcbank,Rohit S30,Salem,11.664693,78.111467,mobile,True
+naveenr38@okhdfcbank,Naveen R38,Tiruchirappalli,10.808007,78.691885,mobile,True
+srimobileshop@okicici,Sri Mobile Shop,Chennai,13.12228,80.293339,fixed,True
+kaverifashionstore@upi,Kaveri Fashion Store,Madurai,9.91181,78.121531,fixed,True
+vigneshk56@upi,Vignesh K56,Coimbatore,11.020482,76.942501,mobile,True
+aruns38@okhdfcbank,Arun S38,Salem,11.692758,78.107736,mobile,True
+lakshmicoffeeshop@oksbi,Lakshmi Coffee Shop,Salem,11.64353,78.132807,fixed,True
+xyzbhavan@ybl,XYZ Bhavan,Erode,11.336229,77.737583,fixed,True
+sanjayk31@upi,Sanjay K31,Tiruchirappalli,10.824296,78.706031,mobile,True
+rahulp90@okicici,Rahul P90,Tiruchirappalli,10.815173,78.682392,mobile,True
+kavyas81@oksbi,Kavya S81,Coimbatore,10.98338,76.955297,mobile,True
+royalgrocerystore@okhdfcbank,Royal Grocery Store 1019,Salem,11.694541,78.181756,fixed,True
+saihardwarestore@ybl,Sai Hardware Store,Erode,11.366399,77.746968,fixed,True
+classicgrocerystore@okicici,Classic Grocery Store 1176,Erode,11.325709,77.753294,fixed,True
+primehotel@okhdfcbank,Prime Hotel,Tirupur,11.099561,77.355331,fixed,True
+primexeroxcenter@paytm,Prime Xerox Center,Coimbatore,11.011268,76.933362,fixed,True
+saibusstandcounter@okhdfcbank,Sai Bus Stand Counter,Coimbatore,11.053338,76.950407,fixed,True
+poojas68@ybl,Pooja S68,Coimbatore,11.037758,76.96711,mobile,True
+classicclothingstore@okaxis,Classic Clothing Store 1081,Bengaluru,12.946147,77.57157,fixed,True
+classictextiles2@okaxis,Classic Textiles 1118,Coimbatore,11.006787,76.927446,fixed,True
+lakshmibakery2@okaxis,Lakshmi Bakery 1358,Tiruppur,11.117484,77.305502,fixed,True
+lakshmivegetableshop@upi,Lakshmi Vegetable Shop 1042,Madurai,9.929334,78.114015,fixed,True
+royalbakery2@paytm,Royal Bakery 1091,Tiruchirappalli,10.759976,78.725855,fixed,True
+royalbakery3@oksbi,Royal Bakery 1356,Tiruchirappalli,10.828445,78.67713,fixed,True
+ammanbooksstationery@okicici,Amman Books & Stationery,Salem,11.686547,78.14222,fixed,True
+lakshmiteapoint@ybl,Lakshmi Tea Point,Coimbatore,11.000343,77.005357,fixed,True
+keerthanak68@okaxis,Keerthana K68,Tiruppur,11.105637,77.335348,mobile,True
+starteacorner@upi,Star Tea Corner,Tirupur,11.110641,77.350782,fixed,True
+classictextiles3@oksbi,Classic Textiles 1468,Chennai,13.043689,80.300167,fixed,True
+newdhaba@ybl,New Dhaba,Salem,11.692272,78.17601,fixed,True
+elitesupermarket@upi,Elite Super Market,Tirupur,11.086198,77.347812,fixed,True
+xyzxeroxcenter@ybl,XYZ Xerox Center,Madurai,9.913465,78.095456,fixed,True
+nandhinip32@okicici,Nandhini P32,Coimbatore,11.053903,76.954667,mobile,True
+aruna24@ybl,Arun A24,Madurai,9.958011,78.138917,mobile,True
+sureshr50@okicici,Suresh R50,Erode,11.353241,77.734035,mobile,True
+modernmobileshop@upi,Modern Mobile Shop,Madurai,9.952073,78.10067,fixed,True
+swethar62@okicici,Swetha R62,Tiruchirappalli,10.816397,78.716383,mobile,True
+smartrestaurant@okaxis,Smart Restaurant 1365,Erode,11.374268,77.702795,fixed,True
+harinis58@paytm,Harini S58,Tiruppur,11.085642,77.319304,mobile,True
+xyzdhaba2@okicici,XYZ Dhaba,Madurai,9.955855,78.113881,fixed,True
+muruganbeautyparlour2@oksbi,Murugan Beauty Parlour,Erode,11.357434,77.707759,fixed,True
+metrosalon@paytm,Metro Salon,Tirupur,11.122088,77.328711,fixed,True
+vigneshm92@upi,Vignesh M92,Salem,11.626142,78.151839,mobile,True
+royalelectronics2@upi,Royal Electronics,Chennai,13.115629,80.317991,fixed,True
+aruna84@ybl,Arun A84,Chennai,13.051575,80.304876,mobile,True
+praveenp72@okhdfcbank,Praveen P72,Chennai,13.106179,80.306144,mobile,True
+poojak41@upi,Pooja K41,Madurai,9.9547,78.145411,mobile,True
+ajaym86@okaxis,Ajay M86,Erode,11.30227,77.732548,mobile,True
+ammancoffeeshop@ybl,Amman Coffee Shop,Tirupur,11.122247,77.323464,fixed,True
+mooncakesmore@oksbi,Moon Cakes & More,Madurai,9.905357,78.131583,fixed,True
+starpharmacy@ybl,Star Pharmacy 1282,Erode,11.358625,77.716265,fixed,True
+ammanmobileshop@oksbi,Amman Mobile Shop,Coimbatore,11.018906,76.929557,fixed,True
+kaveristore@oksbi,Kaveri Store,Trichy,10.786021,78.698907,fixed,True
+omkiranastore@okaxis,Om Kirana Store,Tirupur,11.135131,77.345822,fixed,True
+classicmedicals@okicici,Classic Medicals,Trichy,10.765693,78.69693,fixed,True
+snehar23@ybl,Sneha R23,Salem,11.636664,78.123689,mobile,True
+kaverijuicecorner@oksbi,Kaveri Juice Corner,Tirupur,11.131564,77.311928,fixed,True
+deepas81@okicici,Deepa S81,Chennai,13.088697,80.248912,mobile,True
+greendigitalstore@upi,Green Digital Store,Trichy,10.82324,78.710049,fixed,True
+moderncakesmore@paytm,Modern Cakes & More,Tirupur,11.136934,77.345752,fixed,True
+classicbakery@okicici,Classic Bakery 1495,Tiruppur,11.086196,77.318168,fixed,True
+sunparkingzone@oksbi,Sun Parking Zone,Coimbatore,10.99573,76.907166,fixed,True
+lakshmibookstore2@okhdfcbank,Lakshmi Book Store 1451,Erode,11.32974,77.692274,fixed,True
+dineshr38@ybl,Dinesh R38,Coimbatore,11.03656,76.925179,mobile,True
+xyzfuelstation@oksbi,XYZ Fuel Station,Chennai,13.076028,80.343783,fixed,True
+ganeshbeautyparlour@okhdfcbank,Ganesh Beauty Parlour,Trichy,10.783222,78.718037,fixed,True
+ammansalon@okhdfcbank,Amman Salon 1456,Chennai,13.065317,80.293481,fixed,True
+ajayp90@okicici,Ajay P90,Tiruppur,11.080951,77.319638,mobile,True
+newrestaurant3@okicici,New Restaurant 1012,Madurai,9.944961,78.114075,fixed,True
+sreehardwarestore@okhdfcbank,Sree Hardware Store,Salem,11.630381,78.142204,fixed,True
+smartclothingstore@oksbi,Smart Clothing Store 1290,Bengaluru,12.983193,77.581102,fixed,True
+ammanclothingstore@upi,Amman Clothing Store 1224,Coimbatore,11.011274,76.986396,fixed,True
+smartpharmacy@upi,Smart Pharmacy 1334,Chennai,13.116201,80.310099,fixed,True
+primekiranastore@okhdfcbank,Prime Kirana Store,Chennai,13.158987,80.196795,fixed,True
+cityvehicleparking@okhdfcbank,City Vehicle Parking,Trichy,10.768361,78.669884,fixed,True
+ammanteashop@paytm,Amman Tea Shop,Tirupur,11.133675,77.359351,fixed,True
+smartvegetableshop@okhdfcbank,Smart Vegetable Shop 1059,Salem,11.66385,78.125519,fixed,True
+smartrestaurant2@paytm,Smart Restaurant 1407,Salem,11.680076,78.163763,fixed,True
+sunrestaurant@upi,Sun Restaurant,Salem,11.681156,78.161573,fixed,True
+kavyaa22@ybl,Kavya A22,Erode,11.333583,77.736516,mobile,True
+newhardwarestore@paytm,New Hardware Store 1062,Bengaluru,12.991742,77.621789,fixed,True
+bluesalon@paytm,Blue Salon,Chennai,13.144354,80.248231,fixed,True
+vijays66@ybl,Vijay S66,Tiruchirappalli,10.762657,78.679735,mobile,True
+ombusstandcounter@oksbi,Om Bus Stand Counter,Tirupur,11.081787,77.352561,fixed,True
+lakshmipetrolstation@okaxis,Lakshmi Petrol Station 1079,Tiruchirappalli,10.78769,78.730759,fixed,True
+royalstationery@oksbi,Royal Stationery 1084,Salem,11.648796,78.152524,fixed,True
+classicfuelstation@paytm,Classic Fuel Station,Erode,11.370696,77.697076,fixed,True
+priyas39@okaxis,Priya S39,Coimbatore,11.01402,76.96549,mobile,True
+ammanteashop2@okaxis,Amman Tea Shop,Madurai,9.932334,78.083607,fixed,True
+vigneshs70@okicici,Vignesh S70,Madurai,9.960805,78.089188,mobile,True
+ajays96@okicici,Ajay S96,Salem,11.657766,78.138682,mobile,True
+swethar13@paytm,Swetha R13,Chennai,13.103877,80.270144,mobile,True
+smartbakery2@oksbi,Smart Bakery 1051,Coimbatore,11.004455,76.978714,fixed,True
+harinir12@okaxis,Harini R12,Bengaluru,12.959457,77.609884,mobile,True
+rohits74@okicici,Rohit S74,Tiruppur,11.090672,77.30617,mobile,True
+mohana87@okicici,Mohan A87,Madurai,9.946156,78.120181,mobile,True
+saifruitsvegetables@upi,Sai Fruits & Vegetables,Trichy,10.808311,78.675769,fixed,True
+vigneshs50@okaxis,Vignesh S50,Coimbatore,10.99852,76.922744,mobile,True
+harinir91@ybl,Harini R91,Bengaluru,12.982713,77.60087,mobile,True
+poojar90@okaxis,Pooja R90,Erode,11.379044,77.693377,mobile,True
+manojm77@paytm,Manoj M77,Tiruchirappalli,10.806513,78.74311,mobile,True
+gokuls68@paytm,Gokul S68,Tiruchirappalli,10.780512,78.713182,mobile,True
+gokuls29@okaxis,Gokul S29,Coimbatore,11.054412,76.959492,mobile,True
+rohitr62@ybl,Rohit R62,Madurai,9.898076,78.097463,mobile,True
+ammanvegetableshop@ybl,Amman Vegetable Shop 1460,Chennai,13.115082,80.282247,fixed,True
+meenak94@okhdfcbank,Meena K94,Bengaluru,12.995019,77.570755,mobile,True
+anithaa90@okicici,Anitha A90,Chennai,13.081393,80.285792,mobile,True
+keerthanam21@oksbi,Keerthana M21,Tiruppur,11.13338,77.350209,mobile,True
+divyar85@okhdfcbank,Divya R85,Bengaluru,12.982084,77.605468,mobile,True
+aruna87@ybl,Arun A87,Coimbatore,11.044118,76.968778,mobile,True
+mooncoffeeshop@okhdfcbank,Moon Coffee Shop,Tirupur,11.093485,77.335845,fixed,True
+moonmedicals2@okhdfcbank,Moon Medicals,Erode,11.368,77.715566,fixed,True
+ganeshteapoint@okhdfcbank,Ganesh Tea Point,Erode,11.337304,77.746631,fixed,True
+ammanfruitsvegetables@ybl,Amman Fruits & Vegetables,Madurai,9.89954,78.078585,fixed,True
+ammanpetrolstation2@paytm,Amman Petrol Station 1396,Tiruppur,11.095425,77.326908,fixed,True
+haria83@okhdfcbank,Hari A83,Bengaluru,12.982086,77.571856,mobile,True
+priyas87@oksbi,Priya S87,Salem,11.679334,78.159009,mobile,True
+modernxeroxcenter@upi,Modern Xerox Center,Coimbatore,11.002442,77.006086,fixed,True
+meenam23@okicici,Meena M23,Chennai,13.062755,80.270482,mobile,True
+lakshmivegetableshop2@upi,Lakshmi Vegetable Shop 1197,Tiruppur,11.140071,77.332032,fixed,True
+mohanm81@ybl,Mohan M81,Madurai,9.925735,78.111111,mobile,True
+ammanchemist@okicici,Amman Chemist,Erode,11.341243,77.70197,fixed,True
+tamilcakesmore@okhdfcbank,Tamil Cakes & More,Salem,11.696319,78.138747,fixed,True
+kaveridhaba@oksbi,Kaveri Dhaba,Chennai,13.072935,80.214603,fixed,True
+ajaya84@ybl,Ajay A84,Bengaluru,13.007723,77.583171,mobile,True
+moonfillingstation@ybl,Moon Filling Station,Erode,11.316263,77.700342,fixed,True
+krishnaparking@ybl,Krishna Parking,Coimbatore,10.968664,76.930676,fixed,True
+ammanmobileshop2@okaxis,Amman Mobile Shop 1103,Tiruchirappalli,10.828115,78.697034,fixed,True
+ammanpharmacy@okhdfcbank,Amman Pharmacy 1464,Erode,11.333062,77.754185,fixed,True
+praveens39@oksbi,Praveen S39,Bengaluru,12.961352,77.577652,mobile,True
+newcafe2@upi,New Cafe 1226,Bengaluru,12.997625,77.604459,fixed,True
+redrestaurant@okicici,Red Restaurant,Erode,11.314318,77.729847,fixed,True
+divyak66@okhdfcbank,Divya K66,Madurai,9.909843,78.112263,mobile,True
+mohanp95@okhdfcbank,Mohan P95,Erode,11.31433,77.701162,mobile,True
+ammanpharmacy2@okaxis,Amman Pharmacy 1378,Erode,11.357893,77.754672,fixed,True
+bluefruitsvegetables@upi,Blue Fruits & Vegetables,Coimbatore,11.043389,76.967268,fixed,True
+poojap79@upi,Pooja P79,Chennai,13.093382,80.270969,mobile,True
+royalstationery2@okhdfcbank,Royal Stationery 1341,Coimbatore,11.056456,76.988553,fixed,True
+kaverifillingstation@okhdfcbank,Kaveri Filling Station,Erode,11.329937,77.745497,fixed,True
+ajaym91@okicici,Ajay M91,Chennai,13.10993,80.273567,mobile,True
+sreebooksstationery@okhdfcbank,Sree Books & Stationery,Madurai,9.913384,78.07595,fixed,True
+dineshr97@okicici,Dinesh R97,Coimbatore,11.005541,76.970851,mobile,True
+aishwaryap11@okaxis,Aishwarya P11,Tiruppur,11.07283,77.343051,mobile,True
+classichardwarestore@okhdfcbank,Classic Hardware Store 1305,Erode,11.335449,77.743083,fixed,True
+bluecakesmore@oksbi,Blue Cakes & More,Chennai,13.105421,80.245017,fixed,True
+royalelectronics3@upi,Royal Electronics 1431,Salem,11.645827,78.138761,fixed,True
+rahulm25@okhdfcbank,Rahul M25,Tiruchirappalli,10.755641,78.667073,mobile,True
+saifruitsvegetables2@okaxis,Sai Fruits & Vegetables,Trichy,10.825473,78.723382,fixed,True
+starpetrolbunk2@okaxis,Star Petrol Bunk,Tirupur,11.122765,77.366387,fixed,True
+dineshr972@okaxis,Dinesh R97,Madurai,9.946706,78.092684,mobile,True
+starvegetableshop@okicici,Star Vegetable Shop 1086,Chennai,13.058023,80.289788,fixed,True
+xyzvegetableshop@ybl,XYZ Vegetable Shop,Coimbatore,10.96402,76.956022,fixed,True
+suresha24@upi,Suresh A24,Tiruchirappalli,10.786505,78.66652,mobile,True
+ammanelectronics@ybl,Amman Electronics 1045,Salem,11.652594,78.150791,fixed,True
+primefillingstation@okaxis,Prime Filling Station,Trichy,10.818158,78.738836,fixed,True
+kavinr83@paytm,Kavin R83,Madurai,9.895978,78.120811,mobile,True
+royalmess@okhdfcbank,Royal Mess,Madurai,9.930736,78.165335,fixed,True
+sreevegetableshop@okicici,Sree Vegetable Shop,Salem,11.658138,78.164461,fixed,True
+rahulk10@paytm,Rahul K10,Madurai,9.959291,78.136339,mobile,True
+harik34@okhdfcbank,Hari K34,Chennai,13.106429,80.28552,mobile,True
+elitecoffeeshop@paytm,Elite Coffee Shop,Madurai,9.960679,78.156387,fixed,True
+muruganbusstandcounter@okaxis,Murugan Bus Stand Counter,Trichy,10.793719,78.731872,fixed,True
+manojm79@okaxis,Manoj M79,Salem,11.677299,78.14399,mobile,True
+abcteastall@upi,ABC Tea Stall,Trichy,10.81046,78.67584,fixed,True
+ammanmobileshop3@ybl,Amman Mobile Shop 1300,Chennai,13.090454,80.293455,fixed,True
+aishwaryar16@oksbi,Aishwarya R16,Tiruppur,11.11794,77.349131,mobile,True
+dineshr98@ybl,Dinesh R98,Madurai,9.940244,78.104394,mobile,True
+metrofuelstation@oksbi,Metro Fuel Station,Coimbatore,11.071627,76.939102,fixed,True
+sanjays95@paytm,Sanjay S95,Erode,11.302135,77.74892,mobile,True
+priyak47@upi,Priya K47,Bengaluru,12.966588,77.627177,mobile,True
+priyam62@okicici,Priya M62,Madurai,9.899911,78.081648,mobile,True
+nandhinip62@okaxis,Nandhini P62,Chennai,13.069049,80.237818,mobile,True
+srivegetableshop@oksbi,Sri Vegetable Shop 1232,Salem,11.670982,78.119641,fixed,True
+aishwaryar75@oksbi,Aishwarya R75,Bengaluru,12.948339,77.561113,mobile,True
+sanjayk64@okicici,Sanjay K64,Chennai,13.048919,80.292675,mobile,True
+aruna35@okhdfcbank,Arun A35,Tiruchirappalli,10.770853,78.670127,mobile,True
+praveenm85@okhdfcbank,Praveen M85,Salem,11.694904,78.113214,mobile,True
+meenas69@ybl,Meena S69,Madurai,9.918997,78.128851,mobile,True
+ganeshpharmacy@okicici,Ganesh Pharmacy,Coimbatore,11.072044,76.923211,fixed,True
+classictextiles4@oksbi,Classic Textiles 1331,Bengaluru,13.000576,77.561559,fixed,True
+sunsalon@okicici,Sun Salon,Trichy,10.755806,78.688819,fixed,True
+tamilparkingzone@okhdfcbank,Tamil Parking Zone,Erode,11.366941,77.702443,fixed,True
+meenap89@okhdfcbank,Meena P89,Bengaluru,12.992728,77.604628,mobile,True
+lakshmiboutique@okaxis,Lakshmi Boutique,Coimbatore,10.964031,76.927417,fixed,True
+bluesweets@oksbi,Blue Sweets,Chennai,13.038324,80.234049,fixed,True
+ammanclothingstore2@okhdfcbank,Amman Clothing Store 1338,Erode,11.364654,77.709017,fixed,True
+anithap25@okicici,Anitha P25,Coimbatore,11.006802,76.932233,mobile,True
+rohits45@ybl,Rohit S45,Salem,11.672809,78.121562,mobile,True
+mohank82@okicici,Mohan K82,Bengaluru,12.984406,77.60943,mobile,True
+saivehicleparking@okicici,Sai Vehicle Parking,Chennai,13.09316,80.241209,fixed,True
+mohank97@ybl,Mohan K97,Erode,11.375468,77.756958,mobile,True
+kavyaa98@okaxis,Kavya A98,Tiruppur,11.132871,77.308111,mobile,True
+sriteashop@paytm,Sri Tea Shop,Tirupur,11.133786,77.347621,fixed,True
+royalcoffeeshop@okicici,Royal Coffee Shop,Madurai,9.912369,78.108805,fixed,True
+modernmedicals@okaxis,Modern Medicals,Tirupur,11.117423,77.346983,fixed,True
+muruganteacorner@paytm,Murugan Tea Corner,Chennai,13.041429,80.31689,fixed,True
+sreebooksstationery2@oksbi,Sree Books & Stationery,Madurai,9.900052,78.107823,fixed,True
+goldentextiles@upi,Golden Textiles,Salem,11.646431,78.115095,fixed,True
+manojp80@okicici,Manoj P80,Chennai,13.067075,80.290564,mobile,True
+bluesweets2@oksbi,Blue Sweets,Erode,11.330811,77.689474,fixed,True
+vijayk85@paytm,Vijay K85,Erode,11.368241,77.696972,mobile,True
+deepak87@okicici,Deepa K87,Salem,11.671308,78.122002,mobile,True
+praveens96@okicici,Praveen S96,Tiruppur,11.106649,77.311306,mobile,True
+classicgrocerystore2@paytm,Classic Grocery Store 1270,Bengaluru,13.006927,77.608307,fixed,True
+kaverimedicals@oksbi,Kaveri Medicals,Madurai,9.947918,78.111418,fixed,True
+krishnahairstudio@paytm,Krishna Hair Studio,Erode,11.368656,77.7191,fixed,True
+rahulk96@okhdfcbank,Rahul K96,Coimbatore,11.021541,76.939393,mobile,True
+praveenm90@ybl,Praveen M90,Coimbatore,10.981969,76.955131,mobile,True
+ajaym84@okhdfcbank,Ajay M84,Chennai,13.068735,80.279722,mobile,True
+lakshmigrocery@oksbi,Lakshmi Grocery,Tirupur,11.105335,77.316919,fixed,True
+tamilteacorner@okaxis,Tamil Tea Corner,Coimbatore,11.046975,76.972167,fixed,True
+anithak60@oksbi,Anitha K60,Salem,11.625014,78.109359,mobile,True
+ammanmobileshop4@okaxis,Amman Mobile Shop 1323,Madurai,9.904286,78.089156,fixed,True
+smartmobileshop2@oksbi,Smart Mobile Shop 1279,Erode,11.304657,77.746327,fixed,True
+omparking@okhdfcbank,Om Parking,Erode,11.361147,77.705738,fixed,True
+grandelectronics@okaxis,Grand Electronics,Trichy,10.816253,78.683273,fixed,True
+classictextiles5@okicici,Classic Textiles 1057,Chennai,13.050171,80.30686,fixed,True
+modernbusstandcounter@okaxis,Modern Bus Stand Counter,Salem,11.699089,78.14159,fixed,True
+classicfuelstation2@okicici,Classic Fuel Station,Salem,11.627758,78.116491,fixed,True
+kavyaa92@okhdfcbank,Kavya A92,Tiruppur,11.090634,77.329859,mobile,True
+ammanbakery@paytm,Amman Bakery 1117,Tiruppur,11.103994,77.35662,fixed,True
+ammantollplaza@ybl,Amman Toll Plaza,Tirupur,11.078667,77.353738,fixed,True
+lakshmibookstore3@ybl,Lakshmi Book Store 1386,Tiruppur,11.073378,77.323482,fixed,True
+sreehardwarestore2@okhdfcbank,Sree Hardware Store,Madurai,9.908634,78.121622,fixed,True
+smarttextiles2@oksbi,Smart Textiles 1092,Bengaluru,12.95603,77.604282,fixed,True
+mohana79@okicici,Mohan A79,Salem,11.643768,78.119635,mobile,True
+sribakery@okicici,Sri Bakery 1217,Bengaluru,12.944246,77.58785,fixed,True
+anithas40@ybl,Anitha S40,Tiruchirappalli,10.808621,78.743656,mobile,True
+royaljuicecorner@okaxis,Royal Juice Corner,Coimbatore,10.979233,76.992648,fixed,True
+rohitk77@paytm,Rohit K77,Tiruppur,11.12665,77.379115,mobile,True
+swetham21@okhdfcbank,Swetha M21,Coimbatore,11.017867,76.993662,mobile,True
+redpharmacy@okicici,Red Pharmacy,Tirupur,11.131035,77.358826,fixed,True
+ammanclothingstore3@oksbi,Amman Clothing Store 1071,Tiruchirappalli,10.788125,78.724622,fixed,True
+praveena27@okicici,Praveen A27,Salem,11.663218,78.146209,mobile,True
+greentextiles@ybl,Green Textiles,Erode,11.345711,77.701235,fixed,True
+vijayk24@upi,Vijay K24,Madurai,9.957393,78.138902,mobile,True
+shalinia29@ybl,Shalini A29,Madurai,9.904232,78.083092,mobile,True
+moonhardwarestore@paytm,Moon Hardware Store,Chennai,13.052866,80.300059,fixed,True
+ammanvegetableshop2@paytm,Amman Vegetable Shop 1477,Erode,11.304662,77.690332,fixed,True
+divyar66@okaxis,Divya R66,Salem,11.698354,78.109256,mobile,True
+kavinp33@upi,Kavin P33,Bengaluru,12.980564,77.561642,mobile,True
+ganeshcakesmore@paytm,Ganesh Cakes & More,Trichy,10.769633,78.737305,fixed,True
+smartsalon@ybl,Smart Salon 1195,Tiruchirappalli,10.82963,78.708142,fixed,True
+harip56@okicici,Hari P56,Erode,11.308138,77.691535,mobile,True
+royalgrocerystore2@okhdfcbank,Royal Grocery Store 1242,Salem,11.675336,78.110199,fixed,True
+classicstationery@okicici,Classic Stationery 1056,Salem,11.661499,78.141373,fixed,True
+aishwaryas17@okaxis,Aishwarya S17,Erode,11.373086,77.754632,mobile,True
+shalinip27@okhdfcbank,Shalini P27,Tiruppur,11.148155,77.379162,mobile,True
+ajayr72@upi,Ajay R72,Coimbatore,10.986586,76.943692,mobile,True
+deepaa55@upi,Deepa A55,Erode,11.319039,77.711258,mobile,True
+nandhinis32@okhdfcbank,Nandhini S32,Coimbatore,11.056698,76.955132,mobile,True
+modernfuelstation@okaxis,Modern Fuel Station,Madurai,9.918006,78.124294,fixed,True
+ammancafe@ybl,Amman Cafe,Coimbatore,11.051434,76.913568,fixed,True
+ammanelectronics2@okaxis,Amman Electronics 1026,Coimbatore,10.981649,76.974057,fixed,True
+stargrocerystore@okicici,Star Grocery Store 1383,Bengaluru,13.005531,77.589253,fixed,True
+kavyaa40@okhdfcbank,Kavya A40,Tiruchirappalli,10.794718,78.689441,mobile,True
+omcoffeeshop@oksbi,Om Coffee Shop,Tirupur,11.111207,77.312613,fixed,True
+abcbakery@upi,ABC Bakery,Tirupur,11.099945,77.357516,fixed,True
+bharathsweets@upi,Bharath Sweets,Chennai,13.092759,80.329935,fixed,True
+starpetrolstation@upi,Star Petrol Station 1134,Tiruppur,11.139333,77.353494,fixed,True
+kaverivegetableshop@oksbi,Kaveri Vegetable Shop,Erode,11.360135,77.713131,fixed,True
+citygrocery@okaxis,City Grocery,Erode,11.342444,77.744364,fixed,True
+gokula94@upi,Gokul A94,Bengaluru,12.967924,77.631016,mobile,True
+lakshmistationery2@oksbi,Lakshmi Stationery 1371,Salem,11.701195,78.183805,fixed,True
+nandhinip15@upi,Nandhini P15,Chennai,13.059585,80.294043,mobile,True
+xyzcoffeeshop@ybl,XYZ Coffee Shop,Coimbatore,10.958642,76.98377,fixed,True
+classicvegetableshop2@ybl,Classic Vegetable Shop 1335,Madurai,9.951479,78.140718,fixed,True
+divyak33@okicici,Divya K33,Salem,11.664352,78.142639,mobile,True
+ammanteashop3@upi,Amman Tea Shop,Coimbatore,10.96791,76.953106,fixed,True
+deepaa58@okhdfcbank,Deepa A58,Salem,11.656325,78.172087,mobile,True
+eliteparkingzone@oksbi,Elite Parking Zone,Salem,11.677007,78.141743,fixed,True
+superbooksstationery@oksbi,Super Books & Stationery,Tirupur,11.13519,77.344063,fixed,True
+manojr57@paytm,Manoj R57,Bengaluru,12.987912,77.554709,mobile,True
+harinim22@okhdfcbank,Harini M22,Erode,11.357036,77.746432,mobile,True
+ajayk33@oksbi,Ajay K33,Coimbatore,11.044911,76.99039,mobile,True
+greenhardwarestore@ybl,Green Hardware Store,Salem,11.629421,78.161485,fixed,True
+abctoolshardware@upi,ABC Tools & Hardware,Erode,11.33164,77.725788,fixed,True
+kavina28@upi,Kavin A28,Tiruchirappalli,10.82468,78.686335,mobile,True
+kavyaa78@oksbi,Kavya A78,Chennai,13.120595,80.291159,mobile,True
+manojs54@oksbi,Manoj S54,Bengaluru,12.995013,77.625574,mobile,True
+vigneshp78@paytm,Vignesh P78,Erode,11.327675,77.701426,mobile,True
+keerthanam44@okaxis,Keerthana M44,Bengaluru,12.946623,77.556152,mobile,True
+srivegetableshop2@ybl,Sri Vegetable Shop 1455,Salem,11.648389,78.158933,fixed,True
+grandparking@okicici,Grand Parking,Chennai,13.012623,80.264769,fixed,True
+sripetrolbunk@paytm,Sri Petrol Bunk,Trichy,10.751728,78.734604,fixed,True
+deepap64@okicici,Deepa P64,Madurai,9.960351,78.111033,mobile,True
+royalclothingstore@okicici,Royal Clothing Store 1457,Tiruchirappalli,10.779134,78.69748,fixed,True
+grandhairstudio@ybl,Grand Hair Studio,Tirupur,11.079316,77.366617,fixed,True
+rohita60@okaxis,Rohit A60,Tiruppur,11.115386,77.342519,mobile,True
+vigneshr46@okhdfcbank,Vignesh R46,Tiruchirappalli,10.822068,78.672122,mobile,True
+sanjays28@okhdfcbank,Sanjay S28,Tiruppur,11.104236,77.364848,mobile,True
+shalinis63@okicici,Shalini S63,Bengaluru,12.986989,77.571093,mobile,True
+naveenr14@okicici,Naveen R14,Tiruchirappalli,10.808658,78.709797,mobile,True
+starparkingzone@okaxis,Star Parking Zone,Coimbatore,10.969584,76.924446,fixed,True
+manojs90@okicici,Manoj S90,Bengaluru,12.960986,77.5642,mobile,True
+supermedicals@ybl,Super Medicals,Madurai,9.966461,78.091916,fixed,True
+deepam61@oksbi,Deepa M61,Coimbatore,11.01456,76.956812,mobile,True
+ganeshgarments@okicici,Ganesh Garments,Madurai,9.947807,78.124926,fixed,True
+citybakery@okaxis,City Bakery,Trichy,10.808968,78.725602,fixed,True
+omfillingstation@upi,Om Filling Station,Trichy,10.795241,78.686617,fixed,True
+moonteacorner@okaxis,Moon Tea Corner,Tirupur,11.102396,77.367493,fixed,True
+suresha71@okhdfcbank,Suresh A71,Chennai,13.069508,80.279383,mobile,True
+bluekiranastore@okhdfcbank,Blue Kirana Store,Chennai,13.07115,80.330031,fixed,True
+poojaa82@paytm,Pooja A82,Madurai,9.902109,78.083695,mobile,True
+krishnahairstudio2@oksbi,Krishna Hair Studio,Chennai,13.126409,80.316323,fixed,True
+classicrestaurant2@paytm,Classic Restaurant 1164,Erode,11.363329,77.68331,fixed,True
+newbooksstationery@upi,New Books & Stationery,Tirupur,11.09899,77.332859,fixed,True
+poojak83@upi,Pooja K83,Erode,11.311193,77.70227,mobile,True
+snehar49@okicici,Sneha R49,Bengaluru,12.950812,77.619359,mobile,True
+srirestaurant@upi,Sri Restaurant 1099,Chennai,13.122666,80.284483,fixed,True
+smartstationery2@okaxis,Smart Stationery 1447,Tiruppur,11.145726,77.331765,fixed,True
+manojk87@paytm,Manoj K87,Salem,11.630502,78.11597,mobile,True
+elitehairstudio@okaxis,Elite Hair Studio,Salem,11.668886,78.137549,fixed,True
+muruganvehicleparking2@paytm,Murugan Vehicle Parking,Chennai,13.160786,80.336044,fixed,True
+ajayk90@oksbi,Ajay K90,Tiruppur,11.085897,77.325486,mobile,True
+royalpetrolstation@upi,Royal Petrol Station 1293,Madurai,9.930536,78.147755,fixed,True
+krishnacoffeeshop@upi,Krishna Coffee Shop,Tirupur,11.095759,77.355839,fixed,True
+haria84@okicici,Hari A84,Tiruppur,11.105389,77.355123,mobile,True
+starstationery@okaxis,Star Stationery 1406,Coimbatore,11.025385,76.950536,fixed,True
+naveena34@okaxis,Naveen A34,Bengaluru,12.959108,77.573168,mobile,True
+citycoffeeshop@okhdfcbank,City Coffee Shop,Chennai,13.030981,80.309675,fixed,True
+harik97@okaxis,Hari K97,Bengaluru,12.971246,77.595981,mobile,True
+divyam47@ybl,Divya M47,Tiruppur,11.083603,77.306669,mobile,True
+swethap30@okhdfcbank,Swetha P30,Erode,11.306425,77.719837,mobile,True
+bharathelectronics@ybl,Bharath Electronics,Trichy,10.826572,78.698252,fixed,True
+rahula18@upi,Rahul A18,Tiruchirappalli,10.759658,78.678282,mobile,True
+saisalon@paytm,Sai Salon,Tirupur,11.086289,77.315343,fixed,True
+mohank93@paytm,Mohan K93,Tiruchirappalli,10.783873,78.704051,mobile,True
+supercoffeeshop@paytm,Super Coffee Shop,Madurai,9.922423,78.141765,fixed,True
+vijaym67@okhdfcbank,Vijay M67,Tiruppur,11.103142,77.302451,mobile,True
+ganeshfuelstation@oksbi,Ganesh Fuel Station,Salem,11.676403,78.182898,fixed,True
+poojam29@upi,Pooja M29,Bengaluru,12.933185,77.585114,mobile,True
+lakshmipetrolstation2@okhdfcbank,Lakshmi Petrol Station 1421,Bengaluru,12.934597,77.576633,fixed,True
+rahulm80@ybl,Rahul M80,Coimbatore,10.978909,76.947561,mobile,True
+bharathxeroxcenter@upi,Bharath Xerox Center,Erode,11.312933,77.726106,fixed,True
+krishnateacorner@okicici,Krishna Tea Corner,Salem,11.654253,78.182362,fixed,True
+sricafe@okicici,Sri Cafe 1404,Chennai,13.066293,80.256197,fixed,True
+keerthanam25@paytm,Keerthana M25,Salem,11.691349,78.164016,mobile,True
+starcafe@ybl,Star Cafe,Erode,11.318792,77.698978,fixed,True
+harinip18@okaxis,Harini P18,Tiruchirappalli,10.788165,78.674462,mobile,True
+smartbakery3@oksbi,Smart Bakery 1069,Coimbatore,10.987656,76.952736,fixed,True
+lakshmitextiles2@okhdfcbank,Lakshmi Textiles 1024,Salem,11.641439,78.116585,fixed,True
+praveens42@okaxis,Praveen S42,Chennai,13.053446,80.237422,mobile,True
+manoja50@paytm,Manoj A50,Coimbatore,11.007935,76.952502,mobile,True
+omfillingstation2@okhdfcbank,Om Filling Station,Coimbatore,10.972604,76.940526,fixed,True
+naveens85@upi,Naveen S85,Bengaluru,12.992188,77.590596,mobile,True
+abchardwarestore@ybl,ABC Hardware Store,Salem,11.63136,78.166265,fixed,True
+kavyak83@okhdfcbank,Kavya K83,Tiruchirappalli,10.795384,78.674603,mobile,True
+shalinia87@paytm,Shalini A87,Madurai,9.913924,78.087489,mobile,True
+manoja24@ybl,Manoj A24,Bengaluru,12.945165,77.563411,mobile,True
+modernkiranastore@paytm,Modern Kirana Store,Madurai,9.961031,78.100057,fixed,True
+sureshr34@ybl,Suresh R34,Tiruchirappalli,10.772632,78.690232,mobile,True
+anithar66@okaxis,Anitha R66,Tiruchirappalli,10.780074,78.681112,mobile,True
+grandboutique@okaxis,Grand Boutique,Salem,11.625404,78.133389,fixed,True
+deepas35@okaxis,Deepa S35,Chennai,13.07586,80.245251,mobile,True
+kavyam93@okicici,Kavya M93,Bengaluru,12.964724,77.582738,mobile,True
+ammanbeautyparlour@oksbi,Amman Beauty Parlour,Coimbatore,11.017525,77.014167,fixed,True
+newstationery@okicici,New Stationery 1453,Coimbatore,11.0385,76.965651,fixed,True
+goldencoffeeshop@paytm,Golden Coffee Shop,Chennai,13.007432,80.29944,fixed,True
+meenar86@ybl,Meena R86,Tiruppur,11.131911,77.326652,mobile,True
+harinir73@paytm,Harini R73,Bengaluru,12.943394,77.577271,mobile,True
+supercafe@okaxis,Super Cafe,Salem,11.669586,78.165618,fixed,True
+kaverixeroxcenter@ybl,Kaveri Xerox Center,Trichy,10.804011,78.68118,fixed,True
+lakshmijuicecorner@paytm,Lakshmi Juice Corner,Coimbatore,11.044856,76.960861,fixed,True
+sripharmacy2@upi,Sri Pharmacy 1058,Salem,11.627997,78.184715,fixed,True
+shalinik89@okaxis,Shalini K89,Erode,11.363081,77.696303,mobile,True
+rohitk97@okaxis,Rohit K97,Tiruppur,11.108975,77.322126,mobile,True
+saifuelstation@okhdfcbank,Sai Fuel Station,Tirupur,11.109533,77.320041,fixed,True
+nandhinir10@oksbi,Nandhini R10,Tiruppur,11.071114,77.3032,mobile,True
+praveenm98@okicici,Praveen M98,Chennai,13.090318,80.254731,mobile,True
+classicstore@okicici,Classic Store,Madurai,9.911314,78.116717,fixed,True
+newtextiles2@paytm,New Textiles 1487,Madurai,9.896914,78.084763,fixed,True
+priyap57@okicici,Priya P57,Salem,11.67632,78.122803,mobile,True
+deepak66@okicici,Deepa K66,Tiruchirappalli,10.779763,78.685485,mobile,True
+krishnavegetableshop@okaxis,Krishna Vegetable Shop,Trichy,10.787492,78.677055,fixed,True
+nilahardwarestore@okaxis,Nila Hardware Store,Trichy,10.812649,78.664809,fixed,True
+swethaa962@okhdfcbank,Swetha A96,Bengaluru,12.962092,77.614277,mobile,True
+naveenr36@okhdfcbank,Naveen R36,Coimbatore,11.056741,76.944503,mobile,True
+haria78@okaxis,Hari A78,Tiruppur,11.143271,77.359229,mobile,True
+gokulp15@paytm,Gokul P15,Erode,11.330315,77.729054,mobile,True
+rahula44@okicici,Rahul A44,Salem,11.681456,78.151091,mobile,True
+sreefruitsvegetables@paytm,Sree Fruits & Vegetables,Salem,11.686466,78.134809,fixed,True
+krishnasweets@oksbi,Krishna Sweets,Chennai,13.106643,80.206787,fixed,True
+priyar56@oksbi,Priya R56,Bengaluru,12.943419,77.566638,mobile,True
+omstationery@okaxis,Om Stationery,Chennai,13.096035,80.203505,fixed,True
+bharathbusstandcounter@paytm,Bharath Bus Stand Counter,Tirupur,11.11634,77.349028,fixed,True
+nandhinim29@upi,Nandhini M29,Chennai,13.056894,80.302829,mobile,True
+nilachemist@okicici,Nila Chemist,Chennai,13.01461,80.263182,fixed,True
+priyaa87@okhdfcbank,Priya A87,Erode,11.336798,77.687696,mobile,True
+ganeshbakery@okhdfcbank,Ganesh Bakery,Salem,11.646987,78.124974,fixed,True
+bharathmedicals@ybl,Bharath Medicals,Salem,11.665781,78.143746,fixed,True
+rahulp14@okicici,Rahul P14,Tiruppur,11.142955,77.333152,mobile,True
+superchemist@okaxis,Super Chemist,Erode,11.351498,77.704894,fixed,True
+goldencafe@ybl,Golden Cafe,Chennai,13.110148,80.311358,fixed,True
+abcmedicals@oksbi,ABC Medicals,Erode,11.325626,77.706654,fixed,True
+rohitm70@okicici,Rohit M70,Chennai,13.101442,80.254209,mobile,True
+harinir59@okicici,Harini R59,Chennai,13.089177,80.264447,mobile,True
+superboutique@upi,Super Boutique,Chennai,13.118395,80.246698,fixed,True
+kaveribusstandcounter@okaxis,Kaveri Bus Stand Counter,Erode,11.33206,77.712286,fixed,True
+priyak90@paytm,Priya K90,Tiruppur,11.135942,77.351285,mobile,True
+goldentollplaza@okicici,Golden Toll Plaza,Chennai,13.081764,80.191679,fixed,True
+primesalon@ybl,Prime Salon,Erode,11.344897,77.693597,fixed,True
+rohits64@okicici,Rohit S64,Madurai,9.885587,78.099494,mobile,True
+abcfillingstation@ybl,ABC Filling Station,Erode,11.353326,77.720314,fixed,True
+ammanelectronics3@okaxis,Amman Electronics 1015,Coimbatore,11.031337,76.958758,fixed,True
+ganeshgarments2@okicici,Ganesh Garments,Erode,11.326135,77.708043,fixed,True
+classicsalon2@paytm,Classic Salon 1235,Salem,11.70415,78.14427,fixed,True
+snehak26@oksbi,Sneha K26,Salem,11.685909,78.127413,mobile,True
+harim21@okicici,Hari M21,Salem,11.672286,78.167855,mobile,True
+swethak76@paytm,Swetha K76,Tiruchirappalli,10.780606,78.737279,mobile,True
+keerthanaa56@okicici,Keerthana A56,Bengaluru,12.976846,77.624068,mobile,True
+keerthanap32@paytm,Keerthana P32,Chennai,13.089753,80.290378,mobile,True
+sanjayk68@okhdfcbank,Sanjay K68,Erode,11.304031,77.68306,mobile,True
+dinesha10@paytm,Dinesh A10,Madurai,9.892147,78.101875,mobile,True
+balajifruitsvegetables@okaxis,Balaji Fruits & Vegetables,Salem,11.664793,78.12215,fixed,True
+metropetrolbunk@ybl,Metro Petrol Bunk,Salem,11.637262,78.120474,fixed,True
+starmobileshop@okaxis,Star Mobile Shop 1248,Chennai,13.10119,80.282563,fixed,True
+annavehicleparking@okhdfcbank,Anna Vehicle Parking,Erode,11.345517,77.74334,fixed,True
+rohitm48@okicici,Rohit M48,Salem,11.666308,78.120001,mobile,True
+rahulk26@okicici,Rahul K26,Chennai,13.045983,80.308166,mobile,True
+meenar81@okhdfcbank,Meena R81,Bengaluru,12.935858,77.56649,mobile,True
+gokulm10@paytm,Gokul M10,Salem,11.691085,78.143893,mobile,True
+starstationery2@ybl,Star Stationery 1296,Tiruppur,11.122876,77.353954,fixed,True
+vijaym18@oksbi,Vijay M18,Tiruppur,11.144908,77.370356,mobile,True
+abcstationery@upi,ABC Stationery,Coimbatore,10.983846,76.982596,fixed,True
+deepak53@paytm,Deepa K53,Salem,11.677729,78.161583,mobile,True
+newsalon2@okhdfcbank,New Salon 1006,Chennai,13.109052,80.280182,fixed,True
+sripetrolstation@okaxis,Sri Petrol Station 1034,Salem,11.673851,78.139538,fixed,True
+aishwaryak55@okhdfcbank,Aishwarya K55,Chennai,13.065887,80.28557,mobile,True
+smartelectronics@oksbi,Smart Electronics 1054,Tiruchirappalli,10.776595,78.720477,fixed,True
+shalinis67@okicici,Shalini S67,Erode,11.364992,77.752829,mobile,True
+smartmobileshop3@okicici,Smart Mobile Shop 1101,Bengaluru,12.958265,77.608211,fixed,True
+tamilchemist@oksbi,Tamil Chemist,Madurai,9.959257,78.107296,fixed,True
+murugansweets@oksbi,Murugan Sweets,Erode,11.348777,77.702204,fixed,True
+ammangrocery@oksbi,Amman Grocery,Tirupur,11.086796,77.314104,fixed,True
+starclothingstore@okhdfcbank,Star Clothing Store 1379,Tiruchirappalli,10.752987,78.697051,fixed,True
+rahulk80@upi,Rahul K80,Tiruchirappalli,10.808591,78.709429,mobile,True
+aishwaryas30@oksbi,Aishwarya S30,Coimbatore,10.988491,76.952684,mobile,True
+goldensupermarket@ybl,Golden Super Market,Madurai,9.905301,78.089912,fixed,True
+goldenstationery@paytm,Golden Stationery,Tirupur,11.082483,77.347947,fixed,True
+kaveribakery@upi,Kaveri Bakery,Tirupur,11.137824,77.337493,fixed,True
+harinia11@okicici,Harini A11,Chennai,13.079715,80.3056,mobile,True
+sreeparkingzone@ybl,Sree Parking Zone,Coimbatore,11.073088,76.93336,fixed,True
+classicclothingstore2@ybl,Classic Clothing Store 1287,Tiruchirappalli,10.771886,78.696452,fixed,True
+sreedigitalstore@upi,Sree Digital Store,Erode,11.323358,77.727587,fixed,True
+lakshmihairstudio@oksbi,Lakshmi Hair Studio,Coimbatore,10.995885,76.900769,fixed,True
+royaltextiles2@okicici,Royal Textiles 1273,Salem,11.650721,78.112326,fixed,True
+harinip77@okaxis,Harini P77,Bengaluru,12.936715,77.621572,mobile,True
+smarthardwarestore@okicici,Smart Hardware Store 1264,Tiruchirappalli,10.793055,78.730569,fixed,True
+modernchemist@upi,Modern Chemist,Salem,11.665275,78.157141,fixed,True
+bharathpharmacy@upi,Bharath Pharmacy,Madurai,9.949435,78.087686,fixed,True
+muruganstore@upi,Murugan Store,Chennai,13.042196,80.296875,fixed,True
+nandhinik44@okhdfcbank,Nandhini K44,Madurai,9.8978,78.088957,mobile,True
+lakshmisalon@okicici,Lakshmi Salon 1100,Bengaluru,13.004886,77.569119,fixed,True
+swethar36@okhdfcbank,Swetha R36,Chennai,13.042812,80.258497,mobile,True
+primebooksstationery@okicici,Prime Books & Stationery,Coimbatore,11.053452,76.99167,fixed,True
+aishwaryap16@okaxis,Aishwarya P16,Tiruppur,11.076418,77.314167,mobile,True
+aishwaryaa27@ybl,Aishwarya A27,Tiruchirappalli,10.764378,78.712142,mobile,True
+praveenr93@paytm,Praveen R93,Salem,11.648054,78.148833,mobile,True
+vignesha27@oksbi,Vignesh A27,Bengaluru,12.938835,77.609943,mobile,True
+ammanhardwarestore@upi,Amman Hardware Store 1304,Salem,11.635139,78.106541,fixed,True
+primesalon2@okhdfcbank,Prime Salon,Chennai,13.047417,80.34825,fixed,True
+sanjayp46@ybl,Sanjay P46,Erode,11.333784,77.702962,mobile,True
+ganeshsalon@okaxis,Ganesh Salon,Tirupur,11.132282,77.337301,fixed,True
+balajicoffeeshop@okicici,Balaji Coffee Shop,Salem,11.661243,78.166771,fixed,True
+abckiranastore@oksbi,ABC Kirana Store,Tirupur,11.080287,77.343816,fixed,True
+swethas12@oksbi,Swetha S12,Erode,11.370875,77.754768,mobile,True
+ammanvegetableshop3@upi,Amman Vegetable Shop 1430,Tiruchirappalli,10.773306,78.695625,fixed,True
+sanjays56@okhdfcbank,Sanjay S56,Salem,11.64294,78.170886,mobile,True
+sanjaym74@paytm,Sanjay M74,Chennai,13.074443,80.270873,mobile,True
+priyam43@okaxis,Priya M43,Bengaluru,12.982517,77.634321,mobile,True
+lakshmifruitsvegetables@ybl,Lakshmi Fruits & Vegetables,Tirupur,11.088253,77.31199,fixed,True
+aishwaryap64@okicici,Aishwarya P64,Erode,11.34995,77.756544,mobile,True
+stardigitalstore@okaxis,Star Digital Store,Chennai,13.068476,80.21014,fixed,True
+sureshs48@ybl,Suresh S48,Tiruchirappalli,10.765751,78.713023,mobile,True
+kavinr12@paytm,Kavin R12,Tiruppur,11.090088,77.351955,mobile,True
+harip67@paytm,Hari P67,Tiruppur,11.08764,77.315064,mobile,True
+krishnaparkingzone@paytm,Krishna Parking Zone,Erode,11.368984,77.711504,fixed,True
+greenelectronics@okhdfcbank,Green Electronics,Erode,11.333137,77.740038,fixed,True
+royalchemist@paytm,Royal Chemist,Tirupur,11.12495,77.33285,fixed,True
+royalbakery4@upi,Royal Bakery 1352,Tiruppur,11.108467,77.348614,fixed,True
+ammanboutique@okaxis,Amman Boutique,Coimbatore,10.965206,76.89637,fixed,True
+lakshmihardwarestore@oksbi,Lakshmi Hardware Store 1411,Tiruppur,11.14009,77.3223,fixed,True
+kavyar76@okaxis,Kavya R76,Coimbatore,10.987029,76.979546,mobile,True
+harinim86@upi,Harini M86,Erode,11.314777,77.701575,mobile,True
+sreehairstudio@upi,Sree Hair Studio,Trichy,10.792272,78.73068,fixed,True
+naveenp62@oksbi,Naveen P62,Bengaluru,12.938313,77.605464,mobile,True
+tamilsalon@oksbi,Tamil Salon,Madurai,9.887865,78.164108,fixed,True
+abcxeroxcenter@okaxis,ABC Xerox Center,Tirupur,11.113231,77.319736,fixed,True
+ganeshbhavan@okaxis,Ganesh Bhavan,Erode,11.331282,77.694596,fixed,True
+newpharmacy@oksbi,New Pharmacy 1302,Madurai,9.909291,78.11925,fixed,True
+snehas19@paytm,Sneha S19,Coimbatore,11.045737,76.994044,mobile,True
+muruganmedicals@okicici,Murugan Medicals,Tirupur,11.115976,77.370867,fixed,True
+muruganstore2@paytm,Murugan Store,Madurai,9.880438,78.096142,fixed,True
+divyak96@paytm,Divya K96,Tiruppur,11.110264,77.33073,mobile,True
+sreebhavan@okicici,Sree Bhavan,Tirupur,11.081228,77.348679,fixed,True
+lakshmibookstore4@oksbi,Lakshmi Book Store 1128,Tiruchirappalli,10.827891,78.688311,fixed,True
+supercakesmore@upi,Super Cakes & More,Coimbatore,10.96002,76.996873,fixed,True
+naveenm95@oksbi,Naveen M95,Erode,11.311579,77.748578,mobile,True
+deepar88@oksbi,Deepa R88,Salem,11.680987,78.184341,mobile,True
+priyar45@oksbi,Priya R45,Salem,11.626104,78.149073,mobile,True
+abcfuelstation@oksbi,ABC Fuel Station,Madurai,9.917038,78.094997,fixed,True
+dinesha84@oksbi,Dinesh A84,Bengaluru,12.938372,77.597284,mobile,True
+newbookstore2@okaxis,New Book Store 1095,Salem,11.687326,78.156005,fixed,True
+elitebakery@okhdfcbank,Elite Bakery,Madurai,9.87754,78.097167,fixed,True
+xyzfuelstation2@okicici,XYZ Fuel Station,Coimbatore,10.980861,76.9294,fixed,True
+praveenm18@oksbi,Praveen M18,Bengaluru,13.009954,77.570654,mobile,True
+kavinm73@okicici,Kavin M73,Tiruppur,11.082139,77.378678,mobile,True
+rohitm45@upi,Rohit M45,Bengaluru,12.945991,77.565091,mobile,True
+srimess@okhdfcbank,Sri Mess,Trichy,10.816442,78.729064,fixed,True
+balajiparkingzone@ybl,Balaji Parking Zone,Salem,11.661572,78.167374,fixed,True
+harinis17@okicici,Harini S17,Tiruchirappalli,10.792822,78.723444,mobile,True
+anithaa29@upi,Anitha A29,Madurai,9.954705,78.094109,mobile,True
+royalbookstore@oksbi,Royal Book Store 1458,Bengaluru,12.986656,77.593053,fixed,True
+harinir70@ybl,Harini R70,Tiruppur,11.075551,77.322147,mobile,True
+starsweets@upi,Star Sweets,Coimbatore,11.012948,77.00531,fixed,True
+rahulp32@okaxis,Rahul P32,Bengaluru,12.95671,77.572085,mobile,True
+priyas53@oksbi,Priya S53,Chennai,13.106935,80.307237,mobile,True
+newgrocerystore2@ybl,New Grocery Store 1186,Madurai,9.958592,78.117596,fixed,True
+ganeshfruitsvegetables@paytm,Ganesh Fruits & Vegetables,Tirupur,11.122589,77.352451,fixed,True
+classicrestaurant3@upi,Classic Restaurant 1400,Chennai,13.12129,80.244131,fixed,True
+muruganrestaurant@paytm,Murugan Restaurant,Erode,11.328777,77.710117,fixed,True
+eliteparking@ybl,Elite Parking,Trichy,10.751833,78.671239,fixed,True
+ammanpharmacy3@upi,Amman Pharmacy 1074,Erode,11.363223,77.690301,fixed,True
+omstore@okicici,Om Store,Salem,11.694068,78.125979,fixed,True
+ombusstandcounter2@okicici,Om Bus Stand Counter,Chennai,13.132694,80.281381,fixed,True
+sureshr70@ybl,Suresh R70,Salem,11.636678,78.12117,mobile,True
+meenaa26@ybl,Meena A26,Madurai,9.923674,78.095649,mobile,True
+royalstationery3@upi,Royal Stationery,Trichy,10.823608,78.729114,fixed,True
+nilastationery@paytm,Nila Stationery,Coimbatore,11.049657,76.992122,fixed,True
+dineshk83@okhdfcbank,Dinesh K83,Chennai,13.084457,80.297019,mobile,True
+omfruitsvegetables@okhdfcbank,Om Fruits & Vegetables,Madurai,9.908697,78.165176,fixed,True
+starelectronics@ybl,Star Electronics 1055,Tiruppur,11.117741,77.325176,fixed,True
+kavink82@okicici,Kavin K82,Bengaluru,12.987991,77.563653,mobile,True
+lakshmimobileshop3@paytm,Lakshmi Mobile Shop 1238,Bengaluru,12.959504,77.629296,fixed,True
+sreeelectronics@okaxis,Sree Electronics,Trichy,10.764152,78.733873,fixed,True
+meenaa84@okhdfcbank,Meena A84,Tiruchirappalli,10.811004,78.728779,mobile,True
+keerthanar10@okaxis,Keerthana R10,Erode,11.316086,77.747773,mobile,True
+classicgrocerystore3@ybl,Classic Grocery Store 1209,Bengaluru,12.975922,77.584113,fixed,True
+goldenrestaurant@okicici,Golden Restaurant,Erode,11.322156,77.717209,fixed,True
+ajaym23@upi,Ajay M23,Erode,11.346561,77.713323,mobile,True
+tamilmedicals@okicici,Tamil Medicals,Trichy,10.801484,78.717441,fixed,True
+naveena73@oksbi,Naveen A73,Tiruppur,11.078916,77.369607,mobile,True
+newbusstandcounter@paytm,New Bus Stand Counter,Tirupur,11.104114,77.353501,fixed,True
+nandhinia82@paytm,Nandhini A82,Madurai,9.95688,78.135452,mobile,True
+harinis80@paytm,Harini S80,Madurai,9.892743,78.11663,mobile,True
+anitham40@upi,Anitha M40,Tiruchirappalli,10.783367,78.708393,mobile,True
+balajibakery@oksbi,Balaji Bakery,Erode,11.350809,77.701897,fixed,True
+krishnagarments@okicici,Krishna Garments,Erode,11.314221,77.69675,fixed,True
+classicvegetableshop3@okhdfcbank,Classic Vegetable Shop 1135,Coimbatore,10.994182,76.951376,fixed,True
+starpharmacy2@okhdfcbank,Star Pharmacy 1395,Coimbatore,11.038749,76.983518,fixed,True
+swethap25@okaxis,Swetha P25,Coimbatore,11.042794,76.924025,mobile,True
+starbooksstationery@okhdfcbank,Star Books & Stationery,Tirupur,11.128577,77.343975,fixed,True
+classiccafe@okhdfcbank,Classic Cafe 1208,Madurai,9.9259,78.089509,fixed,True
+moderncoffeeshop@okaxis,Modern Coffee Shop,Trichy,10.797327,78.709916,fixed,True
+vigneshr75@ybl,Vignesh R75,Tiruppur,11.131386,77.365168,mobile,True
+lakshmicafe@okaxis,Lakshmi Cafe,Salem,11.690407,78.15757,fixed,True
+classicsalon3@paytm,Classic Salon 1136,Erode,11.305844,77.699271,fixed,True
+bluetollplaza@upi,Blue Toll Plaza,Madurai,9.909943,78.134944,fixed,True
+arunp25@okaxis,Arun P25,Tiruchirappalli,10.826585,78.724815,mobile,True
+blueteapoint@okicici,Blue Tea Point,Madurai,9.894564,78.130314,fixed,True
+royalcoffeeshop2@okaxis,Royal Coffee Shop,Salem,11.680673,78.14903,fixed,True
+grandhardwarestore@oksbi,Grand Hardware Store,Chennai,13.087624,80.230947,fixed,True
+classichardwarestore2@oksbi,Classic Hardware Store 1111,Tiruppur,11.138068,77.379562,fixed,True
+harip25@upi,Hari P25,Madurai,9.903114,78.122485,mobile,True
+nandhinip87@okhdfcbank,Nandhini P87,Tiruchirappalli,10.776989,78.671716,mobile,True
+kavyak99@upi,Kavya K99,Madurai,9.900294,78.14819,mobile,True
+vigneshk28@ybl,Vignesh K28,Tiruchirappalli,10.794271,78.742216,mobile,True
+ganeshpetrolbunk@okicici,Ganesh Petrol Bunk,Chennai,13.082487,80.235918,fixed,True
+srivegetableshop3@okhdfcbank,Sri Vegetable Shop 1438,Tiruppur,11.115142,77.38068,fixed,True
+suntollplaza@okicici,Sun Toll Plaza,Erode,11.319513,77.720996,fixed,True
+muruganbusstandcounter2@upi,Murugan Bus Stand Counter,Coimbatore,11.041307,76.97641,fixed,True
+moonpharmacy@ybl,Moon Pharmacy,Salem,11.631416,78.183677,fixed,True
+priyaa49@upi,Priya A49,Coimbatore,11.023005,76.940771,mobile,True
+lakshmicafe2@okaxis,Lakshmi Cafe 1126,Tiruchirappalli,10.753169,78.693889,fixed,True
+saimart@paytm,Sai Mart,Salem,11.698717,78.16133,fixed,True
+superbooksstationery2@okhdfcbank,Super Books & Stationery,Madurai,9.91506,78.140977,fixed,True
+greentoolshardware@okaxis,Green Tools & Hardware,Erode,11.370054,77.725702,fixed,True
+citymart@okaxis,City Mart,Chennai,13.038436,80.331095,fixed,True
+kaverisupermarket@okicici,Kaveri Super Market,Coimbatore,10.961082,76.995919,fixed,True
+swethak14@paytm,Swetha K14,Tiruppur,11.089815,77.357104,mobile,True
+abccafe@okaxis,ABC Cafe,Chennai,13.157276,80.335587,fixed,True
+royalelectronics4@paytm,Royal Electronics 1390,Salem,11.645622,78.171303,fixed,True
+modernvegetableshop@ybl,Modern Vegetable Shop,Tirupur,11.084823,77.358272,fixed,True
+blueteacorner@upi,Blue Tea Corner,Coimbatore,10.967097,76.954148,fixed,True
+sanjaya76@okaxis,Sanjay A76,Erode,11.363827,77.701203,mobile,True
+abcvegetableshop@upi,ABC Vegetable Shop,Tirupur,11.133261,77.326597,fixed,True
+newhardwarestore2@ybl,New Hardware Store 1377,Tiruchirappalli,10.818699,78.671934,fixed,True
+ammanmobileshop5@paytm,Amman Mobile Shop,Madurai,9.8837,78.081326,fixed,True
+starrestaurant@okhdfcbank,Star Restaurant 1436,Tiruchirappalli,10.791883,78.683924,fixed,True
+kavyam87@okicici,Kavya M87,Erode,11.312058,77.752722,mobile,True
+starbakery@okhdfcbank,Star Bakery,Chennai,13.026908,80.296063,fixed,True
+starcafe2@ybl,Star Cafe 1221,Salem,11.664161,78.147178,fixed,True
+sribakery2@okaxis,Sri Bakery 1408,Salem,11.655732,78.149973,fixed,True
+xyzparking@ybl,XYZ Parking,Erode,11.362975,77.725668,fixed,True
+grandelectronics2@okicici,Grand Electronics,Madurai,9.913572,78.136195,fixed,True
+sritextiles@okhdfcbank,Sri Textiles,Chennai,13.093312,80.329219,fixed,True
+redstore@okicici,Red Store,Madurai,9.923861,78.07414,fixed,True
+ajaym21@okhdfcbank,Ajay M21,Chennai,13.073955,80.245005,mobile,True
+newstationery2@paytm,New Stationery 1303,Tiruchirappalli,10.789239,78.670854,fixed,True
+startextiles@ybl,Star Textiles 1280,Tiruppur,11.084195,77.319501,fixed,True
+aishwaryas36@paytm,Aishwarya S36,Tiruppur,11.076554,77.364735,mobile,True
+shalinik30@upi,Shalini K30,Salem,11.70017,78.182776,mobile,True
+newbusstandcounter2@okhdfcbank,New Bus Stand Counter,Erode,11.321633,77.703079,fixed,True
+lakshmivegetableshop3@okicici,Lakshmi Vegetable Shop 1200,Madurai,9.913324,78.083188,fixed,True
+poojak76@upi,Pooja K76,Salem,11.662126,78.160515,mobile,True
+sanjays46@okicici,Sanjay S46,Bengaluru,13.008097,77.60409,mobile,True
+swethas11@okicici,Swetha S11,Madurai,9.895059,78.080202,mobile,True
+ammangrocerystore@upi,Amman Grocery Store 1002,Coimbatore,10.994291,76.956228,fixed,True
+deepaa99@paytm,Deepa A99,Salem,11.672945,78.136519,mobile,True
+sreeparking@okicici,Sree Parking,Chennai,13.090881,80.287648,fixed,True
+lakshmibookstore5@ybl,Lakshmi Book Store 1291,Salem,11.645988,78.179933,fixed,True
+keerthanaa52@paytm,Keerthana A52,Erode,11.350288,77.710696,mobile,True
+priyam83@ybl,Priya M83,Erode,11.334681,77.754047,mobile,True
+goldenteastall@paytm,Golden Tea Stall,Tirupur,11.114277,77.32191,fixed,True
+stargrocerystore2@okicici,Star Grocery Store 1114,Bengaluru,12.964398,77.606983,fixed,True
+omjuicecorner@paytm,Om Juice Corner,Chennai,13.003508,80.234001,fixed,True
+classicbookstore2@paytm,Classic Book Store 1174,Madurai,9.910019,78.132284,fixed,True
+mooncoffeeshop2@upi,Moon Coffee Shop,Erode,11.332011,77.717,fixed,True
+manojs32@ybl,Manoj S32,Salem,11.701504,78.175241,mobile,True
+tamilsalon2@okhdfcbank,Tamil Salon,Tirupur,11.111084,77.311598,fixed,True
+srivegetableshop4@okicici,Sri Vegetable Shop,Chennai,13.111671,80.196641,fixed,True
+nilatollplaza2@ybl,Nila Toll Plaza,Erode,11.344094,77.734479,fixed,True
+royalvegetableshop2@oksbi,Royal Vegetable Shop,Madurai,9.93766,78.090634,fixed,True
+mohanm12@okhdfcbank,Mohan M12,Bengaluru,12.978418,77.570707,mobile,True
+metrogrocery@upi,Metro Grocery,Trichy,10.782859,78.732408,fixed,True
+elitebakery2@okaxis,Elite Bakery,Coimbatore,10.980446,76.958614,fixed,True
+vijays23@okhdfcbank,Vijay S23,Madurai,9.919286,78.12663,mobile,True
+anithaa10@upi,Anitha A10,Tiruchirappalli,10.755451,78.707548,mobile,True
+royalbookstore2@paytm,Royal Book Store 1399,Erode,11.352172,77.685529,fixed,True
+nandhinim27@ybl,Nandhini M27,Chennai,13.053678,80.295175,mobile,True
+mohans60@upi,Mohan S60,Tiruppur,11.074246,77.35924,mobile,True
+metrobooksstationery@paytm,Metro Books & Stationery,Erode,11.32727,77.746494,fixed,True
+gokula80@okhdfcbank,Gokul A80,Chennai,13.065952,80.236089,mobile,True
+krishnatoolshardware@ybl,Krishna Tools & Hardware,Erode,11.329484,77.702046,fixed,True
+kavyaa16@okaxis,Kavya A16,Madurai,9.916328,78.13067,mobile,True
+harip22@oksbi,Hari P22,Coimbatore,10.99046,76.991521,mobile,True
+newsupermarket@paytm,New Super Market,Coimbatore,11.013979,76.985182,fixed,True
+srivegetableshop5@okhdfcbank,Sri Vegetable Shop 1489,Tiruchirappalli,10.824619,78.695704,fixed,True
+superboutique2@oksbi,Super Boutique,Erode,11.341173,77.717433,fixed,True
+swethas85@oksbi,Swetha S85,Tiruppur,11.146078,77.351258,mobile,True
+anithaa53@ybl,Anitha A53,Bengaluru,12.942093,77.578072,mobile,True
+priyaa18@okaxis,Priya A18,Coimbatore,11.043615,76.926182,mobile,True
+saimess@okaxis,Sai Mess,Salem,11.631703,78.15692,fixed,True
+nilateapoint@okhdfcbank,Nila Tea Point,Coimbatore,11.042897,76.947318,fixed,True
+mooncakesmore2@oksbi,Moon Cakes & More,Salem,11.632974,78.126817,fixed,True
+sureshp20@okhdfcbank,Suresh P20,Chennai,13.055326,80.272009,mobile,True
+citytextiles@oksbi,City Textiles,Tirupur,11.100696,77.367211,fixed,True
+ajayr77@upi,Ajay R77,Salem,11.669902,78.1818,mobile,True
+swethar39@paytm,Swetha R39,Chennai,13.053284,80.233769,mobile,True
+xyztollplaza@upi,XYZ Toll Plaza,Salem,11.653877,78.182999,fixed,True
+bluemedicals@ybl,Blue Medicals,Erode,11.361365,77.701741,fixed,True
+kavericafe@okhdfcbank,Kaveri Cafe,Madurai,9.921386,78.091051,fixed,True
+vigneshr50@okaxis,Vignesh R50,Madurai,9.943366,78.141035,mobile,True
+harinis54@oksbi,Harini S54,Chennai,13.064387,80.27064,mobile,True
+vijayr18@ybl,Vijay R18,Madurai,9.89613,78.088629,mobile,True
+sristationery@oksbi,Sri Stationery 1162,Chennai,13.119996,80.24445,fixed,True
+meenaa38@okhdfcbank,Meena A38,Chennai,13.061515,80.230929,mobile,True
+royalcafe@oksbi,Royal Cafe 1414,Tiruppur,11.112788,77.368364,fixed,True
+praveenr14@okicici,Praveen R14,Salem,11.659665,78.10982,mobile,True
+redteastall@okaxis,Red Tea Stall,Madurai,9.950547,78.087317,fixed,True
+mohanm18@upi,Mohan M18,Erode,11.317659,77.732725,mobile,True
+dinesha66@upi,Dinesh A66,Madurai,9.922863,78.102131,mobile,True
+bharathbusstandcounter2@ybl,Bharath Bus Stand Counter,Trichy,10.761842,78.737422,fixed,True
+nilaxeroxcenter@okicici,Nila Xerox Center,Madurai,9.911335,78.122763,fixed,True
+harinir11@okicici,Harini R11,Chennai,13.104378,80.282252,mobile,True
+snehak46@paytm,Sneha K46,Tiruppur,11.089124,77.301538,mobile,True
+nilahairstudio@okhdfcbank,Nila Hair Studio,Coimbatore,11.028166,76.937933,fixed,True
+goldenfuelstation@paytm,Golden Fuel Station,Coimbatore,10.991953,76.929663,fixed,True
+lakshmiparking@okhdfcbank,Lakshmi Parking,Salem,11.655513,78.175598,fixed,True
+starelectronics2@oksbi,Star Electronics 1243,Chennai,13.043115,80.274728,fixed,True
+rahulp42@okaxis,Rahul P42,Bengaluru,12.933101,77.594416,mobile,True
+classicstationery2@paytm,Classic Stationery,Trichy,10.762294,78.685015,fixed,True
+lakshmisupermarket@oksbi,Lakshmi Super Market,Erode,11.359193,77.718481,fixed,True
+smarthardwarestore2@oksbi,Smart Hardware Store 1205,Madurai,9.958283,78.089221,fixed,True
+sricafe2@ybl,Sri Cafe,Chennai,13.101967,80.29385,fixed,True
+royaltextiles3@paytm,Royal Textiles 1375,Bengaluru,12.937575,77.570817,fixed,True
+ammanmobileshop6@okicici,Amman Mobile Shop 1381,Tiruppur,11.115086,77.321806,fixed,True
+newtextiles3@oksbi,New Textiles,Erode,11.343728,77.704658,fixed,True
+ajaya57@okicici,Ajay A57,Madurai,9.945819,78.148021,mobile,True
+sreeparkingzone2@ybl,Sree Parking Zone,Madurai,9.916163,78.113546,fixed,True
+ammancafe2@oksbi,Amman Cafe 1028,Bengaluru,12.935647,77.634543,fixed,True
+shalinik27@paytm,Shalini K27,Chennai,13.067347,80.26283,mobile,True
+sanjayk45@ybl,Sanjay K45,Tiruppur,11.075037,77.371002,mobile,True
+tamilfruitsvegetables@oksbi,Tamil Fruits & Vegetables,Trichy,10.812379,78.70778,fixed,True
+ajaya34@upi,Ajay A34,Tiruppur,11.124216,77.363051,mobile,True
+royalelectronics5@paytm,Royal Electronics,Erode,11.339332,77.740946,fixed,True
+kaverimedicals2@okaxis,Kaveri Medicals,Coimbatore,11.009039,76.923166,fixed,True
+metrosupermarket@okaxis,Metro Super Market,Chennai,13.114818,80.195639,fixed,True
+vigneshs56@okhdfcbank,Vignesh S56,Tiruchirappalli,10.82594,78.721627,mobile,True
+cityvegetableshop@okicici,City Vegetable Shop,Chennai,13.077879,80.202436,fixed,True
+saielectronics@okhdfcbank,Sai Electronics,Tirupur,11.088625,77.352066,fixed,True
+kaveriparking@ybl,Kaveri Parking,Tirupur,11.089992,77.356036,fixed,True
+bharathtextiles@okicici,Bharath Textiles,Erode,11.320023,77.73935,fixed,True
+newgrocerystore3@okhdfcbank,New Grocery Store 1001,Chennai,13.062291,80.241863,fixed,True
+priyaa12@ybl,Priya A12,Tiruchirappalli,10.783823,78.719292,mobile,True
+sricoffeeshop@ybl,Sri Coffee Shop,Erode,11.344258,77.711562,fixed,True
+bharathcafe@paytm,Bharath Cafe,Coimbatore,11.027146,76.918756,fixed,True
+bharathsweets2@okhdfcbank,Bharath Sweets,Tirupur,11.112979,77.33042,fixed,True
+starsalon@okaxis,Star Salon 1214,Chennai,13.090045,80.277152,fixed,True
+superteashop@paytm,Super Tea Shop,Chennai,13.060678,80.248825,fixed,True
+saijuicecorner@okaxis,Sai Juice Corner,Madurai,9.902965,78.070781,fixed,True
+grandteashop@okaxis,Grand Tea Shop,Trichy,10.763596,78.727169,fixed,True
+classicdhaba@oksbi,Classic Dhaba,Madurai,9.887646,78.099413,fixed,True
+anitham75@oksbi,Anitha M75,Erode,11.325895,77.748018,mobile,True
+manoja85@upi,Manoj A85,Chennai,13.084183,80.245806,mobile,True
+superhardwarestore@okhdfcbank,Super Hardware Store,Coimbatore,10.961823,76.972254,fixed,True
+krishnavehicleparking@okaxis,Krishna Vehicle Parking,Madurai,9.913267,78.15377,fixed,True
+newmess@ybl,New Mess,Coimbatore,10.982194,76.994543,fixed,True
+primepharmacy@upi,Prime Pharmacy,Madurai,9.952602,78.141155,fixed,True
+nandhinik52@oksbi,Nandhini K52,Coimbatore,11.029294,76.991872,mobile,True
+redvehicleparking@oksbi,Red Vehicle Parking,Coimbatore,11.017579,76.914749,fixed,True
+nilavegetableshop@okaxis,Nila Vegetable Shop,Salem,11.632821,78.13392,fixed,True
+kavericafe2@oksbi,Kaveri Cafe,Trichy,10.758623,78.714874,fixed,True
+harinim29@okhdfcbank,Harini M29,Madurai,9.922781,78.091009,mobile,True
+greenbeautyparlour@oksbi,Green Beauty Parlour,Erode,11.354403,77.692257,fixed,True
+goldentextiles2@ybl,Golden Textiles,Trichy,10.82441,78.699783,fixed,True
+royalchemist2@oksbi,Royal Chemist,Madurai,9.910762,78.109927,fixed,True
+starpetrolstation2@ybl,Star Petrol Station 1308,Salem,11.678837,78.150008,fixed,True
+tamilpharmacy2@okaxis,Tamil Pharmacy,Salem,11.633722,78.144362,fixed,True
+harir97@okaxis,Hari R97,Salem,11.66422,78.121973,mobile,True
+bluevehicleparking@okhdfcbank,Blue Vehicle Parking,Trichy,10.815006,78.667562,fixed,True
+goldenbooksstationery@okicici,Golden Books & Stationery,Tirupur,11.131188,77.321889,fixed,True
+kavyap22@upi,Kavya P22,Erode,11.322869,77.722514,mobile,True
+shalinim36@okaxis,Shalini M36,Erode,11.371715,77.752833,mobile,True
+nandhinis93@oksbi,Nandhini S93,Erode,11.304515,77.748037,mobile,True
+gokulr90@upi,Gokul R90,Erode,11.304512,77.679575,mobile,True
+elitecakesmore@okhdfcbank,Elite Cakes & More,Trichy,10.810768,78.691999,fixed,True
+poojap37@okaxis,Pooja P37,Salem,11.668014,78.166028,mobile,True
+xyzelectronics@okhdfcbank,XYZ Electronics,Trichy,10.77944,78.719905,fixed,True
+smartbookstore@upi,Smart Book Store 1405,Madurai,9.898072,78.0858,fixed,True
+goldencafe2@paytm,Golden Cafe,Chennai,13.150684,80.300466,fixed,True
+newsalon3@okaxis,New Salon 1088,Coimbatore,11.032593,76.925902,fixed,True
+greendigitalstore2@okhdfcbank,Green Digital Store,Madurai,9.959157,78.165524,fixed,True
+shalinis43@ybl,Shalini S43,Tiruppur,11.143826,77.37306,mobile,True
+smartclothingstore2@okaxis,Smart Clothing Store 1262,Bengaluru,12.961652,77.609218,fixed,True
+mooncafe@paytm,Moon Cafe,Salem,11.638501,78.139044,fixed,True
+bluecafe@okicici,Blue Cafe,Tirupur,11.125457,77.351924,fixed,True
+grandbhavan@paytm,Grand Bhavan,Tirupur,11.114046,77.351862,fixed,True
+balajifruitsvegetables2@okaxis,Balaji Fruits & Vegetables,Salem,11.644177,78.114724,fixed,True
+manojp15@oksbi,Manoj P15,Bengaluru,13.000558,77.556461,mobile,True
+smartbakery4@okhdfcbank,Smart Bakery 1201,Coimbatore,11.005865,76.979888,fixed,True
+newrestaurant4@oksbi,New Restaurant 1310,Tiruchirappalli,10.803193,78.721919,fixed,True
+classicmobileshop@paytm,Classic Mobile Shop 1227,Tiruppur,11.113127,77.330349,fixed,True
+rohitk45@oksbi,Rohit K45,Bengaluru,13.003961,77.611157,mobile,True
+divyam16@paytm,Divya M16,Madurai,9.887519,78.152063,mobile,True
+sunelectronics@okhdfcbank,Sun Electronics,Salem,11.670335,78.152527,fixed,True
+lakshmicafe3@paytm,Lakshmi Cafe 1272,Madurai,9.958379,78.124791,fixed,True
+classicstationery3@okhdfcbank,Classic Stationery 1260,Coimbatore,11.032831,76.959093,fixed,True
+deepam24@okaxis,Deepa M24,Chennai,13.105232,80.279472,mobile,True
+arunr72@okaxis,Arun R72,Coimbatore,10.98455,76.977699,mobile,True
+swetham44@ybl,Swetha M44,Bengaluru,12.994078,77.629702,mobile,True
+aishwaryar83@okicici,Aishwarya R83,Bengaluru,12.948636,77.631569,mobile,True
+newstationery3@oksbi,New Stationery 1030,Coimbatore,11.050921,76.97861,fixed,True
+metrobusstandcounter@okhdfcbank,Metro Bus Stand Counter,Chennai,13.108739,80.205106,fixed,True
+anithar43@upi,Anitha R43,Madurai,9.9255,78.154226,mobile,True
+meenaa78@paytm,Meena A78,Tiruchirappalli,10.776586,78.666559,mobile,True
+ajayk28@upi,Ajay K28,Bengaluru,12.936718,77.586539,mobile,True
+xyzcoffeeshop2@upi,XYZ Coffee Shop,Trichy,10.828752,78.716604,fixed,True
+elitebakery3@okaxis,Elite Bakery,Chennai,13.057413,80.205275,fixed,True
+kavyak46@paytm,Kavya K46,Chennai,13.055171,80.301193,mobile,True
+mohanr80@okicici,Mohan R80,Salem,11.677087,78.151257,mobile,True
+stardhaba@okaxis,Star Dhaba,Trichy,10.751996,78.69991,fixed,True
+vijayp99@okhdfcbank,Vijay P99,Bengaluru,12.992597,77.597651,mobile,True
+starcafe3@okaxis,Star Cafe 1350,Erode,11.320823,77.72877,fixed,True
+harinir40@okhdfcbank,Harini R40,Chennai,13.076799,80.268066,mobile,True
+goldenchemist@ybl,Golden Chemist,Salem,11.624506,78.123913,fixed,True
+metromedicals@okhdfcbank,Metro Medicals,Chennai,13.161375,80.226175,fixed,True
+rahuls31@okaxis,Rahul S31,Chennai,13.043829,80.272767,mobile,True
+classicmobileshop2@upi,Classic Mobile Shop 1193,Coimbatore,11.041881,76.929807,fixed,True
+goldengarments@paytm,Golden Garments,Madurai,9.942423,78.079364,fixed,True
+nandhinik83@upi,Nandhini K83,Bengaluru,12.940746,77.602286,mobile,True
+krishnamart@oksbi,Krishna Mart,Coimbatore,10.985284,76.948661,fixed,True
+arunr91@okhdfcbank,Arun R91,Tiruppur,11.077376,77.323288,mobile,True
+vijaya60@paytm,Vijay A60,Coimbatore,11.051969,76.978376,mobile,True
+citybusstandcounter@ybl,City Bus Stand Counter,Erode,11.355636,77.747087,fixed,True
+cityteapoint@upi,City Tea Point,Madurai,9.906449,78.129812,fixed,True
+gokulr41@paytm,Gokul R41,Madurai,9.948962,78.084639,mobile,True
+rohitr51@okhdfcbank,Rohit R51,Erode,11.34851,77.679137,mobile,True
+vijayp52@upi,Vijay P52,Chennai,13.116808,80.267406,mobile,True
+sricafe3@paytm,Sri Cafe 1072,Chennai,13.103039,80.306669,fixed,True
+rohitm95@okaxis,Rohit M95,Tiruppur,11.147502,77.342013,mobile,True
+royalpetrolstation2@paytm,Royal Petrol Station 1138,Salem,11.689344,78.12464,fixed,True
+keerthanas76@okicici,Keerthana S76,Erode,11.335862,77.690399,mobile,True
+classicfruitsvegetables@okaxis,Classic Fruits & Vegetables,Salem,11.670234,78.159869,fixed,True
+starfruitsvegetables@upi,Star Fruits & Vegetables,Chennai,13.082408,80.277027,fixed,True
+ammanclothingstore4@okaxis,Amman Clothing Store 1212,Coimbatore,11.018248,76.94013,fixed,True
+ammanclothingstore5@okaxis,Amman Clothing Store 1076,Tiruchirappalli,10.814198,78.709975,fixed,True
+kavinp92@oksbi,Kavin P92,Coimbatore,11.036083,76.935385,mobile,True
+kaveriteashop@okicici,Kaveri Tea Shop,Tirupur,11.120724,77.322904,fixed,True
+mohana78@upi,Mohan A78,Chennai,13.055941,80.290758,mobile,True
+naveenr41@okicici,Naveen R41,Tiruchirappalli,10.785953,78.674813,mobile,True
+ombusstandcounter3@ybl,Om Bus Stand Counter,Erode,11.320384,77.704596,fixed,True
+naveena28@oksbi,Naveen A28,Tiruchirappalli,10.804683,78.737834,mobile,True
+nilapetrolbunk2@okicici,Nila Petrol Bunk,Chennai,13.053226,80.195557,fixed,True
+lakshmisalon2@paytm,Lakshmi Salon 1230,Erode,11.357699,77.701183,fixed,True
+sreetextiles@okicici,Sree Textiles,Tirupur,11.105844,77.349308,fixed,True
+goldenbakery@oksbi,Golden Bakery,Chennai,13.088596,80.250509,fixed,True
+starhardwarestore3@okaxis,Star Hardware Store 1314,Tiruppur,11.096097,77.303065,fixed,True
+kavins31@upi,Kavin S31,Coimbatore,10.999521,76.978935,mobile,True
+aishwaryar60@upi,Aishwarya R60,Salem,11.64878,78.177097,mobile,True
+sreexeroxcenter@oksbi,Sree Xerox Center,Salem,11.699993,78.143617,fixed,True
+priyap51@okaxis,Priya P51,Coimbatore,10.985907,76.942463,mobile,True
+naveens17@paytm,Naveen S17,Chennai,13.086472,80.278883,mobile,True
+aruna85@paytm,Arun A85,Madurai,9.887425,78.136406,mobile,True
+naveenr142@upi,Naveen R14,Salem,11.673515,78.159922,mobile,True
+krishnabusstandcounter@paytm,Krishna Bus Stand Counter,Trichy,10.773732,78.696862,fixed,True
+smartpetrolstation@okaxis,Smart Petrol Station 1178,Madurai,9.89754,78.094268,fixed,True
+omtollplaza@upi,Om Toll Plaza,Salem,11.68979,78.130397,fixed,True
+greenteapoint@okaxis,Green Tea Point,Salem,11.657165,78.129957,fixed,True
+sanjays30@okicici,Sanjay S30,Coimbatore,10.998614,76.949361,mobile,True
+kavina51@paytm,Kavin A51,Chennai,13.098999,80.27241,mobile,True
+modernteapoint@upi,Modern Tea Point,Trichy,10.795875,78.685628,fixed,True
+naveenm87@oksbi,Naveen M87,Erode,11.321773,77.723211,mobile,True
+sureshp90@ybl,Suresh P90,Salem,11.674274,78.180746,mobile,True
+mohana86@oksbi,Mohan A86,Madurai,9.914912,78.086958,mobile,True
+aishwaryaa25@ybl,Aishwarya A25,Salem,11.660028,78.161945,mobile,True
+abcelectronics2@ybl,ABC Electronics,Trichy,10.766139,78.698407,fixed,True
+superstore@okicici,Super Store,Madurai,9.961477,78.115177,fixed,True
+priyap80@oksbi,Priya P80,Bengaluru,12.989401,77.591512,mobile,True
+meenak43@paytm,Meena K43,Salem,11.677606,78.140333,mobile,True
+kaveriboutique@okaxis,Kaveri Boutique,Trichy,10.7702,78.713356,fixed,True
+classicsalon4@paytm,Classic Salon 1160,Salem,11.630066,78.174941,fixed,True
+sunbeautyparlour@okicici,Sun Beauty Parlour,Erode,11.364222,77.721803,fixed,True
+keerthanar46@okaxis,Keerthana R46,Chennai,13.096065,80.241028,mobile,True
+elitesalon@okaxis,Elite Salon,Madurai,9.886504,78.104555,fixed,True
+poojak29@okicici,Pooja K29,Erode,11.327769,77.688222,mobile,True
+aishwaryam77@upi,Aishwarya M77,Salem,11.677872,78.126756,mobile,True
+srisweets@okaxis,Sri Sweets,Chennai,13.134834,80.289771,fixed,True
+anithap46@paytm,Anitha P46,Coimbatore,10.989713,76.958527,mobile,True
+kavyaa162@paytm,Kavya A16,Madurai,9.953742,78.137992,mobile,True
+elitehardwarestore@okaxis,Elite Hardware Store,Trichy,10.777484,78.672546,fixed,True
+newvehicleparking@paytm,New Vehicle Parking,Erode,11.348343,77.688765,fixed,True
+aishwaryaa23@ybl,Aishwarya A23,Tiruppur,11.11125,77.301568,mobile,True
+ganeshfuelstation2@oksbi,Ganesh Fuel Station,Tirupur,11.130317,77.336784,fixed,True
+royaltextiles4@okicici,Royal Textiles,Madurai,9.894637,78.085021,fixed,True
+primexeroxcenter2@paytm,Prime Xerox Center,Chennai,13.005205,80.264057,fixed,True
+grandteashop2@okicici,Grand Tea Shop,Madurai,9.925316,78.146168,fixed,True
+nandhinim77@paytm,Nandhini M77,Tiruchirappalli,10.754427,78.682358,mobile,True
+sureshr84@okicici,Suresh R84,Salem,11.652327,78.128763,mobile,True
+newelectronics2@okhdfcbank,New Electronics 1147,Erode,11.330944,77.689411,fixed,True
+goldenxeroxcenter@okaxis,Golden Xerox Center,Coimbatore,10.966343,76.999397,fixed,True
+vigneshm16@paytm,Vignesh M16,Chennai,13.076817,80.245019,mobile,True
+kavyas74@ybl,Kavya S74,Chennai,13.070849,80.278869,mobile,True
+royalelectronics6@ybl,Royal Electronics 1269,Madurai,9.918285,78.101812,fixed,True
+nandhinip27@ybl,Nandhini P27,Bengaluru,12.971424,77.60941,mobile,True
+vijayr30@paytm,Vijay R30,Tiruchirappalli,10.799387,78.720021,mobile,True
+gokulr42@okhdfcbank,Gokul R42,Salem,11.664785,78.142973,mobile,True
+sripetrolstation2@okicici,Sri Petrol Station 1413,Tiruchirappalli,10.76259,78.720418,fixed,True
+kavinm49@paytm,Kavin M49,Tiruchirappalli,10.808913,78.741577,mobile,True
+praveenr75@okaxis,Praveen R75,Tiruchirappalli,10.79556,78.717751,mobile,True
+kaveribusstandcounter2@okhdfcbank,Kaveri Bus Stand Counter,Chennai,13.142383,80.288435,fixed,True
+superhotel@okaxis,Super Hotel,Madurai,9.965261,78.14833,fixed,True
+lakshmivegetableshop4@okicici,Lakshmi Vegetable Shop 1424,Tiruchirappalli,10.812422,78.690369,fixed,True
+lakshmipharmacy@okhdfcbank,Lakshmi Pharmacy 1038,Tiruchirappalli,10.8172,78.720983,fixed,True
+ammanparking@paytm,Amman Parking,Madurai,9.890591,78.133939,fixed,True
+naveenp73@ybl,Naveen P73,Chennai,13.099702,80.294001,mobile,True
+ammanhardwarestore2@upi,Amman Hardware Store 1107,Chennai,13.094517,80.243018,fixed,True
+bharathfillingstation@oksbi,Bharath Filling Station,Salem,11.685926,78.135734,fixed,True
+elitecoffeeshop2@upi,Elite Coffee Shop,Chennai,13.024399,80.191857,fixed,True
+nilabakery@ybl,Nila Bakery,Madurai,9.951247,78.099293,fixed,True
+lakshmihardwarestore2@oksbi,Lakshmi Hardware Store 1211,Chennai,13.097109,80.258261,fixed,True
+naveenm96@okaxis,Naveen M96,Madurai,9.889913,78.15669,mobile,True
+smarttextiles3@paytm,Smart Textiles 1271,Madurai,9.89991,78.122834,fixed,True
+rohitm89@okhdfcbank,Rohit M89,Bengaluru,12.972793,77.607418,mobile,True
+sunhardwarestore2@ybl,Sun Hardware Store,Chennai,13.056087,80.220909,fixed,True
+classicmobileshop3@okhdfcbank,Classic Mobile Shop 1463,Madurai,9.956762,78.156207,fixed,True
+balajichemist@oksbi,Balaji Chemist,Salem,11.62775,78.121288,fixed,True
+starmobileshop2@paytm,Star Mobile Shop 1412,Tiruppur,11.104162,77.322164,fixed,True
+rahulr27@oksbi,Rahul R27,Coimbatore,11.037366,76.968671,mobile,True
+arunr46@okicici,Arun R46,Madurai,9.928525,78.085026,mobile,True
+smartelectronics2@paytm,Smart Electronics 1384,Tiruppur,11.082325,77.318277,fixed,True
+classicmobileshop4@okhdfcbank,Classic Mobile Shop 1005,Chennai,13.090998,80.29527,fixed,True
+eliteelectronics@oksbi,Elite Electronics,Chennai,13.151767,80.331065,fixed,True
+superhotel2@okhdfcbank,Super Hotel,Chennai,13.07361,80.34587,fixed,True
+deepam46@okaxis,Deepa M46,Madurai,9.949654,78.157429,mobile,True
+priyap34@okicici,Priya P34,Erode,11.337345,77.688924,mobile,True
+balajifillingstation@ybl,Balaji Filling Station,Chennai,13.161449,80.196158,fixed,True
+ammanclothingstore6@okaxis,Amman Clothing Store 1090,Chennai,13.074757,80.236627,fixed,True
+deepaa88@paytm,Deepa A88,Madurai,9.93145,78.12402,mobile,True
+nilateashop@okhdfcbank,Nila Tea Shop,Tirupur,11.102532,77.365463,fixed,True
+anitham82@ybl,Anitha M82,Salem,11.683041,78.163886,mobile,True
+classicgrocerystore4@paytm,Classic Grocery Store 1317,Chennai,13.094538,80.284871,fixed,True
+nandhinik522@upi,Nandhini K52,Coimbatore,10.999543,76.994307,mobile,True
+lakshmirestaurant2@upi,Lakshmi Restaurant 1011,Erode,11.332651,77.750364,fixed,True
+royalmobileshop@okhdfcbank,Royal Mobile Shop,Trichy,10.810206,78.7316,fixed,True
+sureshm71@ybl,Suresh M71,Coimbatore,11.017589,76.96731,mobile,True
+divyas23@paytm,Divya S23,Bengaluru,12.984102,77.589749,mobile,True
+royalpharmacy@okaxis,Royal Pharmacy 1129,Chennai,13.111511,80.288637,fixed,True
+nilateapoint2@paytm,Nila Tea Point,Coimbatore,11.046475,76.935607,fixed,True
+deepap18@okhdfcbank,Deepa P18,Chennai,13.069764,80.262832,mobile,True
+grandbhavan2@okicici,Grand Bhavan,Coimbatore,11.018513,76.935536,fixed,True
+moonsalon@okicici,Moon Salon,Madurai,9.940144,78.08907,fixed,True
+tamilteastall@upi,Tamil Tea Stall,Salem,11.69384,78.175484,fixed,True
+ammanhardwarestore3@upi,Amman Hardware Store,Erode,11.330683,77.687838,fixed,True
+xyzkiranastore@upi,XYZ Kirana Store,Trichy,10.819065,78.669295,fixed,True
+sureshs97@upi,Suresh S97,Erode,11.380956,77.742548,mobile,True
+starbakery2@oksbi,Star Bakery 1299,Madurai,9.919678,78.124359,fixed,True
+kaverihardwarestore@okhdfcbank,Kaveri Hardware Store,Salem,11.63403,78.141369,fixed,True
+nilahardwarestore2@okhdfcbank,Nila Hardware Store,Madurai,9.886643,78.082876,fixed,True
+srifruitsvegetables@upi,Sri Fruits & Vegetables,Coimbatore,11.00358,76.950488,fixed,True
+naveens28@upi,Naveen S28,Chennai,13.108471,80.305742,mobile,True
+manojm80@ybl,Manoj M80,Bengaluru,12.9747,77.594008,mobile,True
+superchemist2@paytm,Super Chemist,Coimbatore,11.004591,76.954271,fixed,True
+sureshr33@ybl,Suresh R33,Tiruppur,11.096709,77.340637,mobile,True
+praveenk70@ybl,Praveen K70,Tiruchirappalli,10.763584,78.702071,mobile,True
+vijaya85@paytm,Vijay A85,Tiruppur,11.118517,77.358042,mobile,True
+nandhinip40@oksbi,Nandhini P40,Tiruppur,11.087579,77.313097,mobile,True
+royaltextiles5@paytm,Royal Textiles 1499,Coimbatore,11.002425,76.922388,fixed,True
+elitetoolshardware@okhdfcbank,Elite Tools & Hardware,Tirupur,11.108883,77.337789,fixed,True
+dineshs69@okhdfcbank,Dinesh S69,Bengaluru,12.976386,77.589491,mobile,True
+moonpetrolbunk@okaxis,Moon Petrol Bunk,Erode,11.355685,77.707696,fixed,True
+ajayr33@okhdfcbank,Ajay R33,Madurai,9.914178,78.137184,mobile,True
+abcfillingstation2@upi,ABC Filling Station,Madurai,9.9667,78.108536,fixed,True
+nilahardwarestore3@okaxis,Nila Hardware Store,Salem,11.689936,78.171662,fixed,True
+redgarments@upi,Red Garments,Salem,11.624404,78.122163,fixed,True
+vijaya51@okaxis,Vijay A51,Salem,11.669352,78.123114,mobile,True
+newpetrolstation@okhdfcbank,New Petrol Station 1152,Coimbatore,10.979116,76.937662,fixed,True
+balajistore@okhdfcbank,Balaji Store,Erode,11.355207,77.702332,fixed,True
+goldenpharmacy@okaxis,Golden Pharmacy,Erode,11.346314,77.712456,fixed,True
+manojr23@okaxis,Manoj R23,Coimbatore,10.992988,76.984567,mobile,True
+shalinik87@ybl,Shalini K87,Madurai,9.899445,78.122238,mobile,True
+classictextiles6@paytm,Classic Textiles 1044,Coimbatore,11.048719,76.97949,fixed,True
+keerthanap49@okhdfcbank,Keerthana P49,Salem,11.664498,78.160787,mobile,True
+dineshr35@okhdfcbank,Dinesh R35,Coimbatore,10.990886,76.936743,mobile,True
+bluebhavan@ybl,Blue Bhavan,Coimbatore,10.988389,77.011214,fixed,True
+kavinp74@ybl,Kavin P74,Chennai,13.050155,80.283451,mobile,True
+modernbeautyparlour@upi,Modern Beauty Parlour,Tirupur,11.126293,77.365872,fixed,True
+primehardwarestore@okaxis,Prime Hardware Store,Coimbatore,10.975481,76.963959,fixed,True
+starbakery3@paytm,Star Bakery 1380,Bengaluru,12.941316,77.559534,fixed,True
+classicbookstore3@okicici,Classic Book Store 1422,Tiruppur,11.123741,77.305043,fixed,True
+royalpetrolstation3@ybl,Royal Petrol Station 1392,Madurai,9.952136,78.144632,fixed,True
+nandhinip26@oksbi,Nandhini P26,Erode,11.329845,77.742003,mobile,True
+kavyak23@okaxis,Kavya K23,Tiruppur,11.147969,77.303438,mobile,True
+ammanboutique2@okaxis,Amman Boutique,Erode,11.366205,77.736765,fixed,True
+priyas45@okhdfcbank,Priya S45,Tiruppur,11.110148,77.358577,mobile,True
+dineshk88@okhdfcbank,Dinesh K88,Chennai,13.067408,80.289733,mobile,True
+lakshmibakery3@okhdfcbank,Lakshmi Bakery 1194,Madurai,9.888159,78.095927,fixed,True
+classicpetrolstation@okaxis,Classic Petrol Station 1190,Coimbatore,10.996045,76.949125,fixed,True
+harinip48@ybl,Harini P48,Bengaluru,12.976342,77.591676,mobile,True
+nandhinir48@okhdfcbank,Nandhini R48,Tiruppur,11.140217,77.351549,mobile,True
+rahulp36@okicici,Rahul P36,Madurai,9.9637,78.098891,mobile,True
+lakshmistationery3@ybl,Lakshmi Stationery 1191,Coimbatore,10.980283,76.946751,fixed,True
+newbooksstationery2@okhdfcbank,New Books & Stationery,Trichy,10.778884,78.72204,fixed,True
+anithaa16@upi,Anitha A16,Tiruppur,11.089505,77.332982,mobile,True
+moonparkingzone@ybl,Moon Parking Zone,Chennai,13.045165,80.260791,fixed,True
+sreebooksstationery3@upi,Sree Books & Stationery,Tirupur,11.08886,77.330283,fixed,True
+citybooksstationery@okicici,City Books & Stationery,Madurai,9.890229,78.1477,fixed,True
+superfruitsvegetables@ybl,Super Fruits & Vegetables,Coimbatore,11.056423,76.978418,fixed,True
+moonmart@ybl,Moon Mart,Chennai,13.028944,80.276375,fixed,True
+nilapharmacy@oksbi,Nila Pharmacy,Chennai,13.061567,80.225336,fixed,True
+rahulm76@okaxis,Rahul M76,Bengaluru,13.000576,77.571915,mobile,True
+starelectronics3@okicici,Star Electronics 1445,Erode,11.326073,77.681841,fixed,True
+dinesha42@ybl,Dinesh A42,Chennai,13.059546,80.262464,mobile,True
+superkiranastore@okaxis,Super Kirana Store,Coimbatore,11.026052,76.943402,fixed,True
+grandmart@upi,Grand Mart,Salem,11.642418,78.120797,fixed,True
+deepap14@okicici,Deepa P14,Erode,11.379726,77.754588,mobile,True
+royalfuelstation@okhdfcbank,Royal Fuel Station,Trichy,10.776689,78.712944,fixed,True
+starvegetableshop2@upi,Star Vegetable Shop 1106,Salem,11.64916,78.107094,fixed,True
+sunkiranastore2@okhdfcbank,Sun Kirana Store,Coimbatore,11.015157,76.999469,fixed,True
+saipetrolbunk@okicici,Sai Petrol Bunk,Erode,11.32315,77.723845,fixed,True
+goldenhairstudio@okhdfcbank,Golden Hair Studio,Erode,11.312465,77.693894,fixed,True
+elitetoolshardware2@okhdfcbank,Elite Tools & Hardware,Chennai,13.158239,80.333301,fixed,True
+kaveribooksstationery@paytm,Kaveri Books & Stationery,Salem,11.644969,78.119785,fixed,True
+poojak39@ybl,Pooja K39,Chennai,13.054755,80.270186,mobile,True
+abcboutique@okhdfcbank,ABC Boutique,Trichy,10.82507,78.742199,fixed,True
+gokuls50@ybl,Gokul S50,Erode,11.368588,77.710187,mobile,True
+bluechemist@ybl,Blue Chemist,Coimbatore,11.074073,76.966629,fixed,True
+royalmobileshop2@okhdfcbank,Royal Mobile Shop 1179,Tiruppur,11.146067,77.349948,fixed,True
+srimobileshop2@okaxis,Sri Mobile Shop 1196,Tiruchirappalli,10.819764,78.691254,fixed,True
+starcafe4@okicici,Star Cafe 1286,Tiruppur,11.077061,77.308805,fixed,True
+lakshmipharmacy2@ybl,Lakshmi Pharmacy 1166,Chennai,13.079816,80.275799,fixed,True
+poojas59@paytm,Pooja S59,Bengaluru,12.956225,77.633602,mobile,True
+murugangrocery@okaxis,Murugan Grocery,Trichy,10.797845,78.733587,fixed,True
+newmobileshop2@okaxis,New Mobile Shop,Trichy,10.816371,78.667525,fixed,True
+praveena64@oksbi,Praveen A64,Madurai,9.956649,78.134773,mobile,True
+meenaa25@okaxis,Meena A25,Bengaluru,12.955437,77.613549,mobile,True
+bharathstationery@oksbi,Bharath Stationery,Erode,11.325503,77.718123,fixed,True
+omfuelstation@ybl,Om Fuel Station,Chennai,13.030834,80.345211,fixed,True
+rohitr47@upi,Rohit R47,Bengaluru,12.943131,77.622865,mobile,True
+sreefashionstore@upi,Sree Fashion Store,Tirupur,11.125298,77.363571,fixed,True
+royalparking@okaxis,Royal Parking,Tirupur,11.112853,77.364957,fixed,True
+sureshr64@okaxis,Suresh R64,Tiruppur,11.085267,77.337098,mobile,True
+elitevegetableshop@oksbi,Elite Vegetable Shop,Coimbatore,11.003763,76.940615,fixed,True
+praveenm13@okhdfcbank,Praveen M13,Erode,11.331561,77.684482,mobile,True
+sureshp59@upi,Suresh P59,Salem,11.69914,78.123441,mobile,True
+lakshmitoolshardware@ybl,Lakshmi Tools & Hardware,Madurai,9.929066,78.128649,fixed,True
+vijays73@oksbi,Vijay S73,Erode,11.338095,77.740514,mobile,True
+supertollplaza@upi,Super Toll Plaza,Madurai,9.941804,78.15287,fixed,True
+kaveristore2@okicici,Kaveri Store,Trichy,10.796577,78.679235,fixed,True
+classicmobileshop5@okicici,Classic Mobile Shop 1388,Bengaluru,12.962671,77.568985,fixed,True
+naveenk60@okaxis,Naveen K60,Chennai,13.10914,80.288706,mobile,True
+manojr48@paytm,Manoj R48,Chennai,13.045658,80.257459,mobile,True
+newsweets@okaxis,New Sweets,Madurai,9.900203,78.079951,fixed,True
+greenfuelstation@okaxis,Green Fuel Station,Madurai,9.91429,78.095131,fixed,True
+newclothingstore@upi,New Clothing Store 1122,Bengaluru,12.947537,77.585375,fixed,True
+tamilparking@okaxis,Tamil Parking,Erode,11.333636,77.691743,fixed,True
+anitham58@paytm,Anitha M58,Salem,11.700195,78.111097,mobile,True
+elitemedicals@ybl,Elite Medicals,Salem,11.688678,78.158087,fixed,True
+gokulr33@okhdfcbank,Gokul R33,Tiruppur,11.072121,77.3344,mobile,True
+ammanhairstudio@okicici,Amman Hair Studio,Erode,11.348627,77.700645,fixed,True
+newmobileshop3@ybl,New Mobile Shop 1339,Tiruchirappalli,10.77752,78.710935,fixed,True
+ganeshrestaurant@okicici,Ganesh Restaurant,Salem,11.640438,78.130141,fixed,True
+ammantoolshardware@oksbi,Amman Tools & Hardware,Chennai,13.108446,80.280253,fixed,True
+praveenr13@ybl,Praveen R13,Bengaluru,12.972792,77.560269,mobile,True
+ommart@okicici,Om Mart,Chennai,13.107321,80.258281,fixed,True
+deepap58@ybl,Deepa P58,Chennai,13.10511,80.30445,mobile,True
+moonvehicleparking@okicici,Moon Vehicle Parking,Coimbatore,11.046454,76.922397,fixed,True
+cityjuicecorner@oksbi,City Juice Corner,Salem,11.696877,78.152922,fixed,True
+nilamart@ybl,Nila Mart,Trichy,10.7642,78.741503,fixed,True
+starvegetableshop3@okicici,Star Vegetable Shop 1481,Madurai,9.94364,78.090071,fixed,True
+manojr92@okicici,Manoj R92,Coimbatore,10.995845,76.973825,mobile,True
+lakshmiclothingstore2@oksbi,Lakshmi Clothing Store 1110,Tiruchirappalli,10.819721,78.700424,fixed,True
+ammansalon2@upi,Amman Salon 1361,Tiruchirappalli,10.771536,78.742704,fixed,True
+deepaa89@upi,Deepa A89,Coimbatore,10.999745,76.922401,mobile,True
+kavericakesmore@okhdfcbank,Kaveri Cakes & More,Salem,11.665088,78.146102,fixed,True
+classicvegetableshop4@paytm,Classic Vegetable Shop 1040,Salem,11.640588,78.156739,fixed,True
+ammanclothingstore7@okicici,Amman Clothing Store 1309,Tiruchirappalli,10.816017,78.728353,fixed,True
+sanjayr11@okhdfcbank,Sanjay R11,Chennai,13.094571,80.24222,mobile,True
+harinia30@okhdfcbank,Harini A30,Coimbatore,11.020635,76.942793,mobile,True
+stargrocerystore3@upi,Star Grocery Store 1113,Bengaluru,12.971783,77.601814,fixed,True
+muruganparkingzone@okicici,Murugan Parking Zone,Erode,11.366049,77.718961,fixed,True
+newvegetableshop@okhdfcbank,New Vegetable Shop 1360,Madurai,9.943835,78.089245,fixed,True
+mohans24@okhdfcbank,Mohan S24,Tiruppur,11.089524,77.358883,mobile,True
+vigneshk17@okaxis,Vignesh K17,Coimbatore,11.006992,76.987007,mobile,True
+starsalon2@okaxis,Star Salon 1105,Tiruchirappalli,10.824714,78.699749,fixed,True
+srielectronics@ybl,Sri Electronics 1387,Salem,11.703452,78.168553,fixed,True
+anithaa92@upi,Anitha A92,Bengaluru,12.938459,77.592111,mobile,True
+starvegetableshop4@oksbi,Star Vegetable Shop 1452,Salem,11.641195,78.107753,fixed,True
+naveens48@okhdfcbank,Naveen S48,Tiruchirappalli,10.789374,78.727996,mobile,True
+poojap13@paytm,Pooja P13,Bengaluru,12.968701,77.56569,mobile,True
+royalgrocerystore3@paytm,Royal Grocery Store 1171,Madurai,9.94181,78.159079,fixed,True
+divyak95@ybl,Divya K95,Bengaluru,12.990473,77.606273,mobile,True
+grandfillingstation@okicici,Grand Filling Station,Erode,11.311788,77.707006,fixed,True
+lakshmiclothingstore3@upi,Lakshmi Clothing Store 1068,Madurai,9.958763,78.158258,fixed,True
+ammansupermarket@ybl,Amman Super Market,Trichy,10.782571,78.709607,fixed,True
+shalinir76@okicici,Shalini R76,Tiruppur,11.147206,77.30424,mobile,True
+primefillingstation2@paytm,Prime Filling Station,Salem,11.651477,78.127529,fixed,True
+superteastall@upi,Super Tea Stall,Salem,11.681546,78.14326,fixed,True
+manojr30@paytm,Manoj R30,Tiruppur,11.134774,77.318747,mobile,True
+redcoffeeshop@paytm,Red Coffee Shop,Madurai,9.931888,78.107097,fixed,True
+dineshp60@upi,Dinesh P60,Salem,11.673601,78.137465,mobile,True
+newpetrolstation2@upi,New Petrol Station 1484,Salem,11.679229,78.179695,fixed,True
+lakshmigrocerystore@okicici,Lakshmi Grocery Store 1362,Erode,11.369749,77.690551,fixed,True
+lakshmitextiles3@ybl,Lakshmi Textiles 1223,Coimbatore,11.024602,76.983228,fixed,True
+sripharmacy3@ybl,Sri Pharmacy 1369,Salem,11.698892,78.107913,fixed,True
+ajayp47@upi,Ajay P47,Madurai,9.911414,78.084061,mobile,True
+ajays70@okicici,Ajay S70,Tiruchirappalli,10.823179,78.672761,mobile,True
+ammanelectronics4@paytm,Amman Electronics 1500,Coimbatore,10.993663,76.966161,fixed,True
+primehairstudio@paytm,Prime Hair Studio,Trichy,10.767269,78.740477,fixed,True
+sreetoolshardware@paytm,Sree Tools & Hardware,Coimbatore,10.962994,76.975237,fixed,True
+sureshp11@okaxis,Suresh P11,Coimbatore,11.043335,76.916757,mobile,True
+rahulr272@okhdfcbank,Rahul R27,Bengaluru,12.992374,77.625991,mobile,True
+grandpetrolbunk@oksbi,Grand Petrol Bunk,Erode,11.339673,77.695225,fixed,True
+dineshm47@oksbi,Dinesh M47,Tiruppur,11.080341,77.327993,mobile,True
+newcafe3@paytm,New Cafe 1420,Chennai,13.112098,80.301111,fixed,True
+smartstationery3@upi,Smart Stationery 1172,Tiruchirappalli,10.812457,78.719012,fixed,True
+sanjayk48@oksbi,Sanjay K48,Bengaluru,12.995688,77.613471,mobile,True
+ammanhardwarestore4@okaxis,Amman Hardware Store 1442,Tiruchirappalli,10.788143,78.734011,fixed,True
+redteacorner2@okhdfcbank,Red Tea Corner,Tirupur,11.101749,77.338694,fixed,True
+sritextiles2@paytm,Sri Textiles,Tirupur,11.129389,77.312362,fixed,True
+srirestaurant2@upi,Sri Restaurant 1363,Chennai,13.046223,80.299734,fixed,True
+rahulr17@paytm,Rahul R17,Tiruchirappalli,10.812552,78.670411,mobile,True
+kavyam71@okicici,Kavya M71,Tiruchirappalli,10.751231,78.699135,mobile,True
+deepap92@ybl,Deepa P92,Chennai,13.073949,80.255366,mobile,True
+krishnaparking2@okaxis,Krishna Parking,Coimbatore,11.052941,76.955291,fixed,True
+bluefillingstation@okicici,Blue Filling Station,Chennai,13.104897,80.206726,fixed,True
+praveena58@ybl,Praveen A58,Chennai,13.104918,80.299892,mobile,True
+starsalon3@okaxis,Star Salon 1318,Madurai,9.911679,78.11391,fixed,True
+vijayr81@okaxis,Vijay R81,Bengaluru,12.98842,77.615019,mobile,True
+rahuls66@ybl,Rahul S66,Tiruppur,11.100109,77.353958,mobile,True
+krishnastore2@paytm,Krishna Store,Chennai,13.044359,80.228477,fixed,True
+arunm91@oksbi,Arun M91,Salem,11.697399,78.10749,mobile,True
+srivegetableshop6@okhdfcbank,Sri Vegetable Shop 1437,Madurai,9.937632,78.159598,fixed,True
+krishnakiranastore@ybl,Krishna Kirana Store,Salem,11.633419,78.12922,fixed,True
+modernmess@ybl,Modern Mess,Coimbatore,11.033352,76.936874,fixed,True
+gokulm13@okaxis,Gokul M13,Chennai,13.080727,80.258815,mobile,True
+snehaa42@okicici,Sneha A42,Erode,11.377932,77.713,mobile,True
+dineshr85@paytm,Dinesh R85,Bengaluru,12.967899,77.58995,mobile,True
+supertoolshardware@upi,Super Tools & Hardware,Erode,11.360809,77.721201,fixed,True
+vigneshs19@upi,Vignesh S19,Chennai,13.083052,80.293061,mobile,True
+metrotextiles@okaxis,Metro Textiles,Coimbatore,10.977945,76.92374,fixed,True
+annafuelstation@oksbi,Anna Fuel Station,Salem,11.699061,78.169618,fixed,True
+sreedigitalstore2@okhdfcbank,Sree Digital Store,Salem,11.663767,78.161327,fixed,True
+haria91@okicici,Hari A91,Salem,11.689648,78.123651,mobile,True
+swethas24@okicici,Swetha S24,Coimbatore,10.990208,76.9477,mobile,True
+starpharmacy3@upi,Star Pharmacy 1229,Bengaluru,12.957837,77.603645,fixed,True
+starjuicecorner@ybl,Star Juice Corner,Chennai,13.158663,80.306406,fixed,True
+newpetrolbunk@upi,New Petrol Bunk,Coimbatore,11.037242,76.930231,fixed,True
+rohitr23@okhdfcbank,Rohit R23,Chennai,13.116315,80.284765,mobile,True
+classiccoffeeshop@okhdfcbank,Classic Coffee Shop,Chennai,13.072128,80.292435,fixed,True
+ammanclothingstore8@okaxis,Amman Clothing Store 1345,Erode,11.380052,77.710985,fixed,True
+ajayk80@paytm,Ajay K80,Tiruchirappalli,10.793978,78.744598,mobile,True
+tamilteacorner2@okicici,Tamil Tea Corner,Tirupur,11.09188,77.351315,fixed,True
+starpharmacy4@ybl,Star Pharmacy 1177,Salem,11.630473,78.173554,fixed,True
+smartbakery5@upi,Smart Bakery 1041,Coimbatore,11.043148,76.919327,fixed,True
+praveenr42@okicici,Praveen R42,Tiruppur,11.13476,77.310857,mobile,True
+ammanbakery2@okhdfcbank,Amman Bakery 1256,Erode,11.305941,77.721012,fixed,True
+gokuls21@upi,Gokul S21,Erode,11.305403,77.728505,mobile,True
+kaverichemist@okicici,Kaveri Chemist,Coimbatore,11.002921,76.957892,fixed,True
+srisalon2@upi,Sri Salon 1245,Salem,11.697358,78.120005,fixed,True
+ajayk40@ybl,Ajay K40,Tiruppur,11.094461,77.314489,mobile,True
+snehar29@okaxis,Sneha R29,Erode,11.346455,77.741132,mobile,True
+lakshmihardwarestore3@oksbi,Lakshmi Hardware Store 1376,Madurai,9.910323,78.089459,fixed,True
+shalinip10@oksbi,Shalini P10,Chennai,13.116639,80.304338,mobile,True
+abcxeroxcenter2@oksbi,ABC Xerox Center,Chennai,13.102946,80.299156,fixed,True
+ammanbakery3@upi,Amman Bakery 1133,Bengaluru,12.950384,77.597604,fixed,True
+snehas87@okicici,Sneha S87,Coimbatore,10.977229,76.956163,mobile,True
+ammancafe3@okaxis,Amman Cafe,Erode,11.354047,77.708152,fixed,True
+smartstationery4@oksbi,Smart Stationery 1353,Madurai,9.914433,78.134435,fixed,True
+aishwaryas31@upi,Aishwarya S31,Bengaluru,12.966054,77.579597,mobile,True
+kaveripharmacy@oksbi,Kaveri Pharmacy,Trichy,10.808458,78.669001,fixed,True
+mohanp57@oksbi,Mohan P57,Chennai,13.068019,80.264603,mobile,True
+grandgrocery@okaxis,Grand Grocery,Madurai,9.918406,78.095952,fixed,True
+nilamedicals@upi,Nila Medicals,Trichy,10.793934,78.692308,fixed,True
+sunjuicecorner@okhdfcbank,Sun Juice Corner,Madurai,9.893261,78.084166,fixed,True
+kavyam17@okicici,Kavya M17,Erode,11.313216,77.734541,mobile,True
+ammanpetrolstation3@paytm,Amman Petrol Station 1233,Coimbatore,10.992063,76.951083,fixed,True
+newpharmacy2@ybl,New Pharmacy 1139,Madurai,9.949081,78.088594,fixed,True
+saimess2@paytm,Sai Mess,Coimbatore,11.014393,76.903629,fixed,True
+meenak86@ybl,Meena K86,Madurai,9.928697,78.149595,mobile,True
+gokulm94@oksbi,Gokul M94,Madurai,9.941082,78.087443,mobile,True
+annaxeroxcenter@ybl,Anna Xerox Center,Erode,11.359733,77.695558,fixed,True
+lakshmiparking2@oksbi,Lakshmi Parking,Trichy,10.825946,78.744532,fixed,True
+classicclothingstore3@oksbi,Classic Clothing Store 1182,Bengaluru,12.975963,77.562807,fixed,True
+deepaa17@okicici,Deepa A17,Erode,11.345642,77.75226,mobile,True
+saicafe@okhdfcbank,Sai Cafe,Chennai,13.129725,80.287306,fixed,True
+rohitp98@oksbi,Rohit P98,Bengaluru,12.988852,77.594183,mobile,True
+moderncoffeeshop2@okaxis,Modern Coffee Shop,Trichy,10.82672,78.681245,fixed,True
+gokulk42@ybl,Gokul K42,Tiruppur,11.143716,77.31256,mobile,True
+smartbakery6@okicici,Smart Bakery 1250,Erode,11.35454,77.691982,fixed,True
+newsweets2@okhdfcbank,New Sweets,Erode,11.324773,77.701013,fixed,True
+arunp15@upi,Arun P15,Madurai,9.952155,78.10771,mobile,True
+rahulr19@ybl,Rahul R19,Tiruppur,11.08812,77.37383,mobile,True
+anithak77@oksbi,Anitha K77,Madurai,9.918514,78.085947,mobile,True
+newmobileshop4@okhdfcbank,New Mobile Shop 1423,Coimbatore,11.001676,76.983228,fixed,True
+harinia73@oksbi,Harini A73,Chennai,13.060659,80.246952,mobile,True
+deepap88@paytm,Deepa P88,Chennai,13.076088,80.303982,mobile,True
+metroteacorner@okhdfcbank,Metro Tea Corner,Erode,11.327725,77.742406,fixed,True
+srivegetableshop7@upi,Sri Vegetable Shop 1023,Chennai,13.061015,80.303134,fixed,True
+elitefruitsvegetables@ybl,Elite Fruits & Vegetables,Salem,11.644875,78.171146,fixed,True
+divyar51@paytm,Divya R51,Salem,11.685438,78.153447,mobile,True
+swethar25@okhdfcbank,Swetha R25,Madurai,9.962035,78.080083,mobile,True
+kaveridhaba2@okicici,Kaveri Dhaba,Erode,11.320986,77.744085,fixed,True
+bluegrocery@okicici,Blue Grocery,Salem,11.656281,78.141669,fixed,True
+nandhinia69@ybl,Nandhini A69,Bengaluru,12.968509,77.561204,mobile,True
+moonsweets@okicici,Moon Sweets,Tirupur,11.108536,77.313291,fixed,True
+aishwaryak48@okicici,Aishwarya K48,Bengaluru,12.983971,77.600773,mobile,True
+harinim47@ybl,Harini M47,Salem,11.638429,78.109146,mobile,True
+bharathchemist@paytm,Bharath Chemist,Erode,11.311383,77.688791,fixed,True
+srivehicleparking@okicici,Sri Vehicle Parking,Madurai,9.969895,78.071192,fixed,True
+citytollplaza@oksbi,City Toll Plaza,Erode,11.345744,77.720493,fixed,True
+sunkiranastore3@okicici,Sun Kirana Store,Salem,11.694311,78.164356,fixed,True
+modernparking@okaxis,Modern Parking,Chennai,13.09366,80.261024,fixed,True
+aishwaryaa87@paytm,Aishwarya A87,Salem,11.670448,78.157989,mobile,True
+balajibeautyparlour@paytm,Balaji Beauty Parlour,Madurai,9.958609,78.128429,fixed,True
+metrofruitsvegetables@paytm,Metro Fruits & Vegetables,Madurai,9.897474,78.132846,fixed,True
+sunvegetableshop@paytm,Sun Vegetable Shop,Erode,11.321585,77.730575,fixed,True
+modernpharmacy@upi,Modern Pharmacy,Chennai,13.151407,80.201723,fixed,True
+goldenchemist2@paytm,Golden Chemist,Trichy,10.810858,78.724939,fixed,True
+classiccafe2@okaxis,Classic Cafe,Salem,11.666475,78.106028,fixed,True
+ganeshelectronics@okhdfcbank,Ganesh Electronics,Coimbatore,11.054384,77.012581,fixed,True
+kavinr23@okaxis,Kavin R23,Coimbatore,11.040244,76.956878,mobile,True
+starpetrolstation3@okicici,Star Petrol Station 1144,Erode,11.306255,77.699201,fixed,True
+snehas62@upi,Sneha S62,Salem,11.683689,78.185059,mobile,True
+classicgrocerystore5@okhdfcbank,Classic Grocery Store 1112,Tiruppur,11.128076,77.357518,fixed,True
+rohits67@okhdfcbank,Rohit S67,Chennai,13.115568,80.236117,mobile,True
+ammanbakery4@ybl,Amman Bakery 1476,Bengaluru,12.992346,77.57234,fixed,True
+lakshmimobileshop4@ybl,Lakshmi Mobile Shop 1488,Coimbatore,10.984998,76.985243,fixed,True
+arunm73@okaxis,Arun M73,Bengaluru,12.97508,77.55506,mobile,True
+aruna852@okicici,Arun A85,Salem,11.663439,78.111039,mobile,True
+poojak57@okicici,Pooja K57,Tiruchirappalli,10.800659,78.693058,mobile,True
+gokulm31@ybl,Gokul M31,Erode,11.318588,77.700813,mobile,True
+snehaa71@okaxis,Sneha A71,Bengaluru,12.99538,77.606252,mobile,True
+poojaa31@paytm,Pooja A31,Salem,11.670521,78.173347,mobile,True
+citytextiles2@okicici,City Textiles,Erode,11.351587,77.723749,fixed,True
+grandmess@upi,Grand Mess,Coimbatore,11.046196,76.995695,fixed,True
+harinis70@ybl,Harini S70,Chennai,13.078688,80.257473,mobile,True
+lakshmibookstore6@paytm,Lakshmi Book Store 1382,Salem,11.689044,78.113358,fixed,True
+xyzfruitsvegetables2@okaxis,XYZ Fruits & Vegetables,Trichy,10.772142,78.66799,fixed,True
+rahulm53@ybl,Rahul M53,Tiruchirappalli,10.763663,78.692642,mobile,True
+rohitm57@okhdfcbank,Rohit M57,Coimbatore,10.999572,76.943908,mobile,True
+smartpetrolstation2@paytm,Smart Petrol Station 1311,Bengaluru,12.974349,77.62848,fixed,True
+balajivehicleparking@ybl,Balaji Vehicle Parking,Chennai,13.064793,80.226473,fixed,True
+kavins21@okicici,Kavin S21,Tiruchirappalli,10.751178,78.693232,mobile,True
+starfuelstation@okicici,Star Fuel Station,Chennai,13.137773,80.344633,fixed,True
+arunr56@okhdfcbank,Arun R56,Madurai,9.891519,78.085965,mobile,True
+saibakery@okicici,Sai Bakery,Coimbatore,10.99704,76.905867,fixed,True
+deepas72@ybl,Deepa S72,Bengaluru,12.968241,77.59998,mobile,True
+royalvegetableshop3@oksbi,Royal Vegetable Shop 1288,Salem,11.648298,78.172245,fixed,True
+poojap88@okicici,Pooja P88,Coimbatore,11.043363,76.931321,mobile,True
+priyak97@ybl,Priya K97,Bengaluru,12.959721,77.61262,mobile,True
+newpharmacy3@okicici,New Pharmacy 1246,Bengaluru,13.001739,77.555341,fixed,True
+abctoolshardware2@okicici,ABC Tools & Hardware,Salem,11.678566,78.120812,fixed,True
+rahula46@okicici,Rahul A46,Bengaluru,12.996268,77.555456,mobile,True
+citymedicals@upi,City Medicals,Erode,11.365379,77.734473,fixed,True
+anithas62@okhdfcbank,Anitha S62,Chennai,13.051442,80.276509,mobile,True
+keerthanar99@paytm,Keerthana R99,Tiruppur,11.104195,77.317511,mobile,True
+sriclothingstore@oksbi,Sri Clothing Store 1010,Salem,11.688704,78.138093,fixed,True
+ammanmobileshop7@okicici,Amman Mobile Shop 1199,Tiruchirappalli,10.756906,78.717574,fixed,True
+saitollplaza@ybl,Sai Toll Plaza,Trichy,10.797499,78.731037,fixed,True
+tamilbusstandcounter@okicici,Tamil Bus Stand Counter,Tirupur,11.084421,77.333811,fixed,True
+sreetextiles2@okicici,Sree Textiles,Coimbatore,11.024814,76.960194,fixed,True
+srisalon3@ybl,Sri Salon 1043,Madurai,9.951968,78.126401,fixed,True
+arunr24@paytm,Arun R24,Coimbatore,11.032483,76.930858,mobile,True
+srifashionstore@okhdfcbank,Sri Fashion Store,Coimbatore,11.031221,76.92572,fixed,True
+krishnateastall@ybl,Krishna Tea Stall,Salem,11.676045,78.116558,fixed,True
+meenak77@oksbi,Meena K77,Salem,11.681565,78.183141,mobile,True
+smartvegetableshop2@oksbi,Smart Vegetable Shop 1357,Tiruchirappalli,10.808897,78.732417,fixed,True
+greentollplaza@okhdfcbank,Green Toll Plaza,Tirupur,11.101335,77.35139,fixed,True
+saiteapoint@oksbi,Sai Tea Point,Erode,11.346001,77.741458,fixed,True
+cityparkingzone@oksbi,City Parking Zone,Salem,11.638891,78.106015,fixed,True
+newdigitalstore@okicici,New Digital Store,Madurai,9.912576,78.134098,fixed,True
+vignesha86@upi,Vignesh A86,Tiruppur,11.094693,77.352699,mobile,True
+superfashionstore@okicici,Super Fashion Store,Madurai,9.944055,78.101953,fixed,True
+gokuls32@okicici,Gokul S32,Tiruchirappalli,10.813102,78.683596,mobile,True
+starvegetableshop5@ybl,Star Vegetable Shop 1165,Erode,11.319902,77.688916,fixed,True
+moonkiranastore@paytm,Moon Kirana Store,Salem,11.65857,78.148776,fixed,True
+sreevegetableshop2@paytm,Sree Vegetable Shop,Tirupur,11.120058,77.334214,fixed,True
+royaltextiles6@okaxis,Royal Textiles 1087,Salem,11.65317,78.130181,fixed,True
+rahulk45@ybl,Rahul K45,Madurai,9.945804,78.093244,mobile,True
+grandcafe@paytm,Grand Cafe,Chennai,13.091379,80.237106,fixed,True
+annavehicleparking2@okicici,Anna Vehicle Parking,Tirupur,11.133537,77.369414,fixed,True
+mohanr30@oksbi,Mohan R30,Coimbatore,10.981122,76.944935,mobile,True
+royalhardwarestore@ybl,Royal Hardware Store 1108,Bengaluru,12.968143,77.566171,fixed,True
+nilagarments@paytm,Nila Garments,Coimbatore,11.007755,76.921688,fixed,True
+saihardwarestore2@oksbi,Sai Hardware Store,Erode,11.358514,77.73293,fixed,True
+lakshmipharmacy3@ybl,Lakshmi Pharmacy 1073,Salem,11.677857,78.151118,fixed,True
+redtoolshardware@paytm,Red Tools & Hardware,Coimbatore,10.972718,76.990836,fixed,True
+praveens49@ybl,Praveen S49,Chennai,13.09278,80.238438,mobile,True
+vigneshs17@oksbi,Vignesh S17,Erode,11.338186,77.709766,mobile,True
+lakshmirestaurant3@okhdfcbank,Lakshmi Restaurant 1003,Tiruppur,11.115641,77.365854,fixed,True
+dineshk51@upi,Dinesh K51,Salem,11.632145,78.16502,mobile,True
+deepap63@upi,Deepa P63,Coimbatore,11.051746,76.940213,mobile,True
+kavina82@okhdfcbank,Kavin A82,Coimbatore,10.999248,76.924689,mobile,True
+kavinr30@paytm,Kavin R30,Tiruchirappalli,10.821104,78.707719,mobile,True
+manojs11@okaxis,Manoj S11,Chennai,13.077164,80.246504,mobile,True
+classicsalon5@paytm,Classic Salon 1204,Madurai,9.917043,78.131765,fixed,True
+aruna58@paytm,Arun A58,Erode,11.358952,77.697256,mobile,True
+nandhinip152@paytm,Nandhini P15,Bengaluru,13.008772,77.608562,mobile,True
+royalbookstore3@oksbi,Royal Book Store 1394,Erode,11.365516,77.704461,fixed,True
+sureshs55@upi,Suresh S55,Chennai,13.043112,80.301916,mobile,True
+naveenk24@paytm,Naveen K24,Chennai,13.069919,80.278076,mobile,True
+snehas48@okicici,Sneha S48,Chennai,13.117606,80.291233,mobile,True
+kavina282@ybl,Kavin A28,Salem,11.634345,78.119894,mobile,True
+balajisalon@paytm,Balaji Salon,Chennai,13.024461,80.235171,fixed,True
+poojar41@okaxis,Pooja R41,Tiruppur,11.082615,77.321018,mobile,True
+ganeshmedicals@okicici,Ganesh Medicals,Madurai,9.875799,78.127716,fixed,True
+harinim20@ybl,Harini M20,Chennai,13.047675,80.301781,mobile,True
+manojr54@upi,Manoj R54,Salem,11.70049,78.18374,mobile,True
+smartbakery7@okicici,Smart Bakery 1419,Tiruppur,11.080471,77.346428,fixed,True
+ammanvegetableshop4@okicici,Amman Vegetable Shop,Erode,11.311315,77.72367,fixed,True
+mohanp45@okicici,Mohan P45,Bengaluru,12.94623,77.615741,mobile,True
+deepap95@ybl,Deepa P95,Tiruppur,11.099479,77.37312,mobile,True
+bluehotel@okhdfcbank,Blue Hotel,Chennai,13.0928,80.348414,fixed,True
+dineshm66@ybl,Dinesh M66,Salem,11.68331,78.108681,mobile,True
+kaverimess@upi,Kaveri Mess,Coimbatore,10.980837,76.998997,fixed,True
+keerthanak16@ybl,Keerthana K16,Tiruppur,11.129869,77.375406,mobile,True
+metrobeautyparlour@upi,Metro Beauty Parlour,Erode,11.320287,77.745959,fixed,True
+rahulp82@paytm,Rahul P82,Coimbatore,11.021899,76.979018,mobile,True
+swethar56@oksbi,Swetha R56,Tiruppur,11.086365,77.362872,mobile,True
+newsalon4@upi,New Salon 1333,Erode,11.348749,77.69067,fixed,True
+primesupermarket@okhdfcbank,Prime Super Market,Trichy,10.771637,78.734037,fixed,True
+muruganelectronics@paytm,Murugan Electronics,Chennai,13.109835,80.260028,fixed,True
+newdigitalstore2@upi,New Digital Store,Coimbatore,10.980284,76.964671,fixed,True
+abcstore@upi,ABC Store,Tirupur,11.117228,77.335211,fixed,True
+moonbeautyparlour@okicici,Moon Beauty Parlour,Erode,11.329383,77.733678,fixed,True
+mohanm36@okhdfcbank,Mohan M36,Erode,11.364652,77.729323,mobile,True
+primevegetableshop@okaxis,Prime Vegetable Shop,Trichy,10.80034,78.73358,fixed,True
+srielectronics2@ybl,Sri Electronics,Salem,11.660436,78.172837,fixed,True
+rohita25@ybl,Rohit A25,Salem,11.692912,78.137078,mobile,True
+royalpetrolstation4@okicici,Royal Petrol Station 1478,Tiruchirappalli,10.765503,78.739117,fixed,True
+manojk89@oksbi,Manoj K89,Tiruppur,11.087149,77.349066,mobile,True
+muruganparkingzone2@paytm,Murugan Parking Zone,Coimbatore,10.968312,76.937617,fixed,True
+tamilcafe@oksbi,Tamil Cafe,Coimbatore,10.976381,76.996696,fixed,True
+classicmobileshop6@upi,Classic Mobile Shop 1321,Madurai,9.900966,78.088916,fixed,True
+shalinip35@upi,Shalini P35,Tiruchirappalli,10.809184,78.71483,mobile,True
+classicelectronics2@okicici,Classic Electronics 1053,Chennai,13.092552,80.283771,fixed,True
+anithak75@okicici,Anitha K75,Bengaluru,12.969851,77.586913,mobile,True
+ammanpetrolstation4@okicici,Amman Petrol Station 1014,Tiruppur,11.099281,77.348771,fixed,True
+lakshmistationery4@oksbi,Lakshmi Stationery 1402,Coimbatore,11.035407,76.993328,fixed,True
+praveenm80@oksbi,Praveen M80,Tiruppur,11.072012,77.314771,mobile,True
+kavina94@paytm,Kavin A94,Tiruchirappalli,10.784044,78.735563,mobile,True
+anithar21@paytm,Anitha R21,Bengaluru,12.939381,77.579431,mobile,True
+royalsalon@upi,Royal Salon,Chennai,13.060072,80.249153,fixed,True
+ammanstore@oksbi,Amman Store,Trichy,10.778146,78.674793,fixed,True
+naveenr26@okicici,Naveen R26,Tiruchirappalli,10.817823,78.706547,mobile,True
+royalmobileshop3@okaxis,Royal Mobile Shop 1348,Bengaluru,12.981846,77.56671,fixed,True
+classichardwarestore3@okaxis,Classic Hardware Store 1008,Tiruchirappalli,10.763512,78.693122,fixed,True
+annafillingstation@okicici,Anna Filling Station,Tirupur,11.133817,77.361415,fixed,True
+startextiles2@upi,Star Textiles 1004,Erode,11.318225,77.73828,fixed,True
+greenelectronics2@ybl,Green Electronics,Madurai,9.919153,78.109548,fixed,True
+royalboutique@paytm,Royal Boutique,Chennai,13.019077,80.31607,fixed,True
+newstationery4@okicici,New Stationery 1492,Coimbatore,11.021328,76.926205,fixed,True
+nilaparkingzone@ybl,Nila Parking Zone,Madurai,9.942638,78.088041,fixed,True
+lakshmistationery5@okicici,Lakshmi Stationery 1234,Salem,11.694125,78.164867,fixed,True
+haria67@paytm,Hari A67,Tiruchirappalli,10.770174,78.743342,mobile,True
+starxeroxcenter@okhdfcbank,Star Xerox Center,Tirupur,11.094686,77.359794,fixed,True
+sreevehicleparking2@okicici,Sree Vehicle Parking,Salem,11.661526,78.122527,fixed,True
+vijayp50@ybl,Vijay P50,Chennai,13.064128,80.282564,mobile,True
+aruna14@okaxis,Arun A14,Tiruchirappalli,10.798161,78.706109,mobile,True
+praveenk95@upi,Praveen K95,Coimbatore,11.030991,76.92808,mobile,True
+keerthanap77@okicici,Keerthana P77,Coimbatore,11.018452,76.951929,mobile,True
+ammanvegetableshop5@ybl,Amman Vegetable Shop 1454,Coimbatore,11.010142,76.94622,fixed,True
+classicgarments@okaxis,Classic Garments,Tirupur,11.102541,77.3593,fixed,True
+modernsalon@oksbi,Modern Salon,Madurai,9.924824,78.161027,fixed,True
+sristationery2@upi,Sri Stationery 1158,Salem,11.624915,78.130114,fixed,True
+harik90@okicici,Hari K90,Tiruchirappalli,10.820794,78.735932,mobile,True
+elitefuelstation@okicici,Elite Fuel Station,Madurai,9.955216,78.078584,fixed,True
+ammanvegetableshop6@okaxis,Amman Vegetable Shop 1462,Tiruppur,11.0761,77.361756,fixed,True
+ganeshvehicleparking@okaxis,Ganesh Vehicle Parking,Madurai,9.877456,78.11597,fixed,True
+shalinip29@paytm,Shalini P29,Salem,11.651509,78.144678,mobile,True
+rohita65@oksbi,Rohit A65,Coimbatore,11.005539,76.985441,mobile,True
+keerthanap37@oksbi,Keerthana P37,Erode,11.323192,77.735528,mobile,True
+lakshmibakery4@okaxis,Lakshmi Bakery 1316,Bengaluru,12.98936,77.590796,fixed,True
+cityparkingzone2@oksbi,City Parking Zone,Chennai,13.065872,80.192634,fixed,True
+abctoolshardware3@upi,ABC Tools & Hardware,Madurai,9.939449,78.125785,fixed,True
+vijaym15@ybl,Vijay M15,Erode,11.328972,77.741683,mobile,True
+royalstationery4@upi,Royal Stationery 1469,Chennai,13.081254,80.283797,fixed,True
+tamilfruitsvegetables2@upi,Tamil Fruits & Vegetables,Tirupur,11.133462,77.321007,fixed,True
+annagrocery2@okaxis,Anna Grocery,Trichy,10.792047,78.706085,fixed,True
+modernsweets@upi,Modern Sweets,Madurai,9.87548,78.153882,fixed,True
+anithaa96@paytm,Anitha A96,Madurai,9.889785,78.120369,mobile,True
+classicvegetableshop5@okhdfcbank,Classic Vegetable Shop 1449,Salem,11.649267,78.114217,fixed,True
+smartsalon2@okaxis,Smart Salon 1285,Coimbatore,10.977748,76.958153,fixed,True
+rohitp70@okicici,Rohit P70,Madurai,9.958872,78.084566,mobile,True
+redparking@ybl,Red Parking,Chennai,13.069731,80.249781,fixed,True
+vijaym73@upi,Vijay M73,Tiruchirappalli,10.753461,78.696674,mobile,True
+starvehicleparking@upi,Star Vehicle Parking,Chennai,13.046516,80.326889,fixed,True
+snehas30@okhdfcbank,Sneha S30,Coimbatore,11.036378,76.959766,mobile,True
+praveenm87@okicici,Praveen M87,Erode,11.313219,77.726957,mobile,True
+lakshmitextiles4@okaxis,Lakshmi Textiles 1183,Madurai,9.957624,78.091588,fixed,True
+divyam74@ybl,Divya M74,Erode,11.353603,77.719912,mobile,True
+priyas86@okhdfcbank,Priya S86,Coimbatore,11.052457,76.981418,mobile,True
+mooncoffeeshop3@upi,Moon Coffee Shop,Madurai,9.902447,78.078474,fixed,True
+lakshmistore@paytm,Lakshmi Store,Chennai,13.091868,80.306291,fixed,True
+xyzcoffeeshop3@okicici,XYZ Coffee Shop,Chennai,13.099038,80.232163,fixed,True
+bharathfillingstation2@oksbi,Bharath Filling Station,Trichy,10.812146,78.681558,fixed,True
+lakshmisalon3@okhdfcbank,Lakshmi Salon 1278,Erode,11.33828,77.741425,fixed,True
+metromess@okicici,Metro Mess,Salem,11.639224,78.183724,fixed,True
+kaveritextiles@okaxis,Kaveri Textiles,Erode,11.346564,77.737364,fixed,True
+priyak69@okaxis,Priya K69,Bengaluru,12.9362,77.555071,mobile,True
+snehap10@paytm,Sneha P10,Tiruppur,11.146915,77.304305,mobile,True
+priyap12@okicici,Priya P12,Madurai,9.933132,78.135536,mobile,True
+lakshmibakery5@upi,Lakshmi Bakery 1121,Madurai,9.960819,78.158812,fixed,True
+vigneshs18@okhdfcbank,Vignesh S18,Tiruppur,11.119193,77.380636,mobile,True
+superfruitsvegetables2@oksbi,Super Fruits & Vegetables,Erode,11.353493,77.710005,fixed,True
+grandsalon@paytm,Grand Salon,Madurai,9.90087,78.098059,fixed,True
+supervehicleparking@okaxis,Super Vehicle Parking,Tirupur,11.097624,77.344734,fixed,True
+sreetoolshardware2@upi,Sree Tools & Hardware,Salem,11.677522,78.146029,fixed,True
+ajayk72@ybl,Ajay K72,Salem,11.6322,78.151681,mobile,True
+nilahardwarestore4@okicici,Nila Hardware Store,Salem,11.642258,78.156356,fixed,True
+harinir13@oksbi,Harini R13,Coimbatore,11.029884,76.98463,mobile,True
+mohanm96@upi,Mohan M96,Chennai,13.043461,80.251986,mobile,True
+lakshmibakery6@upi,Lakshmi Bakery 1472,Salem,11.659835,78.151843,fixed,True
+elitexeroxcenter@upi,Elite Xerox Center,Trichy,10.827806,78.680404,fixed,True
+starpetrolstation4@oksbi,Star Petrol Station 1203,Coimbatore,11.031125,76.991706,fixed,True
+superxeroxcenter@oksbi,Super Xerox Center,Tirupur,11.094396,77.365625,fixed,True
+elitecafe@paytm,Elite Cafe,Madurai,9.926482,78.151215,fixed,True
+kavyap33@okhdfcbank,Kavya P33,Tiruppur,11.133529,77.30268,mobile,True
+snehar64@paytm,Sneha R64,Coimbatore,11.026117,76.923075,mobile,True
+gokulp37@okhdfcbank,Gokul P37,Madurai,9.901275,78.139793,mobile,True
+grandvegetableshop@okaxis,Grand Vegetable Shop,Salem,11.664207,78.178975,fixed,True
+naveens94@oksbi,Naveen S94,Tiruchirappalli,10.775092,78.736914,mobile,True
+royalelectronics7@ybl,Royal Electronics 1007,Coimbatore,11.038645,76.994618,fixed,True
+royalpetrolstation5@okhdfcbank,Royal Petrol Station 1249,Tiruchirappalli,10.76454,78.733192,fixed,True
+dineshm43@upi,Dinesh M43,Erode,11.363791,77.73875,mobile,True
+classicparking@oksbi,Classic Parking,Erode,11.366495,77.720963,fixed,True
+sanjaym28@upi,Sanjay M28,Salem,11.649915,78.108506,mobile,True
+xyzteapoint@upi,XYZ Tea Point,Chennai,13.040727,80.200041,fixed,True
+deepaa882@okicici,Deepa A88,Chennai,13.056095,80.261749,mobile,True
+kavinr99@oksbi,Kavin R99,Madurai,9.886349,78.130413,mobile,True
+citybakery2@okicici,City Bakery,Salem,11.636214,78.120716,fixed,True
+annamobileshop@paytm,Anna Mobile Shop,Madurai,9.913751,78.169746,fixed,True
+sunhotel@paytm,Sun Hotel,Chennai,13.011914,80.232914,fixed,True
+smartpharmacy2@okicici,Smart Pharmacy 1319,Madurai,9.916847,78.138791,fixed,True
+krishnastationery@upi,Krishna Stationery,Trichy,10.818649,78.723575,fixed,True
+classicdhaba2@upi,Classic Dhaba,Madurai,9.881536,78.090113,fixed,True
+sunsalon2@paytm,Sun Salon,Coimbatore,10.980094,77.001982,fixed,True
+sureshr37@upi,Suresh R37,Madurai,9.891458,78.158375,mobile,True
+shalinim23@okhdfcbank,Shalini M23,Chennai,13.057122,80.239368,mobile,True
+bharathvegetableshop@okicici,Bharath Vegetable Shop,Trichy,10.771529,78.705181,fixed,True
+kavyar50@upi,Kavya R50,Tiruppur,11.144936,77.34242,mobile,True
+mohanm11@upi,Mohan M11,Salem,11.692345,78.180461,mobile,True
+deepaa96@paytm,Deepa A96,Tiruppur,11.094439,77.379168,mobile,True
+smartsalon3@okaxis,Smart Salon 1403,Erode,11.309114,77.715559,fixed,True
+manojm96@upi,Manoj M96,Erode,11.364678,77.74118,mobile,True
+aruna27@ybl,Arun A27,Tiruppur,11.12089,77.371901,mobile,True
+harik22@okicici,Hari K22,Coimbatore,10.980969,76.990285,mobile,True
+saibakery2@ybl,Sai Bakery,Madurai,9.950892,78.110975,fixed,True
+starbakery4@oksbi,Star Bakery 1315,Chennai,13.070566,80.258145,fixed,True
+naveenp96@paytm,Naveen P96,Tiruchirappalli,10.82398,78.739634,mobile,True
+ganeshdigitalstore@oksbi,Ganesh Digital Store,Madurai,9.875876,78.144378,fixed,True
+kavyak28@upi,Kavya K28,Tiruchirappalli,10.787695,78.670959,mobile,True
+sanjaym62@oksbi,Sanjay M62,Tiruppur,11.140345,77.377247,mobile,True
+starsalon4@upi,Star Salon 1373,Chennai,13.093677,80.262248,fixed,True
+xyzmedicals@upi,XYZ Medicals,Madurai,9.964342,78.071603,fixed,True
+arunk76@upi,Arun K76,Madurai,9.912711,78.117336,mobile,True
+royalgrocerystore4@upi,Royal Grocery Store 1320,Tiruppur,11.084963,77.361286,fixed,True
+shalinia38@paytm,Shalini A38,Coimbatore,10.999035,76.949405,mobile,True
+arunr30@upi,Arun R30,Tiruppur,11.130859,77.323895,mobile,True
+rohitp81@paytm,Rohit P81,Tiruchirappalli,10.778031,78.697641,mobile,True
+praveenm50@upi,Praveen M50,Madurai,9.920192,78.087766,mobile,True
+sreebakery@upi,Sree Bakery,Tirupur,11.131514,77.332722,fixed,True
+krishnadhaba@okhdfcbank,Krishna Dhaba,Trichy,10.807668,78.725252,fixed,True
+snehar73@okicici,Sneha R73,Tiruppur,11.130129,77.320136,mobile,True
+snehaa41@upi,Sneha A41,Chennai,13.065905,80.26935,mobile,True
+smartbakery8@oksbi,Smart Bakery 1119,Madurai,9.934777,78.099066,fixed,True
+smartclothingstore3@ybl,Smart Clothing Store 1443,Chennai,13.085087,80.263749,fixed,True
+tamilmobileshop@okaxis,Tamil Mobile Shop,Trichy,10.802675,78.734027,fixed,True
+moongarments@okaxis,Moon Garments,Tirupur,11.125252,77.368205,fixed,True
+aruns15@upi,Arun S15,Chennai,13.069363,80.301835,mobile,True
+goldenmedicals@okhdfcbank,Golden Medicals,Tirupur,11.099105,77.364206,fixed,True
+royalvegetableshop4@paytm,Royal Vegetable Shop 1343,Tiruchirappalli,10.784838,78.671996,fixed,True
+grandhardwarestore2@paytm,Grand Hardware Store,Coimbatore,10.96175,76.963824,fixed,True
+shalinim15@okaxis,Shalini M15,Bengaluru,12.960122,77.611322,mobile,True
+bluesalon2@paytm,Blue Salon,Tirupur,11.104331,77.344113,fixed,True
+eliteteapoint@ybl,Elite Tea Point,Coimbatore,11.028116,76.936396,fixed,True
+xyzpharmacy@paytm,XYZ Pharmacy,Madurai,9.935571,78.110271,fixed,True
+superbusstandcounter@ybl,Super Bus Stand Counter,Chennai,13.090472,80.24939,fixed,True
+keerthanak11@oksbi,Keerthana K11,Chennai,13.08609,80.29616,mobile,True
+primesweets@okaxis,Prime Sweets,Tirupur,11.106671,77.368475,fixed,True
+ammanbeautyparlour2@okhdfcbank,Amman Beauty Parlour,Madurai,9.918103,78.070092,fixed,True
+bluevegetableshop@oksbi,Blue Vegetable Shop,Salem,11.67152,78.180554,fixed,True
+cityfashionstore@oksbi,City Fashion Store,Coimbatore,10.995603,76.909487,fixed,True
+kavyam47@paytm,Kavya M47,Madurai,9.901981,78.144149,mobile,True
+sunpetrolbunk@ybl,Sun Petrol Bunk,Trichy,10.779072,78.682641,fixed,True
+moonbusstandcounter@okaxis,Moon Bus Stand Counter,Chennai,13.106269,80.247699,fixed,True
+royalfashionstore@paytm,Royal Fashion Store,Salem,11.661366,78.166003,fixed,True
+aishwaryar49@okhdfcbank,Aishwarya R49,Tiruppur,11.133932,77.354283,mobile,True
+meenak79@okaxis,Meena K79,Salem,11.624565,78.182332,mobile,True
+grandtoolshardware@okicici,Grand Tools & Hardware,Coimbatore,11.068067,76.927478,fixed,True
+bharathpetrolbunk@paytm,Bharath Petrol Bunk,Chennai,13.004958,80.31894,fixed,True
+saigrocery@okaxis,Sai Grocery,Coimbatore,11.001045,76.912764,fixed,True
+greenmart@paytm,Green Mart,Salem,11.644886,78.146763,fixed,True
+lakshmiteapoint2@okhdfcbank,Lakshmi Tea Point,Salem,11.700076,78.178794,fixed,True
+superstore2@paytm,Super Store,Coimbatore,10.996314,76.908777,fixed,True
+praveenm94@ybl,Praveen M94,Coimbatore,10.996667,76.919493,mobile,True
+vijaya96@okicici,Vijay A96,Coimbatore,11.045109,76.94164,mobile,True
+ammanpetrolstation5@ybl,Amman Petrol Station 1434,Tiruppur,11.069088,77.381054,fixed,True
+metrofruitsvegetables2@paytm,Metro Fruits & Vegetables,Madurai,9.875619,78.150216,fixed,True
+starstationery3@okicici,Star Stationery 1324,Tiruppur,11.114484,77.334943,fixed,True
+mohanm74@paytm,Mohan M74,Tiruchirappalli,10.793895,78.729459,mobile,True
+ammanbookstore@okhdfcbank,Amman Book Store 1459,Chennai,13.109519,80.284222,fixed,True
+naveenm86@paytm,Naveen M86,Tiruchirappalli,10.805464,78.731987,mobile,True
+meenas86@ybl,Meena S86,Madurai,9.929428,78.093856,mobile,True
+annapetrolbunk@upi,Anna Petrol Bunk,Tirupur,11.12642,77.326335,fixed,True
+sreevegetableshop3@upi,Sree Vegetable Shop,Tirupur,11.118654,77.337999,fixed,True
+xyzstationery@okicici,XYZ Stationery,Trichy,10.75417,78.723623,fixed,True
+meenas25@paytm,Meena S25,Bengaluru,12.940425,77.565473,mobile,True
+balajisalon2@paytm,Balaji Salon,Chennai,13.065718,80.205747,fixed,True
+bharathteashop@oksbi,Bharath Tea Shop,Trichy,10.817226,78.688597,fixed,True
+bluefuelstation@ybl,Blue Fuel Station,Madurai,9.951442,78.084582,fixed,True
+meenak58@paytm,Meena K58,Tiruppur,11.095112,77.305905,mobile,True
+vijaym28@oksbi,Vijay M28,Erode,11.353429,77.695271,mobile,True
+elitetollplaza@okaxis,Elite Toll Plaza,Salem,11.625087,78.150253,fixed,True
+ammanparking2@upi,Amman Parking,Trichy,10.759923,78.689379,fixed,True
+divyam59@okaxis,Divya M59,Erode,11.319059,77.711182,mobile,True
+newsweets3@oksbi,New Sweets,Coimbatore,11.047248,76.977168,fixed,True
+ammanstationery@okicici,Amman Stationery 1346,Salem,11.682761,78.114194,fixed,True
+moonhairstudio@okaxis,Moon Hair Studio,Trichy,10.824375,78.693627,fixed,True
+vijaym22@okaxis,Vijay M22,Bengaluru,12.984468,77.600078,mobile,True
+abcparkingzone@paytm,ABC Parking Zone,Coimbatore,11.062108,76.959565,fixed,True
+bharathgarments@oksbi,Bharath Garments,Erode,11.330687,77.742407,fixed,True
+starsupermarket@paytm,Star Super Market,Tirupur,11.078847,77.323037,fixed,True
+starpharmacy5@okicici,Star Pharmacy 1064,Chennai,13.061201,80.286216,fixed,True
+superparking2@oksbi,Super Parking,Erode,11.327136,77.743721,fixed,True
+saimobileshop@oksbi,Sai Mobile Shop,Madurai,9.959391,78.156251,fixed,True
+newbhavan2@paytm,New Bhavan,Salem,11.687868,78.183584,fixed,True
+kavyam70@okicici,Kavya M70,Salem,11.700096,78.117498,mobile,True
+ammanbookstore2@paytm,Amman Book Store 1161,Bengaluru,13.000569,77.600661,fixed,True
+deepaa883@okicici,Deepa A88,Tiruppur,11.130713,77.30235,mobile,True
+anithap97@okicici,Anitha P97,Salem,11.693307,78.13072,mobile,True
+praveena72@paytm,Praveen A72,Chennai,13.05421,80.292197,mobile,True
+abcfashionstore@okaxis,ABC Fashion Store,Trichy,10.811048,78.710507,fixed,True
+newtextiles4@oksbi,New Textiles 1374,Salem,11.692373,78.180083,fixed,True
+aruna17@paytm,Arun A17,Tiruchirappalli,10.781695,78.690303,mobile,True
+anithaa22@okaxis,Anitha A22,Salem,11.685338,78.158124,mobile,True
+dineshp97@ybl,Dinesh P97,Madurai,9.945776,78.09103,mobile,True
+lakshmimess@ybl,Lakshmi Mess,Madurai,9.973043,78.152403,fixed,True
+superteapoint@paytm,Super Tea Point,Coimbatore,10.980606,76.906337,fixed,True
+harinik68@ybl,Harini K68,Madurai,9.952028,78.084917,mobile,True
+naveena31@upi,Naveen A31,Coimbatore,10.981614,76.989545,mobile,True
+vigneshr462@upi,Vignesh R46,Coimbatore,10.987494,76.949484,mobile,True
+rahulk71@upi,Rahul K71,Tiruchirappalli,10.763444,78.701443,mobile,True
+greenpharmacy@okicici,Green Pharmacy,Madurai,9.919707,78.126719,fixed,True
+starclothingstore2@paytm,Star Clothing Store 1467,Coimbatore,11.015446,76.95485,fixed,True
+starbakery5@okicici,Star Bakery 1344,Bengaluru,12.979094,77.596156,fixed,True
+manojr19@okaxis,Manoj R19,Bengaluru,12.978407,77.558947,mobile,True
+lakshmirestaurant4@paytm,Lakshmi Restaurant,Salem,11.657127,78.142445,fixed,True
+rahulr67@okhdfcbank,Rahul R67,Bengaluru,13.000984,77.568245,mobile,True
+moonfillingstation2@ybl,Moon Filling Station,Salem,11.6336,78.126364,fixed,True
+goldencakesmore@okaxis,Golden Cakes & More,Madurai,9.951977,78.146308,fixed,True
+aishwaryas362@okaxis,Aishwarya S36,Salem,11.640521,78.125976,mobile,True
+krishnapharmacy2@oksbi,Krishna Pharmacy,Erode,11.363276,77.723492,fixed,True
+aruns56@okicici,Arun S56,Coimbatore,11.000956,76.940357,mobile,True
+sureshk68@upi,Suresh K68,Tiruppur,11.113944,77.373213,mobile,True
+muruganxeroxcenter@ybl,Murugan Xerox Center,Chennai,13.140206,80.337074,fixed,True
+naveenm94@okicici,Naveen M94,Chennai,13.093802,80.304516,mobile,True
+classicbakery2@okhdfcbank,Classic Bakery 1494,Erode,11.343032,77.753759,fixed,True
+priyam92@okaxis,Priya M92,Tiruchirappalli,10.810544,78.683021,mobile,True
+xyzvegetableshop2@paytm,XYZ Vegetable Shop,Madurai,9.953837,78.140761,fixed,True
+dineshk34@paytm,Dinesh K34,Madurai,9.909177,78.14641,mobile,True
+lakshmigrocerystore2@okicici,Lakshmi Grocery Store 1170,Madurai,9.89348,78.15173,fixed,True
+arunr93@oksbi,Arun R93,Bengaluru,12.968413,77.587007,mobile,True
+priyaa16@oksbi,Priya A16,Salem,11.647594,78.137843,mobile,True
+bharathvegetableshop2@oksbi,Bharath Vegetable Shop,Madurai,9.921097,78.15179,fixed,True
+smartbakery9@okaxis,Smart Bakery 1418,Chennai,13.087209,80.274864,fixed,True
+haria54@okicici,Hari A54,Bengaluru,12.982398,77.584054,mobile,True
+citypetrolbunk@okaxis,City Petrol Bunk,Coimbatore,10.984021,76.919405,fixed,True
+classicbookstore4@oksbi,Classic Book Store 1236,Bengaluru,12.975302,77.608669,fixed,True
+meenam17@ybl,Meena M17,Erode,11.364165,77.755485,mobile,True
+krishnamess@paytm,Krishna Mess,Coimbatore,10.992832,76.901619,fixed,True
+metroteastall@oksbi,Metro Tea Stall,Madurai,9.97004,78.09311,fixed,True
+moderncoffeeshop3@okicici,Modern Coffee Shop,Salem,11.686497,78.161614,fixed,True
+nandhinis55@okaxis,Nandhini S55,Chennai,13.120269,80.253137,mobile,True
+newtextiles5@okicici,New Textiles 1498,Tiruppur,11.070476,77.342449,fixed,True
+sunstationery@paytm,Sun Stationery,Erode,11.326108,77.725377,fixed,True
+royalcafe2@okaxis,Royal Cafe 1255,Bengaluru,12.992549,77.609027,fixed,True
+manojp32@ybl,Manoj P32,Tiruppur,11.088431,77.373097,mobile,True
+sanjayr54@upi,Sanjay R54,Coimbatore,11.038191,76.93472,mobile,True
+swethaa41@paytm,Swetha A41,Madurai,9.945457,78.122172,mobile,True
+suresha83@okicici,Suresh A83,Chennai,13.051702,80.263787,mobile,True
+xyztollplaza2@upi,XYZ Toll Plaza,Coimbatore,10.999269,76.94595,fixed,True
+vijayk39@oksbi,Vijay K39,Salem,11.632771,78.131869,mobile,True
+priyaa77@paytm,Priya A77,Tiruchirappalli,10.774773,78.682327,mobile,True
+ganeshcoffeeshop@okhdfcbank,Ganesh Coffee Shop,Chennai,13.130453,80.204895,fixed,True
+kavyap55@okhdfcbank,Kavya P55,Chennai,13.1116,80.299954,mobile,True
+aishwaryam39@oksbi,Aishwarya M39,Salem,11.682167,78.12279,mobile,True
+mohanr99@okaxis,Mohan R99,Bengaluru,12.940746,77.590966,mobile,True
+sanjayr14@ybl,Sanjay R14,Bengaluru,12.962607,77.623785,mobile,True
+omsalon@ybl,Om Salon,Coimbatore,10.959032,76.921058,fixed,True
+redfuelstation@okaxis,Red Fuel Station,Erode,11.345172,77.718125,fixed,True
+divyar46@oksbi,Divya R46,Madurai,9.899814,78.141264,mobile,True
+rahulr76@okicici,Rahul R76,Chennai,13.050798,80.249181,mobile,True
+lakshmisalon4@okaxis,Lakshmi Salon 1027,Salem,11.635515,78.120679,fixed,True
+royalpharmacy2@oksbi,Royal Pharmacy 1031,Bengaluru,12.955337,77.632097,fixed,True
+gokulm74@ybl,Gokul M74,Chennai,13.080313,80.273252,mobile,True
+smartelectronics3@okicici,Smart Electronics 1336,Tiruchirappalli,10.780514,78.670741,fixed,True
+harir98@okicici,Hari R98,Chennai,13.099212,80.304831,mobile,True
+poojam27@okaxis,Pooja M27,Chennai,13.054191,80.254958,mobile,True
+bharathhardwarestore@paytm,Bharath Hardware Store,Chennai,13.013438,80.260673,fixed,True
+omgarments@oksbi,Om Garments,Erode,11.348121,77.736007,fixed,True
+vigneshm11@upi,Vignesh M11,Bengaluru,12.956874,77.619892,mobile,True
+ammanvegetableshop7@ybl,Amman Vegetable Shop 1240,Tiruchirappalli,10.778209,78.70009,fixed,True
+tamildigitalstore@upi,Tamil Digital Store,Chennai,13.075178,80.243953,fixed,True
+muruganchemist@okaxis,Murugan Chemist,Coimbatore,11.043776,76.9162,fixed,True
+ganeshbusstandcounter@oksbi,Ganesh Bus Stand Counter,Chennai,13.106293,80.330782,fixed,True
+royalteapoint@oksbi,Royal Tea Point,Tirupur,11.100661,77.32801,fixed,True
+krishnamart2@upi,Krishna Mart,Erode,11.337225,77.733316,fixed,True
+abcelectronics3@ybl,ABC Electronics,Madurai,9.956904,78.084187,fixed,True
+ganeshxeroxcenter@okhdfcbank,Ganesh Xerox Center,Trichy,10.818887,78.700183,fixed,True
+sribusstandcounter@upi,Sri Bus Stand Counter,Erode,11.349299,77.69798,fixed,True
+kaverisweets@upi,Kaveri Sweets,Trichy,10.789391,78.67263,fixed,True
+vigneshr45@okicici,Vignesh R45,Chennai,13.098467,80.270406,mobile,True
+lakshmitoolshardware2@paytm,Lakshmi Tools & Hardware,Erode,11.351159,77.721393,fixed,True
+ammanelectronics5@oksbi,Amman Electronics,Tirupur,11.099023,77.367096,fixed,True
+lakshmitextiles5@oksbi,Lakshmi Textiles 1281,Erode,11.378321,77.728536,fixed,True
+moonbhavan@okicici,Moon Bhavan,Chennai,13.022592,80.203311,fixed,True
+classicelectronics3@oksbi,Classic Electronics 1050,Tiruppur,11.143639,77.310327,fixed,True
+greenvehicleparking@ybl,Green Vehicle Parking,Chennai,13.070856,80.33288,fixed,True
+shalinik58@okhdfcbank,Shalini K58,Tiruchirappalli,10.7876,78.741228,mobile,True
+sunfruitsvegetables@ybl,Sun Fruits & Vegetables,Trichy,10.81126,78.687897,fixed,True
+sanjaya75@okaxis,Sanjay A75,Tiruchirappalli,10.778931,78.703212,mobile,True
+superhotel3@okaxis,Super Hotel,Salem,11.661174,78.177301,fixed,True
+annajuicecorner@okicici,Anna Juice Corner,Trichy,10.80127,78.693733,fixed,True
+lakshmitextiles6@paytm,Lakshmi Textiles 1080,Chennai,13.062209,80.267877,fixed,True
+krishnapetrolbunk@ybl,Krishna Petrol Bunk,Salem,11.624454,78.17258,fixed,True
+abctollplaza@okaxis,ABC Toll Plaza,Trichy,10.81711,78.711473,fixed,True
+smarthardwarestore3@ybl,Smart Hardware Store 1145,Tiruchirappalli,10.758434,78.720842,fixed,True
+sanjayk26@upi,Sanjay K26,Salem,11.657757,78.162928,mobile,True
+deepam82@upi,Deepa M82,Erode,11.344562,77.696092,mobile,True
+goldenmobileshop@upi,Golden Mobile Shop,Madurai,9.9198,78.116614,fixed,True
+newpetrolstation3@upi,New Petrol Station 1097,Tiruchirappalli,10.785632,78.702196,fixed,True
+naveena68@okaxis,Naveen A68,Erode,11.357025,77.734132,mobile,True
+deepak35@paytm,Deepa K35,Chennai,13.078202,80.232695,mobile,True
+snehar35@okhdfcbank,Sneha R35,Chennai,13.043983,80.232936,mobile,True
+goldenvehicleparking@okicici,Golden Vehicle Parking,Trichy,10.753992,78.678278,fixed,True
+balajirestaurant@okicici,Balaji Restaurant,Tirupur,11.093398,77.358858,fixed,True
+ommedicals@okicici,Om Medicals,Tirupur,11.092533,77.318037,fixed,True
+classicchemist@okaxis,Classic Chemist,Tirupur,11.118394,77.321593,fixed,True
+mohank42@okaxis,Mohan K42,Coimbatore,10.9821,76.969207,mobile,True
+shalinir34@upi,Shalini R34,Salem,11.666904,78.161548,mobile,True
+lakshmihardwarestore4@okaxis,Lakshmi Hardware Store 1429,Erode,11.315207,77.746838,fixed,True
+lakshmistationery6@paytm,Lakshmi Stationery,Salem,11.688591,78.181646,fixed,True
+keerthanam91@paytm,Keerthana M91,Salem,11.697981,78.167047,mobile,True
+metrocakesmore@okaxis,Metro Cakes & More,Madurai,9.937021,78.100119,fixed,True
+lakshmirestaurant5@okhdfcbank,Lakshmi Restaurant 1490,Tiruchirappalli,10.816899,78.737619,fixed,True
+kavyaa62@okhdfcbank,Kavya A62,Salem,11.634917,78.129663,mobile,True
+sriclothingstore2@okicici,Sri Clothing Store 1427,Salem,11.644259,78.142516,fixed,True
+smartpetrolstation3@oksbi,Smart Petrol Station 1075,Tiruchirappalli,10.782232,78.721901,fixed,True
+sanjayk50@okaxis,Sanjay K50,Tiruppur,11.079844,77.310447,mobile,True
+xyzteashop@okhdfcbank,XYZ Tea Shop,Salem,11.645403,78.142556,fixed,True
+divyak14@okicici,Divya K14,Tiruppur,11.13891,77.310631,mobile,True
+ammanchemist2@oksbi,Amman Chemist,Coimbatore,11.070651,76.913366,fixed,True
+sritextiles3@okaxis,Sri Textiles,Coimbatore,11.053012,76.924603,fixed,True
+rahuls51@okaxis,Rahul S51,Erode,11.372802,77.742821,mobile,True
+rohitm58@okicici,Rohit M58,Madurai,9.922857,78.113616,mobile,True
+royalhardwarestore2@upi,Royal Hardware Store,Erode,11.312772,77.697712,fixed,True
+anithap32@okaxis,Anitha P32,Bengaluru,12.991547,77.583415,mobile,True
+rohitr88@okaxis,Rohit R88,Bengaluru,12.973176,77.605149,mobile,True
+mooncakesmore3@oksbi,Moon Cakes & More,Tirupur,11.123459,77.350036,fixed,True
+sanjaya46@okhdfcbank,Sanjay A46,Salem,11.638002,78.13091,mobile,True
+poojaa53@okhdfcbank,Pooja A53,Bengaluru,12.979323,77.560107,mobile,True
+starpharmacy6@upi,Star Pharmacy 1398,Tiruchirappalli,10.808806,78.740603,fixed,True
+keerthanaa25@okaxis,Keerthana A25,Chennai,13.049611,80.279075,mobile,True
+ganeshpharmacy2@upi,Ganesh Pharmacy,Chennai,13.032493,80.319966,fixed,True
+classicbakery3@okaxis,Classic Bakery 1207,Bengaluru,12.985027,77.611363,fixed,True
+harinir44@paytm,Harini R44,Salem,11.698701,78.137838,mobile,True
+royalelectronics8@paytm,Royal Electronics,Madurai,9.900619,78.144165,fixed,True
+superfruitsvegetables3@okhdfcbank,Super Fruits & Vegetables,Madurai,9.879236,78.099168,fixed,True
+supervegetableshop@upi,Super Vegetable Shop,Coimbatore,10.988668,76.900551,fixed,True
+nilapharmacy2@oksbi,Nila Pharmacy,Salem,11.685385,78.168398,fixed,True
+newpharmacy4@paytm,New Pharmacy,Erode,11.334229,77.722718,fixed,True
+ammanclothingstore9@okhdfcbank,Amman Clothing Store 1474,Coimbatore,11.040143,76.992854,fixed,True
+ganeshkiranastore@paytm,Ganesh Kirana Store,Erode,11.369256,77.723127,fixed,True
+classicmobileshop7@oksbi,Classic Mobile Shop,Coimbatore,11.027862,76.926202,fixed,True
+greenvehicleparking2@oksbi,Green Vehicle Parking,Madurai,9.898338,78.159571,fixed,True
+sureshr97@oksbi,Suresh R97,Chennai,13.060345,80.301283,mobile,True
+aruna70@okhdfcbank,Arun A70,Coimbatore,11.055661,76.946019,mobile,True
+rahulr23@okaxis,Rahul R23,Madurai,9.887765,78.134922,mobile,True
+deepas44@paytm,Deepa S44,Erode,11.308667,77.723604,mobile,True
+smartrestaurant3@ybl,Smart Restaurant 1425,Bengaluru,12.990876,77.615359,fixed,True
+goldencoffeeshop2@paytm,Golden Coffee Shop,Madurai,9.953559,78.092845,fixed,True
+lakshmielectronics@okhdfcbank,Lakshmi Electronics,Chennai,13.080843,80.288703,fixed,True
+bharathfillingstation3@ybl,Bharath Filling Station,Tirupur,11.129075,77.335634,fixed,True
+citytollplaza2@oksbi,City Toll Plaza,Erode,11.369681,77.700477,fixed,True
+metrobeautyparlour2@okaxis,Metro Beauty Parlour,Madurai,9.943168,78.159341,fixed,True
+sreecoffeeshop@paytm,Sree Coffee Shop,Madurai,9.932628,78.105815,fixed,True
+rohitr73@paytm,Rohit R73,Tiruppur,11.085343,77.357157,mobile,True
+aishwaryak64@ybl,Aishwarya K64,Erode,11.316633,77.69323,mobile,True
+starmobileshop3@okicici,Star Mobile Shop,Chennai,13.145909,80.264755,fixed,True
+moontextiles@ybl,Moon Textiles,Chennai,13.04019,80.2175,fixed,True
+lakshmipharmacy4@paytm,Lakshmi Pharmacy 1020,Madurai,9.960948,78.09301,fixed,True
+divyas59@ybl,Divya S59,Bengaluru,12.947253,77.609121,mobile,True
+cityxeroxcenter@upi,City Xerox Center,Tirupur,11.088371,77.353498,fixed,True
+snehaa27@okaxis,Sneha A27,Erode,11.315026,77.738137,mobile,True
+starmobileshop4@oksbi,Star Mobile Shop,Erode,11.344224,77.7066,fixed,True
+xyzvehicleparking@paytm,XYZ Vehicle Parking,Erode,11.345589,77.718575,fixed,True
+smartclothingstore4@ybl,Smart Clothing Store 1332,Erode,11.314279,77.688339,fixed,True
+omxeroxcenter@okicici,Om Xerox Center,Trichy,10.822831,78.698827,fixed,True
+shalinia872@okicici,Shalini A87,Tiruppur,11.11836,77.337452,mobile,True
+moderngarments@upi,Modern Garments,Chennai,13.105741,80.348264,fixed,True
+srivegetableshop8@okaxis,Sri Vegetable Shop 1359,Madurai,9.898307,78.156041,fixed,True
+rahulm98@paytm,Rahul M98,Erode,11.343474,77.700927,mobile,True
+lakshmisweets@oksbi,Lakshmi Sweets,Salem,11.639742,78.13514,fixed,True
+dineshk25@okicici,Dinesh K25,Salem,11.656032,78.130215,mobile,True
+saitollplaza2@upi,Sai Toll Plaza,Trichy,10.807683,78.72964,fixed,True
+kaverivegetableshop2@okicici,Kaveri Vegetable Shop,Coimbatore,11.067696,76.908902,fixed,True
+rahulr89@ybl,Rahul R89,Coimbatore,11.053383,76.95754,mobile,True
+nandhinir82@ybl,Nandhini R82,Bengaluru,12.958695,77.563585,mobile,True
+kavyam97@okicici,Kavya M97,Salem,11.681367,78.162676,mobile,True
+tamilhardwarestore@paytm,Tamil Hardware Store,Salem,11.638935,78.170205,fixed,True
+metrogrocery2@oksbi,Metro Grocery,Tirupur,11.09435,77.312955,fixed,True
+modernvegetableshop2@ybl,Modern Vegetable Shop,Coimbatore,11.068816,76.945106,fixed,True
+classictollplaza@okhdfcbank,Classic Toll Plaza,Erode,11.322619,77.744695,fixed,True
+sanjayr88@okaxis,Sanjay R88,Bengaluru,12.945845,77.584479,mobile,True
+swethaa65@ybl,Swetha A65,Tiruchirappalli,10.796214,78.672655,mobile,True
+newstationery5@oksbi,New Stationery 1231,Chennai,13.10644,80.288726,fixed,True
+ammanelectronics6@upi,Amman Electronics,Tirupur,11.122048,77.359665,fixed,True
+lakshmivegetableshop5@upi,Lakshmi Vegetable Shop 1327,Tiruppur,11.107596,77.307714,fixed,True
+kavyaa25@ybl,Kavya A25,Salem,11.701554,78.177808,mobile,True
+snehap86@okicici,Sneha P86,Chennai,13.094219,80.260861,mobile,True
+anitham912@okaxis,Anitha M91,Salem,11.646049,78.168503,mobile,True
+greencafe@okaxis,Green Cafe,Erode,11.352021,77.740753,fixed,True
+snehap67@okaxis,Sneha P67,Coimbatore,10.97688,76.952972,mobile,True
+supertollplaza2@oksbi,Super Toll Plaza,Chennai,13.050123,80.248844,fixed,True
+omdigitalstore@paytm,Om Digital Store,Trichy,10.83008,78.683455,fixed,True
+krishnarestaurant@okaxis,Krishna Restaurant,Erode,11.364702,77.727297,fixed,True
+anitham13@upi,Anitha M13,Madurai,9.963873,78.130557,mobile,True
+ammanteastall@okaxis,Amman Tea Stall,Salem,11.656099,78.185434,fixed,True
+ammanstationery2@okaxis,Amman Stationery 1330,Salem,11.683179,78.158294,fixed,True
+poojaa11@okhdfcbank,Pooja A11,Erode,11.359077,77.723255,mobile,True
+murugantollplaza@okhdfcbank,Murugan Toll Plaza,Coimbatore,11.0089,76.914588,fixed,True
+suntoolshardware@okaxis,Sun Tools & Hardware,Coimbatore,11.054066,76.951215,fixed,True
+redteacorner3@upi,Red Tea Corner,Coimbatore,11.049206,76.980242,fixed,True
+primetollplaza@ybl,Prime Toll Plaza,Madurai,9.887505,78.119159,fixed,True
+arunr12@upi,Arun R12,Tiruchirappalli,10.804944,78.721436,mobile,True
+kavyas41@ybl,Kavya S41,Tiruchirappalli,10.757941,78.718596,mobile,True
+poojam43@oksbi,Pooja M43,Coimbatore,10.998797,76.990598,mobile,True
+metrofruitsvegetables3@paytm,Metro Fruits & Vegetables,Chennai,13.032382,80.340441,fixed,True
+ajayr58@okicici,Ajay R58,Tiruchirappalli,10.794809,78.668079,mobile,True
+starbhavan@okicici,Star Bhavan,Trichy,10.808515,78.709218,fixed,True
+harip39@ybl,Hari P39,Tiruchirappalli,10.765848,78.718938,mobile,True
+shalinim45@ybl,Shalini M45,Salem,11.681834,78.159275,mobile,True
+muruganfuelstation@okicici,Murugan Fuel Station,Trichy,10.753106,78.691566,fixed,True
+stargrocerystore4@upi,Star Grocery Store 1470,Coimbatore,11.017245,76.953343,fixed,True
+harir77@okaxis,Hari R77,Tiruppur,11.069449,77.375278,mobile,True
+annahardwarestore@ybl,Anna Hardware Store,Tirupur,11.084543,77.335817,fixed,True
+sureshm66@paytm,Suresh M66,Bengaluru,12.934478,77.56875,mobile,True
+meenap57@okicici,Meena P57,Bengaluru,12.973111,77.56892,mobile,True
+starfuelstation2@okhdfcbank,Star Fuel Station,Erode,11.313897,77.736476,fixed,True
+bharathpetrolbunk2@okaxis,Bharath Petrol Bunk,Coimbatore,11.071157,77.00277,fixed,True
+smarttextiles4@upi,Smart Textiles 1102,Bengaluru,12.996685,77.598608,fixed,True
+smartcafe@paytm,Smart Cafe 1109,Tiruchirappalli,10.77769,78.727717,fixed,True
+divyas25@paytm,Divya S25,Coimbatore,11.009165,76.955753,mobile,True
+sribhavan@ybl,Sri Bhavan,Erode,11.356821,77.735455,fixed,True
+royalstationery5@okhdfcbank,Royal Stationery 1482,Tiruppur,11.090388,77.378187,fixed,True
+dineshs28@ybl,Dinesh S28,Erode,11.339018,77.706619,mobile,True
+moderntollplaza@okicici,Modern Toll Plaza,Tirupur,11.10443,77.355203,fixed,True
+aishwaryap34@okhdfcbank,Aishwarya P34,Chennai,13.066773,80.267774,mobile,True
+nandhinik55@oksbi,Nandhini K55,Tiruppur,11.134697,77.329737,mobile,True
+ammanpharmacy4@ybl,Amman Pharmacy 1047,Tiruchirappalli,10.781103,78.667798,fixed,True
+ammangrocerystore2@oksbi,Amman Grocery Store 1461,Bengaluru,12.996654,77.624531,fixed,True
+annatollplaza@upi,Anna Toll Plaza,Coimbatore,11.044608,76.952157,fixed,True
+swethap35@okaxis,Swetha P35,Salem,11.643685,78.127301,mobile,True
+priyar72@ybl,Priya R72,Bengaluru,13.002433,77.592715,mobile,True
+meenas65@upi,Meena S65,Tiruppur,11.093992,77.367517,mobile,True
+kaverivegetableshop3@paytm,Kaveri Vegetable Shop,Coimbatore,10.987393,76.943174,fixed,True
+tamilfuelstation@okaxis,Tamil Fuel Station,Erode,11.314469,77.727107,fixed,True
+tamilsalon3@okaxis,Tamil Salon,Trichy,10.810724,78.665461,fixed,True
+ammanbusstandcounter@oksbi,Amman Bus Stand Counter,Salem,11.658057,78.1492,fixed,True
+harinip38@oksbi,Harini P38,Coimbatore,11.052649,76.989649,mobile,True
+kavyar58@okhdfcbank,Kavya R58,Coimbatore,11.03249,76.949777,mobile,True
+metrosalon2@ybl,Metro Salon,Salem,11.629479,78.108709,fixed,True
+mohana66@okicici,Mohan A66,Tiruchirappalli,10.793919,78.703907,mobile,True
+divyam61@okaxis,Divya M61,Tiruchirappalli,10.767054,78.664988,mobile,True
+sunmobileshop@okhdfcbank,Sun Mobile Shop,Salem,11.686394,78.144332,fixed,True
+snehak99@paytm,Sneha K99,Salem,11.696999,78.138902,mobile,True
+tamilvegetableshop@okhdfcbank,Tamil Vegetable Shop,Chennai,13.090027,80.341296,fixed,True
+newclothingstore2@okaxis,New Clothing Store 1241,Salem,11.698942,78.161694,fixed,True
+nilacakesmore@paytm,Nila Cakes & More,Tirupur,11.101454,77.339841,fixed,True
+classichardwarestore4@okaxis,Classic Hardware Store 1306,Salem,11.638511,78.137859,fixed,True
+primefruitsvegetables@ybl,Prime Fruits & Vegetables,Tirupur,11.080535,77.318553,fixed,True
+shalinis94@paytm,Shalini S94,Bengaluru,12.942788,77.593835,mobile,True
+grandteashop3@okaxis,Grand Tea Shop,Chennai,13.117295,80.342912,fixed,True
+smartsalon4@paytm,Smart Salon 1263,Madurai,9.927507,78.138029,fixed,True
+goldencoffeeshop3@okaxis,Golden Coffee Shop,Tirupur,11.080772,77.323159,fixed,True
+ganeshteapoint2@paytm,Ganesh Tea Point,Erode,11.365736,77.692029,fixed,True
+lakshmihardwarestore5@upi,Lakshmi Hardware Store 1089,Tiruchirappalli,10.785738,78.679449,fixed,True
+metrocakesmore2@upi,Metro Cakes & More,Tirupur,11.134533,77.357252,fixed,True
+kavina283@upi,Kavin A28,Bengaluru,12.983907,77.592298,mobile,True
+ajayr86@upi,Ajay R86,Salem,11.663738,78.166191,mobile,True
+smarthardwarestore4@oksbi,Smart Hardware Store 1143,Coimbatore,11.010902,76.924437,fixed,True
+praveens12@okaxis,Praveen S12,Chennai,13.100508,80.285749,mobile,True
+rohitk19@oksbi,Rohit K19,Erode,11.303401,77.686415,mobile,True
+royalhardwarestore3@upi,Royal Hardware Store 1275,Salem,11.693858,78.132637,fixed,True
+royalrestaurant@paytm,Royal Restaurant 1266,Coimbatore,10.982183,76.963316,fixed,True
+gokulm75@okicici,Gokul M75,Salem,11.664574,78.16237,mobile,True
+vijays17@paytm,Vijay S17,Salem,11.644109,78.157847,mobile,True
+bharathvehicleparking@okicici,Bharath Vehicle Parking,Erode,11.3149,77.73107,fixed,True
+elitesalon2@upi,Elite Salon,Chennai,13.111972,80.197343,fixed,True
+keerthanas79@okicici,Keerthana S79,Salem,11.661437,78.156117,mobile,True
+starmedicals@upi,Star Medicals,Erode,11.343568,77.709802,fixed,True
+muruganhairstudio@okhdfcbank,Murugan Hair Studio,Erode,11.313806,77.746011,fixed,True
+srifruitsvegetables2@oksbi,Sri Fruits & Vegetables,Salem,11.694825,78.160772,fixed,True
+divyak332@upi,Divya K33,Chennai,13.065269,80.240703,mobile,True
+newfuelstation@upi,New Fuel Station,Trichy,10.771813,78.717468,fixed,True
+manojs85@oksbi,Manoj S85,Chennai,13.109658,80.243002,mobile,True
+vijays28@upi,Vijay S28,Bengaluru,12.939095,77.569121,mobile,True
+harim38@okhdfcbank,Hari M38,Madurai,9.889532,78.143742,mobile,True
+goldenbeautyparlour@oksbi,Golden Beauty Parlour,Tirupur,11.103899,77.322266,fixed,True
+sriparkingzone@ybl,Sri Parking Zone,Erode,11.334268,77.700978,fixed,True
+lakshmimess2@ybl,Lakshmi Mess,Tirupur,11.106052,77.331046,fixed,True
+nandhinia21@upi,Nandhini A21,Tiruppur,11.084056,77.326521,mobile,True
+goldenvegetableshop@okicici,Golden Vegetable Shop,Trichy,10.815095,78.669632,fixed,True
+divyap23@okhdfcbank,Divya P23,Salem,11.667702,78.149949,mobile,True
+aruna53@okaxis,Arun A53,Tiruppur,11.076288,77.328711,mobile,True
+sristationery3@paytm,Sri Stationery 1225,Coimbatore,11.022423,76.931372,fixed,True
+srihardwarestore@oksbi,Sri Hardware Store 1169,Tiruppur,11.104479,77.365885,fixed,True
+krishnafashionstore@paytm,Krishna Fashion Store,Chennai,13.077902,80.213244,fixed,True
+primeteapoint@okaxis,Prime Tea Point,Chennai,13.022245,80.294709,fixed,True
+vigneshk69@paytm,Vignesh K69,Chennai,13.101697,80.247286,mobile,True
+cityhardwarestore@upi,City Hardware Store,Trichy,10.791913,78.675656,fixed,True
+muruganmobileshop@paytm,Murugan Mobile Shop,Salem,11.63996,78.131482,fixed,True
+cityhardwarestore2@ybl,City Hardware Store,Erode,11.330079,77.695785,fixed,True
+metrotollplaza@okicici,Metro Toll Plaza,Coimbatore,11.044536,76.903976,fixed,True
+abcbakery2@oksbi,ABC Bakery,Trichy,10.815438,78.713232,fixed,True
+stargrocerystore5@upi,Star Grocery Store 1202,Bengaluru,12.936979,77.616881,fixed,True
+lakshmibakery7@paytm,Lakshmi Bakery 1340,Coimbatore,10.978103,76.990155,fixed,True
+sreehardwarestore3@paytm,Sree Hardware Store,Salem,11.641877,78.182848,fixed,True
+kavyam99@paytm,Kavya M99,Erode,11.320538,77.736319,mobile,True
+sneham63@okicici,Sneha M63,Madurai,9.896748,78.08997,mobile,True
+poojaa26@paytm,Pooja A26,Tiruchirappalli,10.767599,78.705634,mobile,True
+royalbookstore4@upi,Royal Book Store 1372,Coimbatore,11.048583,76.957381,fixed,True
+classicstationery4@upi,Classic Stationery 1146,Salem,11.690494,78.137898,fixed,True
+lakshmipetrolstation3@okaxis,Lakshmi Petrol Station 1032,Coimbatore,11.017028,76.984018,fixed,True
+supercakesmore2@okicici,Super Cakes & More,Chennai,13.054867,80.258798,fixed,True
+metrofillingstation@okicici,Metro Filling Station,Tirupur,11.100503,77.353833,fixed,True
+starelectronics4@okicici,Star Electronics 1432,Madurai,9.933291,78.080477,fixed,True
+shalinik47@paytm,Shalini K47,Chennai,13.10557,80.304828,mobile,True
+redvegetableshop@okaxis,Red Vegetable Shop,Chennai,13.041378,80.199788,fixed,True
+modernsweets2@upi,Modern Sweets,Chennai,13.003459,80.212159,fixed,True
+bluemedicals2@upi,Blue Medicals,Trichy,10.793923,78.675527,fixed,True
+kaveribhavan@ybl,Kaveri Bhavan,Tirupur,11.115073,77.332784,fixed,True
+newgrocerystore4@okhdfcbank,New Grocery Store 1354,Chennai,13.059959,80.304506,fixed,True
+lakshmigrocerystore3@okhdfcbank,Lakshmi Grocery Store 1036,Chennai,13.092393,80.275739,fixed,True
+primesweets2@okicici,Prime Sweets,Coimbatore,10.966341,76.908621,fixed,True
+balajimobileshop@okaxis,Balaji Mobile Shop,Erode,11.366635,77.704525,fixed,True
+bharathpetrolbunk3@okhdfcbank,Bharath Petrol Bunk,Chennai,13.158785,80.349511,fixed,True
+priyar62@paytm,Priya R62,Chennai,13.115749,80.231253,mobile,True
+arunr76@oksbi,Arun R76,Tiruchirappalli,10.780341,78.703492,mobile,True
+meenas28@oksbi,Meena S28,Salem,11.646192,78.113836,mobile,True
+classicpharmacy@okaxis,Classic Pharmacy 1397,Erode,11.318859,77.724316,fixed,True
+nandhinir63@okicici,Nandhini R63,Erode,11.35862,77.715721,mobile,True
+poojam52@upi,Pooja M52,Tiruppur,11.138641,77.366719,mobile,True
+gokulm65@oksbi,Gokul M65,Tiruppur,11.097901,77.340903,mobile,True
+rohitp99@okaxis,Rohit P99,Chennai,13.076739,80.251061,mobile,True
+ammanpetrolstation6@upi,Amman Petrol Station 1329,Chennai,13.064131,80.274148,fixed,True
+lakshmiclothingstore4@okaxis,Lakshmi Clothing Store 1257,Erode,11.310299,77.693632,fixed,True
+kavyar69@paytm,Kavya R69,Salem,11.643422,78.164767,mobile,True
+newbakery@okhdfcbank,New Bakery 1426,Madurai,9.941966,78.112071,fixed,True
+starelectronics5@oksbi,Star Electronics 1465,Tiruppur,11.077545,77.356794,fixed,True
+haris83@oksbi,Hari S83,Erode,11.362936,77.70905,mobile,True
+sanjaym49@oksbi,Sanjay M49,Erode,11.324285,77.754822,mobile,True
+newgrocerystore5@paytm,New Grocery Store 1251,Salem,11.654986,78.141739,fixed,True
+vijaym152@paytm,Vijay M15,Tiruppur,11.126116,77.332632,mobile,True
+newstationery6@upi,New Stationery 1253,Madurai,9.940423,78.130897,fixed,True
+kavyak94@okaxis,Kavya K94,Chennai,13.080846,80.278214,mobile,True
+aishwaryak20@okaxis,Aishwarya K20,Chennai,13.083192,80.259785,mobile,True
+newtextiles6@okhdfcbank,New Textiles 1237,Salem,11.642289,78.183833,fixed,True
+muruganboutique@okhdfcbank,Murugan Boutique,Chennai,13.044477,80.262319,fixed,True
+xyzsweets@ybl,XYZ Sweets,Tirupur,11.103267,77.335933,fixed,True
+smartbakery10@upi,Smart Bakery 1173,Erode,11.323732,77.735099,fixed,True
+redsalon@okhdfcbank,Red Salon,Madurai,9.950322,78.084572,fixed,True
+harinim45@upi,Harini M45,Coimbatore,11.035201,76.974694,mobile,True
+shalinis95@okhdfcbank,Shalini S95,Chennai,13.074452,80.297885,mobile,True
+classicbooksstationery@okaxis,Classic Books & Stationery,Trichy,10.766834,78.722895,fixed,True
+aishwaryaa79@upi,Aishwarya A79,Tiruchirappalli,10.751183,78.688658,mobile,True
+manojp34@ybl,Manoj P34,Erode,11.361147,77.735255,mobile,True
+moonbeautyparlour2@paytm,Moon Beauty Parlour,Salem,11.636257,78.163932,fixed,True
+balajicafe@oksbi,Balaji Cafe,Erode,11.362497,77.745169,fixed,True
+ammansalon3@ybl,Amman Salon 1141,Tiruppur,11.128153,77.3392,fixed,True
+bharathfruitsvegetables@okaxis,Bharath Fruits & Vegetables,Erode,11.32332,77.736397,fixed,True
+sreemedicals@ybl,Sree Medicals,Chennai,13.089113,80.267786,fixed,True
+srisweets2@okhdfcbank,Sri Sweets,Madurai,9.879318,78.097215,fixed,True
+smartbookstore2@okhdfcbank,Smart Book Store 1433,Tiruppur,11.136627,77.33782,fixed,True
+ammangrocerystore3@paytm,Amman Grocery Store 1393,Bengaluru,12.936093,77.602733,fixed,True
+harinia43@okaxis,Harini A43,Madurai,9.915333,78.110081,mobile,True
+sriclothingstore3@ybl,Sri Clothing Store 1215,Coimbatore,10.983298,76.991684,fixed,True
+cityteastall@ybl,City Tea Stall,Coimbatore,10.97044,76.978896,fixed,True
+anitham11@oksbi,Anitha M11,Salem,11.630525,78.159437,mobile,True
+srivegetableshop9@okicici,Sri Vegetable Shop,Erode,11.351258,77.70356,fixed,True
+classicsweets@okhdfcbank,Classic Sweets,Coimbatore,10.967218,76.9703,fixed,True
+ammanrestaurant2@upi,Amman Restaurant 1025,Tiruppur,11.076254,77.335584,fixed,True
+priyas65@ybl,Priya S65,Erode,11.317006,77.709384,mobile,True
+starbookstore@upi,Star Book Store 1385,Bengaluru,12.934372,77.604134,fixed,True
+moonpharmacy2@oksbi,Moon Pharmacy,Trichy,10.758811,78.694559,fixed,True
+royalbeautyparlour@upi,Royal Beauty Parlour,Coimbatore,10.992448,76.970843,fixed,True
+keerthanak98@okaxis,Keerthana K98,Bengaluru,12.969793,77.606816,mobile,True
+xyzfillingstation@okicici,XYZ Filling Station,Trichy,10.756274,78.731788,fixed,True
+aruns97@oksbi,Arun S97,Erode,11.32943,77.701386,mobile,True
+poojar98@upi,Pooja R98,Tiruppur,11.145122,77.37446,mobile,True
+harinip87@okaxis,Harini P87,Madurai,9.918775,78.092079,mobile,True
+swethak78@oksbi,Swetha K78,Coimbatore,11.048206,76.981085,mobile,True
+poojar81@okhdfcbank,Pooja R81,Erode,11.374736,77.686701,mobile,True
+metrohotel@okhdfcbank,Metro Hotel,Chennai,13.020364,80.318196,fixed,True
+ammantollplaza2@upi,Amman Toll Plaza,Erode,11.354333,77.740005,fixed,True
+srimobileshop3@okaxis,Sri Mobile Shop 1475,Erode,11.366327,77.744745,fixed,True
+ammanmobileshop8@okhdfcbank,Amman Mobile Shop 1150,Tiruchirappalli,10.796733,78.681719,fixed,True
+sunbakery@paytm,Sun Bakery,Tirupur,11.087767,77.354067,fixed,True
+meenar62@oksbi,Meena R62,Bengaluru,12.945898,77.599328,mobile,True
+ajayp99@okaxis,Ajay P99,Coimbatore,11.047132,76.979052,mobile,True
+royalcoffeeshop3@okicici,Royal Coffee Shop,Madurai,9.91006,78.081919,fixed,True
+abccakesmore@oksbi,ABC Cakes & More,Erode,11.361709,77.691246,fixed,True
+supergarments@okaxis,Super Garments,Madurai,9.921402,78.158313,fixed,True
+lakshmivegetableshop6@paytm,Lakshmi Vegetable Shop 1206,Tiruchirappalli,10.766514,78.675558,fixed,True
+sunfuelstation@okhdfcbank,Sun Fuel Station,Erode,11.341795,77.731935,fixed,True
+supercafe2@oksbi,Super Cafe,Chennai,13.09672,80.280557,fixed,True
+vigneshk11@okhdfcbank,Vignesh K11,Chennai,13.090131,80.297962,mobile,True
+vijays56@oksbi,Vijay S56,Madurai,9.92678,78.127929,mobile,True
+vigneshr70@paytm,Vignesh R70,Chennai,13.070749,80.2942,mobile,True
+lakshmihardwarestore6@ybl,Lakshmi Hardware Store 1094,Tiruppur,11.091801,77.319618,fixed,True
+vigneshm86@paytm,Vignesh M86,Salem,11.629349,78.122211,mobile,True
+smartelectronics4@paytm,Smart Electronics 1156,Bengaluru,12.970453,77.589964,fixed,True
+newhardwarestore3@okaxis,New Hardware Store 1325,Madurai,9.896424,78.104966,fixed,True
+cityfillingstation@upi,City Filling Station,Trichy,10.789281,78.695239,fixed,True
+royalrestaurant2@okicici,Royal Restaurant 1351,Tiruchirappalli,10.810327,78.688343,fixed,True
+srisupermarket@ybl,Sri Super Market,Salem,11.674458,78.13537,fixed,True
+manojr58@okaxis,Manoj R58,Chennai,13.11501,80.269473,mobile,True
+ganeshelectronics2@upi,Ganesh Electronics,Coimbatore,11.05897,76.962507,fixed,True
+arunr23@okaxis,Arun R23,Tiruchirappalli,10.780566,78.710311,mobile,True
+harinik67@okicici,Harini K67,Bengaluru,12.950841,77.599279,mobile,True
+lakshmigrocerystore4@okicici,Lakshmi Grocery Store 1389,Tiruchirappalli,10.792855,78.726047,fixed,True
+poojas71@upi,Pooja S71,Bengaluru,12.967229,77.616581,mobile,True
+praveens88@upi,Praveen S88,Bengaluru,12.981455,77.589837,mobile,True
+elitesupermarket2@paytm,Elite Super Market,Trichy,10.80948,78.740542,fixed,True
+manojk25@paytm,Manoj K25,Madurai,9.927318,78.149841,mobile,True
+sripetrolstation3@oksbi,Sri Petrol Station 1189,Bengaluru,12.982156,77.600604,fixed,True
+starjuicecorner2@okicici,Star Juice Corner,Tirupur,11.114252,77.339561,fixed,True
+keerthanap91@okaxis,Keerthana P91,Coimbatore,11.047081,76.974038,mobile,True
+classicmobileshop8@okaxis,Classic Mobile Shop 1218,Madurai,9.943936,78.148662,fixed,True
+anithak80@oksbi,Anitha K80,Chennai,13.116084,80.271773,mobile,True
+goldengarments2@oksbi,Golden Garments,Madurai,9.939227,78.157049,fixed,True
+grandjuicecorner@okhdfcbank,Grand Juice Corner,Erode,11.362822,77.728965,fixed,True
+smartelectronics5@paytm,Smart Electronics 1417,Chennai,13.058854,80.296505,fixed,True
+sunmess@okhdfcbank,Sun Mess,Salem,11.646206,78.114742,fixed,True
+vijaym83@upi,Vijay M83,Tiruchirappalli,10.795761,78.736723,mobile,True
+mohanp28@paytm,Mohan P28,Coimbatore,11.006929,76.988283,mobile,True
+newbookstore3@okicici,New Book Store 1198,Erode,11.365092,77.735367,fixed,True
+keerthanar84@okaxis,Keerthana R84,Madurai,9.935057,78.120664,mobile,True
+lakshmipharmacy5@paytm,Lakshmi Pharmacy 1254,Salem,11.636555,78.165819,fixed,True
+newcafe4@okhdfcbank,New Cafe 1277,Erode,11.331453,77.719892,fixed,True
+srikiranastore@paytm,Sri Kirana Store,Salem,11.639334,78.184738,fixed,True
+newfruitsvegetables@oksbi,New Fruits & Vegetables,Madurai,9.937658,78.158331,fixed,True
+bharathbakery@okicici,Bharath Bakery,Salem,11.664742,78.161202,fixed,True
+ammanhardwarestore5@upi,Amman Hardware Store 1098,Bengaluru,12.979443,77.625754,fixed,True
+starclothingstore3@ybl,Star Clothing Store 1033,Chennai,13.048182,80.236137,fixed,True
+newmart@paytm,New Mart,Erode,11.314152,77.738794,fixed,True
+omjuicecorner2@paytm,Om Juice Corner,Salem,11.62723,78.112528,fixed,True
+sunsalon3@paytm,Sun Salon,Trichy,10.812818,78.700452,fixed,True
+swetham84@oksbi,Swetha M84,Salem,11.684554,78.166871,mobile,True
+redparkingzone@okicici,Red Parking Zone,Tirupur,11.088568,77.34056,fixed,True
+primebusstandcounter@okhdfcbank,Prime Bus Stand Counter,Erode,11.341079,77.712096,fixed,True
+harinip30@oksbi,Harini P30,Erode,11.317301,77.684661,mobile,True
+ammanbookstore3@oksbi,Amman Book Store 1187,Coimbatore,10.97832,76.933052,fixed,True
+smartmobileshop4@oksbi,Smart Mobile Shop 1157,Chennai,13.051571,80.284957,fixed,True
+anitham15@okhdfcbank,Anitha M15,Erode,11.36972,77.709275,mobile,True
+lakshmielectronics2@ybl,Lakshmi Electronics 1247,Bengaluru,13.002741,77.565336,fixed,True
+dineshr88@okaxis,Dinesh R88,Chennai,13.119341,80.276052,mobile,True
+greenelectronics3@okaxis,Green Electronics,Madurai,9.893621,78.123922,fixed,True
+lakshmistationery7@ybl,Lakshmi Stationery 1210,Tiruchirappalli,10.792556,78.726233,fixed,True
+srihardwarestore2@okicici,Sri Hardware Store 1066,Tiruppur,11.143919,77.324989,fixed,True
+kavinr28@oksbi,Kavin R28,Coimbatore,11.029062,76.918738,mobile,True
+elitehotel@okaxis,Elite Hotel,Chennai,13.047717,80.335911,fixed,True
+ammanhardwarestore6@paytm,Amman Hardware Store 1063,Tiruchirappalli,10.807584,78.683459,fixed,True
+krishnajuicecorner@oksbi,Krishna Juice Corner,Trichy,10.820093,78.719562,fixed,True
+lakshmitextiles7@paytm,Lakshmi Textiles 1168,Chennai,13.078853,80.235251,fixed,True
+smartsalon5@paytm,Smart Salon 1175,Tiruchirappalli,10.801979,78.690978,fixed,True
+nandhinir22@okhdfcbank,Nandhini R22,Tiruchirappalli,10.814827,78.709127,mobile,True
+praveenp38@okaxis,Praveen P38,Madurai,9.94494,78.143542,mobile,True
+starvegetableshop6@okhdfcbank,Star Vegetable Shop 1493,Bengaluru,12.934795,77.62889,fixed,True
+redtoolshardware2@okicici,Red Tools & Hardware,Coimbatore,10.968504,77.009475,fixed,True
+kaverimedicals3@oksbi,Kaveri Medicals,Salem,11.664307,78.148409,fixed,True
+newmobileshop5@upi,New Mobile Shop 1049,Tiruppur,11.137648,77.378451,fixed,True
+deepak532@paytm,Deepa K53,Tiruppur,11.077618,77.319235,mobile,True
+muruganbusstandcounter3@okhdfcbank,Murugan Bus Stand Counter,Trichy,10.830031,78.71659,fixed,True
+classicstationery5@ybl,Classic Stationery,Salem,11.640261,78.154647,fixed,True
+harim42@upi,Hari M42,Bengaluru,12.983623,77.565836,mobile,True
+superfashionstore2@okhdfcbank,Super Fashion Store,Madurai,9.896936,78.159137,fixed,True
+bluesalon3@okaxis,Blue Salon,Coimbatore,10.978755,76.965098,fixed,True
+sureshk33@okhdfcbank,Suresh K33,Coimbatore,10.976843,76.968634,mobile,True
+kaverihairstudio@paytm,Kaveri Hair Studio,Erode,11.356771,77.718456,fixed,True
+sreechemist@okicici,Sree Chemist,Chennai,13.030022,80.257079,fixed,True
+kaverivehicleparking@upi,Kaveri Vehicle Parking,Coimbatore,11.010718,76.953201,fixed,True
+keerthanas97@paytm,Keerthana S97,Tiruppur,11.148439,77.368495,mobile,True
+nandhinip29@ybl,Nandhini P29,Madurai,9.896614,78.125205,mobile,True
+goldenteacorner@okicici,Golden Tea Corner,Salem,11.665956,78.12501,fixed,True
+royalpharmacy3@paytm,Royal Pharmacy 1366,Coimbatore,11.041147,76.994313,fixed,True
+priyas91@paytm,Priya S91,Madurai,9.887074,78.151026,mobile,True
+nandhinim98@ybl,Nandhini M98,Chennai,13.072556,80.289337,mobile,True
+xyzdhaba3@okhdfcbank,XYZ Dhaba,Tirupur,11.085268,77.345246,fixed,True
+newbakery2@okicici,New Bakery 1297,Chennai,13.055038,80.287634,fixed,True
+swethas73@upi,Swetha S73,Bengaluru,13.008926,77.555913,mobile,True
+greenjuicecorner@okicici,Green Juice Corner,Madurai,9.936149,78.084995,fixed,True
+kavyap64@upi,Kavya P64,Salem,11.699374,78.14457,mobile,True
+bharathdigitalstore@okicici,Bharath Digital Store,Chennai,13.114575,80.330946,fixed,True
+nandhinim58@upi,Nandhini M58,Coimbatore,11.054824,76.985646,mobile,True
+snehak87@okicici,Sneha K87,Bengaluru,12.931942,77.555366,mobile,True
+sunparking@paytm,Sun Parking,Salem,11.653499,78.168946,fixed,True
+meenas68@upi,Meena S68,Bengaluru,13.003322,77.623562,mobile,True
+classicpetrolstation2@okhdfcbank,Classic Petrol Station 1123,Tiruppur,11.114485,77.380515,fixed,True
+aishwaryap21@okaxis,Aishwarya P21,Salem,11.682528,78.141538,mobile,True
+modernfillingstation@oksbi,Modern Filling Station,Salem,11.693272,78.16274,fixed,True
+metrostationery@oksbi,Metro Stationery,Salem,11.689727,78.17598,fixed,True
+lakshmimess3@paytm,Lakshmi Mess,Chennai,13.075729,80.303807,fixed,True
+mohanm52@ybl,Mohan M52,Tiruchirappalli,10.805977,78.676892,mobile,True
+gokula95@oksbi,Gokul A95,Tiruppur,11.139126,77.314445,mobile,True
+citymedicals2@upi,City Medicals,Madurai,9.953727,78.09052,fixed,True
+cityhotel@oksbi,City Hotel,Salem,11.691302,78.109189,fixed,True
+bharathelectronics2@ybl,Bharath Electronics,Salem,11.632411,78.137624,fixed,True
+modernjuicecorner@okhdfcbank,Modern Juice Corner,Coimbatore,11.01268,76.919995,fixed,True
+harim91@okhdfcbank,Hari M91,Tiruchirappalli,10.766398,78.735702,mobile,True
+mohank68@okaxis,Mohan K68,Erode,11.314577,77.700849,mobile,True
+annabooksstationery@paytm,Anna Books & Stationery,Chennai,13.081571,80.302032,fixed,True
+anithaa27@ybl,Anitha A27,Tiruppur,11.110073,77.320911,mobile,True
+starelectronics6@upi,Star Electronics,Erode,11.344054,77.745955,fixed,True
+kavink55@oksbi,Kavin K55,Madurai,9.941306,78.143117,mobile,True
+redbakery@upi,Red Bakery,Erode,11.325857,77.710657,fixed,True
+royalvehicleparking@oksbi,Royal Vehicle Parking,Coimbatore,10.998667,76.949781,fixed,True
+royalhardwarestore4@ybl,Royal Hardware Store 1067,Salem,11.646135,78.144851,fixed,True
+ammancafe4@okaxis,Amman Cafe 1192,Erode,11.328584,77.735835,fixed,True
+royalmobileshop4@paytm,Royal Mobile Shop 1441,Salem,11.683837,78.130567,fixed,True
+vijaya68@okaxis,Vijay A68,Madurai,9.920317,78.10812,mobile,True
+naveens19@okicici,Naveen S19,Erode,11.310468,77.751066,mobile,True
+keerthanam97@okicici,Keerthana M97,Madurai,9.905543,78.127972,mobile,True
+anithak43@upi,Anitha K43,Madurai,9.917771,78.088317,mobile,True
+dineshs16@ybl,Dinesh S16,Erode,11.342574,77.696139,mobile,True
+naveenp52@ybl,Naveen P52,Bengaluru,12.974979,77.571141,mobile,True
+balajibusstandcounter@ybl,Balaji Bus Stand Counter,Erode,11.368107,77.706848,fixed,True
+xyzparking2@okicici,XYZ Parking,Trichy,10.771603,78.709551,fixed,True
+royalbakery5@oksbi,Royal Bakery,Tirupur,11.078557,77.339092,fixed,True
+naveenp16@ybl,Naveen P16,Erode,11.343803,77.678063,mobile,True
+sreefuelstation@paytm,Sree Fuel Station,Chennai,13.010256,80.197378,fixed,True
+newdhaba2@okhdfcbank,New Dhaba,Coimbatore,11.04019,76.932268,fixed,True
+ammanbookstore4@paytm,Amman Book Store 1349,Chennai,13.053901,80.240553,fixed,True
+starstationery4@okicici,Star Stationery 1016,Tiruchirappalli,10.786798,78.741005,fixed,True
+shalinim80@ybl,Shalini M80,Tiruchirappalli,10.824032,78.70485,mobile,True
+rahulr70@paytm,Rahul R70,Chennai,13.097426,80.273836,mobile,True
+swetham842@upi,Swetha M84,Madurai,9.931029,78.132306,mobile,True
+vijayk60@oksbi,Vijay K60,Coimbatore,11.029614,76.967117,mobile,True
+xyzelectronics2@okaxis,XYZ Electronics,Erode,11.327083,77.729464,fixed,True
+keerthanas48@ybl,Keerthana S48,Bengaluru,13.010772,77.57076,mobile,True
+sribakery3@okhdfcbank,Sri Bakery 1313,Tiruppur,11.076389,77.31886,fixed,True
+snehap30@okaxis,Sneha P30,Chennai,13.085191,80.266651,mobile,True
+modernbooksstationery@oksbi,Modern Books & Stationery,Coimbatore,10.96108,76.91212,fixed,True
+srisalon4@okaxis,Sri Salon 1228,Tiruppur,11.072124,77.312063,fixed,True
+praveens22@okicici,Praveen S22,Erode,11.379513,77.732905,mobile,True
+royalparkingzone@paytm,Royal Parking Zone,Trichy,10.818715,78.684714,fixed,True
+divyam56@oksbi,Divya M56,Tiruppur,11.080841,77.380896,mobile,True
+lakshmipharmacy6@paytm,Lakshmi Pharmacy 1009,Salem,11.654656,78.185162,fixed,True
+ammanelectronics7@ybl,Amman Electronics 1093,Tiruchirappalli,10.763065,78.678605,fixed,True
+praveena31@okhdfcbank,Praveen A31,Coimbatore,11.010054,76.924415,mobile,True
+annachemist@okicici,Anna Chemist,Trichy,10.820882,78.670285,fixed,True
+aishwaryaa56@okhdfcbank,Aishwarya A56,Chennai,13.044226,80.300093,mobile,True
+newtollplaza@okaxis,New Toll Plaza,Coimbatore,11.05958,76.987212,fixed,True
+supertoolshardware2@okhdfcbank,Super Tools & Hardware,Coimbatore,11.051295,76.92632,fixed,True
+royalmobileshop5@ybl,Royal Mobile Shop 1471,Bengaluru,12.958072,77.576853,fixed,True
+starbusstandcounter@upi,Star Bus Stand Counter,Tirupur,11.129248,77.321732,fixed,True
+newsalon5@ybl,New Salon 1213,Erode,11.368675,77.697248,fixed,True
+grandvegetableshop2@okicici,Grand Vegetable Shop,Madurai,9.916838,78.164213,fixed,True
+bharathfuelstation@oksbi,Bharath Fuel Station,Coimbatore,11.066207,76.99117,fixed,True
+grandtollplaza@ybl,Grand Toll Plaza,Tirupur,11.130587,77.330819,fixed,True
+sripetrolstation4@ybl,Sri Petrol Station 1142,Salem,11.682479,78.1787,fixed,True
+newhardwarestore4@okhdfcbank,New Hardware Store 1120,Tiruchirappalli,10.803847,78.736613,fixed,True
+modernstationery@paytm,Modern Stationery,Madurai,9.950707,78.158366,fixed,True
+redcafe@paytm,Red Cafe,Trichy,10.829563,78.707976,fixed,True
+keerthanak53@oksbi,Keerthana K53,Coimbatore,11.013126,76.942055,mobile,True
+nandhinia60@oksbi,Nandhini A60,Bengaluru,12.991827,77.60062,mobile,True
+lakshmisalon5@oksbi,Lakshmi Salon 1013,Madurai,9.892473,78.083569,fixed,True
+anithak31@oksbi,Anitha K31,Chennai,13.071797,80.246627,mobile,True
+classicclothingstore4@upi,Classic Clothing Store 1151,Erode,11.310191,77.699485,fixed,True
+swethak19@paytm,Swetha K19,Salem,11.699889,78.119209,mobile,True
+saiparkingzone@upi,Sai Parking Zone,Salem,11.625757,78.167333,fixed,True
+moonbakery@paytm,Moon Bakery,Trichy,10.809876,78.672507,fixed,True
+deepar58@upi,Deepa R58,Tiruppur,11.122856,77.314558,mobile,True
+praveenr45@okaxis,Praveen R45,Bengaluru,12.96427,77.623632,mobile,True
+srisalon5@okaxis,Sri Salon 1082,Tiruchirappalli,10.79183,78.679985,fixed,True
+keerthanaa23@upi,Keerthana A23,Bengaluru,12.988832,77.562863,mobile,True
+annastationery@okhdfcbank,Anna Stationery,Erode,11.367805,77.744604,fixed,True
+lakshmikiranastore@ybl,Lakshmi Kirana Store,Chennai,13.026042,80.236027,fixed,True
+srivegetableshop10@okicici,Sri Vegetable Shop,Chennai,13.01382,80.203847,fixed,True
+harinir34@oksbi,Harini R34,Bengaluru,13.00564,77.56059,mobile,True
+sureshr36@paytm,Suresh R36,Coimbatore,11.049331,76.969,mobile,True
+naveenr29@upi,Naveen R29,Bengaluru,12.9379,77.604676,mobile,True
+nilasweets@okicici,Nila Sweets,Salem,11.694386,78.11244,fixed,True
+tamilpharmacy3@oksbi,Tamil Pharmacy,Erode,11.365741,77.741262,fixed,True
+greentoolshardware2@paytm,Green Tools & Hardware,Tirupur,11.105637,77.338574,fixed,True
+goldentextiles3@okaxis,Golden Textiles,Trichy,10.807263,78.73975,fixed,True
+bharathbeautyparlour@paytm,Bharath Beauty Parlour,Chennai,13.08619,80.219981,fixed,True
+saibeautyparlour@okaxis,Sai Beauty Parlour,Trichy,10.79776,78.700653,fixed,True
+xyzcoffeeshop4@ybl,XYZ Coffee Shop,Salem,11.69492,78.15676,fixed,True
+smarttextiles5@okicici,Smart Textiles 1220,Coimbatore,11.045933,76.949251,fixed,True
+smartvegetableshop3@okicici,Smart Vegetable Shop 1127,Erode,11.315051,77.687773,fixed,True
+classicboutique@okhdfcbank,Classic Boutique,Coimbatore,11.022529,76.903335,fixed,True
+praveens55@oksbi,Praveen S55,Erode,11.354855,77.716199,mobile,True
+classicstationery6@upi,Classic Stationery 1078,Chennai,13.093547,80.296997,fixed,True
+krishnaelectronics@okicici,Krishna Electronics,Trichy,10.767716,78.666027,fixed,True
+elitefruitsvegetables2@oksbi,Elite Fruits & Vegetables,Coimbatore,11.059001,77.002688,fixed,True
+keerthanak41@okaxis,Keerthana K41,Tiruchirappalli,10.800081,78.709304,mobile,True
+ammanelectronics8@oksbi,Amman Electronics 1149,Erode,11.333865,77.747089,fixed,True
+royaldigitalstore@ybl,Royal Digital Store,Coimbatore,10.994721,76.994024,fixed,True
+sundigitalstore@upi,Sun Digital Store,Chennai,13.15989,80.245533,fixed,True
+stardigitalstore2@okicici,Star Digital Store,Madurai,9.900666,78.128389,fixed,True
+deepak45@okicici,Deepa K45,Chennai,13.108556,80.30594,mobile,True
+priyam96@paytm,Priya M96,Madurai,9.944484,78.098439,mobile,True
+starbakery6@okaxis,Star Bakery,Erode,11.350889,77.722181,fixed,True
+ammanpetrolstation7@oksbi,Amman Petrol Station 1116,Coimbatore,10.995582,76.970552,fixed,True
+ammanhardwarestore7@upi,Amman Hardware Store 1167,Madurai,9.922714,78.130311,fixed,True
+kavins47@okicici,Kavin S47,Chennai,13.083809,80.292015,mobile,True
+saihairstudio@ybl,Sai Hair Studio,Coimbatore,11.02652,76.924435,fixed,True
+goldencakesmore2@okhdfcbank,Golden Cakes & More,Tirupur,11.095927,77.357963,fixed,True
+bharathmedicals2@okicici,Bharath Medicals,Madurai,9.883788,78.080019,fixed,True
+classicgarments2@okaxis,Classic Garments,Coimbatore,11.026329,76.964525,fixed,True
+newteapoint@ybl,New Tea Point,Madurai,9.936453,78.120355,fixed,True
+harinis64@oksbi,Harini S64,Coimbatore,11.011546,76.938957,mobile,True
+classicbakery4@paytm,Classic Bakery,Tirupur,11.101551,77.333021,fixed,True
+superhardwarestore2@ybl,Super Hardware Store,Erode,11.330497,77.687314,fixed,True
+vijays52@oksbi,Vijay S52,Bengaluru,12.935065,77.613833,mobile,True
+priyak95@paytm,Priya K95,Erode,11.332805,77.734477,mobile,True
+modernxeroxcenter2@okicici,Modern Xerox Center,Chennai,13.033484,80.265971,fixed,True
+priyak33@paytm,Priya K33,Madurai,9.916645,78.105677,mobile,True
+priyar13@upi,Priya R13,Tiruppur,11.106656,77.370605,mobile,True
+moontoolshardware@upi,Moon Tools & Hardware,Trichy,10.810605,78.669597,fixed,True
+xyztollplaza3@okicici,XYZ Toll Plaza,Chennai,13.127245,80.313312,fixed,True
+starrestaurant2@paytm,Star Restaurant 1410,Coimbatore,11.027855,76.993965,fixed,True
+newfruitsvegetables2@okhdfcbank,New Fruits & Vegetables,Coimbatore,10.986389,76.920179,fixed,True
+rahula58@paytm,Rahul A58,Salem,11.657687,78.151832,mobile,True
+metroboutique@okaxis,Metro Boutique,Salem,11.639569,78.185481,fixed,True
+harinir342@upi,Harini R34,Bengaluru,13.007068,77.569033,mobile,True
+starstationery5@ybl,Star Stationery 1347,Madurai,9.936526,78.133971,fixed,True
+newkiranastore@upi,New Kirana Store,Salem,11.659284,78.111337,fixed,True
+manoja23@upi,Manoj A23,Erode,11.345492,77.682874,mobile,True
+swethaa21@oksbi,Swetha A21,Erode,11.34377,77.754074,mobile,True
+priyar20@oksbi,Priya R20,Tiruchirappalli,10.780295,78.725088,mobile,True
+goldenteastall2@okhdfcbank,Golden Tea Stall,Erode,11.329824,77.730424,fixed,True
+kavyaa65@oksbi,Kavya A65,Tiruchirappalli,10.806667,78.739732,mobile,True
+sanjaym45@okhdfcbank,Sanjay M45,Erode,11.375099,77.699834,mobile,True
+abchairstudio@okhdfcbank,ABC Hair Studio,Madurai,9.971229,78.078437,fixed,True
+greenmobileshop@oksbi,Green Mobile Shop,Salem,11.643034,78.117147,fixed,True
+royalcafe3@okhdfcbank,Royal Cafe 1140,Erode,11.348108,77.678462,fixed,True
+greenvehicleparking3@oksbi,Green Vehicle Parking,Tirupur,11.109168,77.353698,fixed,True
+metrodhaba@okaxis,Metro Dhaba,Tirupur,11.097339,77.344139,fixed,True
+saimart2@oksbi,Sai Mart,Coimbatore,11.005208,76.938291,fixed,True
+grandtextiles@ybl,Grand Textiles,Chennai,13.051259,80.254776,fixed,True
+supervegetableshop2@okaxis,Super Vegetable Shop,Salem,11.6275,78.118961,fixed,True
+classicelectronics4@okicici,Classic Electronics 1061,Bengaluru,13.007603,77.625914,fixed,True
+harir70@ybl,Hari R70,Tiruppur,11.098445,77.33026,mobile,True
+aruns30@okhdfcbank,Arun S30,Madurai,9.9506,78.134789,mobile,True
+lakshmirestaurant6@okaxis,Lakshmi Restaurant 1070,Erode,11.327148,77.738098,fixed,True
+priyas82@okaxis,Priya S82,Bengaluru,12.968416,77.600691,mobile,True
+royalelectronics9@paytm,Royal Electronics 1244,Bengaluru,12.992073,77.57758,fixed,True
+royalhairstudio@okaxis,Royal Hair Studio,Erode,11.335027,77.698637,fixed,True
+nandhinis63@okaxis,Nandhini S63,Salem,11.64213,78.14237,mobile,True
+elitebooksstationery@upi,Elite Books & Stationery,Madurai,9.97083,78.095544,fixed,True
+royalfillingstation2@okhdfcbank,Royal Filling Station,Trichy,10.784807,78.677977,fixed,True
+aishwaryap57@paytm,Aishwarya P57,Bengaluru,12.963964,77.587866,mobile,True
+harinia80@paytm,Harini A80,Bengaluru,12.945044,77.590303,mobile,True
+vigneshp10@okicici,Vignesh P10,Chennai,13.103177,80.277549,mobile,True
+sreeparkingzone3@oksbi,Sree Parking Zone,Salem,11.629814,78.137088,fixed,True
+nilaxeroxcenter2@okhdfcbank,Nila Xerox Center,Salem,11.653546,78.114595,fixed,True
+greenvegetableshop@okhdfcbank,Green Vegetable Shop,Madurai,9.907071,78.093121,fixed,True
+keerthanap93@okaxis,Keerthana P93,Bengaluru,12.987398,77.625614,mobile,True
+poojaa85@oksbi,Pooja A85,Salem,11.665896,78.160217,mobile,True
+mohanm78@paytm,Mohan M78,Madurai,9.962447,78.114743,mobile,True
+ajaym19@okaxis,Ajay M19,Erode,11.355146,77.70942,mobile,True
+praveenk88@oksbi,Praveen K88,Tiruchirappalli,10.798948,78.713689,mobile,True
+starcafe5@okhdfcbank,Star Cafe 1046,Madurai,9.955713,78.081783,fixed,True
+omhairstudio@upi,Om Hair Studio,Salem,11.664285,78.132947,fixed,True
+tamilpetrolbunk@okicici,Tamil Petrol Bunk,Salem,11.630576,78.17614,fixed,True
+praveenp86@paytm,Praveen P86,Madurai,9.928621,78.110325,mobile,True
+sreexeroxcenter2@upi,Sree Xerox Center,Salem,11.642863,78.143066,fixed,True
+aishwaryap98@paytm,Aishwarya P98,Madurai,9.885626,78.115579,mobile,True
+royalmobileshop6@paytm,Royal Mobile Shop 1219,Chennai,13.080018,80.252098,fixed,True
+ammanmobileshop9@okhdfcbank,Amman Mobile Shop 1159,Tiruchirappalli,10.751118,78.724461,fixed,True
+starpharmacy7@ybl,Star Pharmacy 1416,Bengaluru,13.009373,77.619277,fixed,True
+praveenm42@oksbi,Praveen M42,Tiruchirappalli,10.790552,78.707356,mobile,True
+praveenp82@upi,Praveen P82,Madurai,9.944074,78.11848,mobile,True
+meenam35@okhdfcbank,Meena M35,Tiruppur,11.094798,77.326483,mobile,True
+ammanstationery3@ybl,Amman Stationery 1301,Tiruppur,11.126488,77.345863,fixed,True
+rohits20@oksbi,Rohit S20,Tiruchirappalli,10.808266,78.697367,mobile,True
+vigneshs89@paytm,Vignesh S89,Madurai,9.891945,78.154327,mobile,True
+tamilpetrolbunk2@oksbi,Tamil Petrol Bunk,Salem,11.679917,78.172027,fixed,True
+kavyap28@ybl,Kavya P28,Bengaluru,12.997991,77.590736,mobile,True
+nilaparking@paytm,Nila Parking,Coimbatore,11.004512,76.982514,fixed,True
+keerthanar74@ybl,Keerthana R74,Madurai,9.886069,78.146414,mobile,True
+cityxeroxcenter2@okhdfcbank,City Xerox Center,Chennai,13.107801,80.259592,fixed,True
+rohitk21@oksbi,Rohit K21,Madurai,9.952869,78.155148,mobile,True
+suresha47@paytm,Suresh A47,Bengaluru,13.003278,77.632168,mobile,True
+praveens62@ybl,Praveen S62,Tiruppur,11.081063,77.30996,mobile,True
+murugancafe@okhdfcbank,Murugan Cafe,Salem,11.627088,78.111006,fixed,True
+meenam74@paytm,Meena M74,Tiruppur,11.079013,77.377714,mobile,True
+muruganhardwarestore@okicici,Murugan Hardware Store,Madurai,9.926937,78.165586,fixed,True
+eliteboutique@upi,Elite Boutique,Tirupur,11.097673,77.332812,fixed,True
+starpetrolstation5@oksbi,Star Petrol Station 1446,Madurai,9.924366,78.140886,fixed,True
+lakshmistationery8@okicici,Lakshmi Stationery 1444,Erode,11.312458,77.746192,fixed,True
+poojap63@okicici,Pooja P63,Chennai,13.104003,80.276825,mobile,True
+ombusstandcounter4@okhdfcbank,Om Bus Stand Counter,Chennai,13.012943,80.209636,fixed,True
+tamiltoolshardware@upi,Tamil Tools & Hardware,Tirupur,11.133874,77.316078,fixed,True
+mohanm27@ybl,Mohan M27,Madurai,9.900661,78.082378,mobile,True
+priyak25@okhdfcbank,Priya K25,Madurai,9.96219,78.101797,mobile,True
+dineshs94@oksbi,Dinesh S94,Chennai,13.079073,80.260192,mobile,True
+nilafashionstore@oksbi,Nila Fashion Store,Erode,11.361375,77.712094,fixed,True
+sribookstore@ybl,Sri Book Store 1155,Chennai,13.055146,80.291055,fixed,True
+swetham64@okicici,Swetha M64,Salem,11.643688,78.108761,mobile,True
+arunk41@paytm,Arun K41,Tiruchirappalli,10.777186,78.696172,mobile,True
+rohita30@paytm,Rohit A30,Madurai,9.951436,78.151357,mobile,True
+harim56@okaxis,Hari M56,Erode,11.325349,77.684951,mobile,True
+grandboutique2@upi,Grand Boutique,Erode,11.317054,77.720361,fixed,True
+royaltextiles7@okhdfcbank,Royal Textiles 1328,Coimbatore,11.019809,76.929257,fixed,True
+vigneshm89@upi,Vignesh M89,Erode,11.336866,77.712098,mobile,True
+starelectronics7@paytm,Star Electronics,Tirupur,11.110149,77.365145,fixed,True
+dineshm30@okicici,Dinesh M30,Tiruchirappalli,10.82835,78.70642,mobile,True
+ganeshtollplaza@upi,Ganesh Toll Plaza,Erode,11.349768,77.717219,fixed,True
+mohans98@ybl,Mohan S98,Chennai,13.106247,80.245188,mobile,True
+rahuls42@okaxis,Rahul S42,Madurai,9.934464,78.101817,mobile,True
+saiteashop@okicici,Sai Tea Shop,Tirupur,11.135625,77.330537,fixed,True
+praveenp54@paytm,Praveen P54,Erode,11.359592,77.699226,mobile,True
+classicbookstore5@okicici,Classic Book Store 1439,Bengaluru,12.972185,77.622234,fixed,True
+arunr35@oksbi,Arun R35,Chennai,13.115608,80.261572,mobile,True
+kavink50@paytm,Kavin K50,Tiruchirappalli,10.819874,78.736746,mobile,True
+ajayk13@okhdfcbank,Ajay K13,Chennai,13.047251,80.278231,mobile,True
+balajirestaurant2@okaxis,Balaji Restaurant,Trichy,10.775961,78.735855,fixed,True
+dineshm69@okicici,Dinesh M69,Chennai,13.070615,80.268179,mobile,True
+priyam95@okaxis,Priya M95,Madurai,9.955672,78.130028,mobile,True
+granddigitalstore@okhdfcbank,Grand Digital Store,Salem,11.641043,78.126155,fixed,True
+poojam85@ybl,Pooja M85,Erode,11.334525,77.736967,mobile,True
+harinip482@okicici,Harini P48,Erode,11.345414,77.678697,mobile,True
+supervehicleparking2@paytm,Super Vehicle Parking,Coimbatore,10.971592,77.002753,fixed,True
+priyar66@okhdfcbank,Priya R66,Madurai,9.903599,78.120963,mobile,True
+swetham92@ybl,Swetha M92,Madurai,9.885446,78.095806,mobile,True
+smartcafe2@oksbi,Smart Cafe 1370,Coimbatore,11.04472,76.973977,fixed,True
+rohitp65@okaxis,Rohit P65,Coimbatore,11.048054,76.977734,mobile,True
+sreetoolshardware3@ybl,Sree Tools & Hardware,Trichy,10.75367,78.668522,fixed,True
+mohana782@okaxis,Mohan A78,Salem,11.654684,78.162449,mobile,True
+cityteacorner@okicici,City Tea Corner,Tirupur,11.135057,77.342939,fixed,True
+smartbakery11@ybl,Smart Bakery 1148,Chennai,13.050425,80.289804,fixed,True
+krishnafillingstation@oksbi,Krishna Filling Station,Erode,11.366214,77.711299,fixed,True
+aruns27@okhdfcbank,Arun S27,Madurai,9.909646,78.138824,mobile,True
+manojm76@okicici,Manoj M76,Chennai,13.052237,80.262285,mobile,True
+tamilbakery@okaxis,Tamil Bakery,Madurai,9.894431,78.141118,fixed,True
+suncakesmore@paytm,Sun Cakes & More,Trichy,10.766856,78.733371,fixed,True
+murugansalon@okhdfcbank,Murugan Salon,Erode,11.363931,77.68776,fixed,True
+redteapoint@okicici,Red Tea Point,Salem,11.676155,78.170866,fixed,True
+muruganteashop@paytm,Murugan Tea Shop,Salem,11.653037,78.117957,fixed,True
+goldenfuelstation2@okaxis,Golden Fuel Station,Trichy,10.807311,78.733696,fixed,True
+goldenhairstudio2@ybl,Golden Hair Studio,Tirupur,11.107975,77.319812,fixed,True
+aishwaryaa14@oksbi,Aishwarya A14,Erode,11.325711,77.756427,mobile,True
+newpharmacy5@okaxis,New Pharmacy 1440,Bengaluru,12.989615,77.599323,fixed,True
+sanjaya68@okicici,Sanjay A68,Erode,11.337998,77.742333,mobile,True
+sanjayp87@paytm,Sanjay P87,Bengaluru,12.988562,77.584517,mobile,True
+kavyaa30@upi,Kavya A30,Chennai,13.049995,80.287198,mobile,True
+kavyas70@paytm,Kavya S70,Tiruppur,11.126305,77.336618,mobile,True
+smartstationery5@okaxis,Smart Stationery 1154,Salem,11.660592,78.118593,fixed,True
+rohitm63@oksbi,Rohit M63,Chennai,13.112283,80.248837,mobile,True
+divyam612@paytm,Divya M61,Tiruppur,11.087586,77.320595,mobile,True
+grandvehicleparking@ybl,Grand Vehicle Parking,Salem,11.641316,78.154652,fixed,True
+ajayr29@upi,Ajay R29,Bengaluru,12.996053,77.568729,mobile,True
+harim66@okaxis,Hari M66,Chennai,13.112169,80.24399,mobile,True
+lakshmitextiles8@okicici,Lakshmi Textiles,Trichy,10.790299,78.742629,fixed,True
+sribakery4@ybl,Sri Bakery,Salem,11.657754,78.125253,fixed,True
+vigneshm15@paytm,Vignesh M15,Bengaluru,12.949152,77.554896,mobile,True
+bharathelectronics3@paytm,Bharath Electronics,Trichy,10.764339,78.716319,fixed,True
+divyas68@ybl,Divya S68,Coimbatore,11.038873,76.956277,mobile,True
+royalgrocerystore5@okaxis,Royal Grocery Store 1292,Erode,11.347963,77.73738,fixed,True
+naveenk82@okaxis,Naveen K82,Coimbatore,11.040351,76.971304,mobile,True
+divyak32@okhdfcbank,Divya K32,Chennai,13.110043,80.299397,mobile,True
+dineshs65@paytm,Dinesh S65,Salem,11.695646,78.153342,mobile,True
+srielectronics3@ybl,Sri Electronics 1137,Salem,11.628346,78.132681,fixed,True
+harinik24@paytm,Harini K24,Tiruppur,11.145267,77.323378,mobile,True
+mohanr50@ybl,Mohan R50,Erode,11.365442,77.712298,mobile,True
+aruns43@okaxis,Arun S43,Salem,11.673714,78.178586,mobile,True
+cityrestaurant@paytm,City Restaurant,Coimbatore,11.021962,77.014673,fixed,True
+primehairstudio2@upi,Prime Hair Studio,Tirupur,11.079165,77.333406,fixed,True
+sricafe4@oksbi,Sri Cafe 1258,Bengaluru,12.967875,77.59566,fixed,True
+grandvegetableshop3@upi,Grand Vegetable Shop,Coimbatore,10.973438,76.89912,fixed,True
+primepetrolbunk@upi,Prime Petrol Bunk,Trichy,10.766718,78.679039,fixed,True
+ammanhardwarestore8@oksbi,Amman Hardware Store 1435,Chennai,13.069603,80.252819,fixed,True
+srihardwarestore3@okaxis,Sri Hardware Store 1480,Madurai,9.927629,78.083686,fixed,True
+bluevehicleparking2@okicici,Blue Vehicle Parking,Tirupur,11.109129,77.319092,fixed,True
+sricafe5@oksbi,Sri Cafe 1283,Coimbatore,11.009791,76.983204,fixed,True
+snehas21@paytm,Sneha S21,Coimbatore,11.025719,76.956634,mobile,True
+annabooksstationery2@oksbi,Anna Books & Stationery,Trichy,10.780973,78.712899,fixed,True
+smartmobileshop5@ybl,Smart Mobile Shop 1307,Salem,11.646724,78.168869,fixed,True
+royaltextiles8@okaxis,Royal Textiles 1401,Coimbatore,10.996763,76.921224,fixed,True
+smartgrocerystore@okicici,Smart Grocery Store 1409,Erode,11.30801,77.743112,fixed,True
+poojas27@upi,Pooja S27,Tiruchirappalli,10.775903,78.727658,mobile,True
+royalrestaurant3@okaxis,Royal Restaurant 1497,Bengaluru,13.008312,77.609204,fixed,True
+poojap72@ybl,Pooja P72,Tiruchirappalli,10.79998,78.742614,mobile,True
+nandhinir76@okhdfcbank,Nandhini R76,Erode,11.332047,77.750632,mobile,True
+divyap29@okaxis,Divya P29,Erode,11.341192,77.694864,mobile,True
+smartstationery6@ybl,Smart Stationery 1355,Tiruppur,11.075094,77.344025,fixed,True
+aruns34@upi,Arun S34,Salem,11.675371,78.108589,mobile,True
+snehaa26@okhdfcbank,Sneha A26,Bengaluru,12.960939,77.622187,mobile,True
+rahulk36@oksbi,Rahul K36,Bengaluru,13.005872,77.621166,mobile,True
+sritextiles4@upi,Sri Textiles 1052,Salem,11.681003,78.106135,fixed,True
+tamilparkingzone2@okhdfcbank,Tamil Parking Zone,Tirupur,11.130939,77.336723,fixed,True
+swethas63@okaxis,Swetha S63,Tiruppur,11.136412,77.306808,mobile,True
+mohank90@okicici,Mohan K90,Bengaluru,12.990426,77.565795,mobile,True
+sureshp62@okaxis,Suresh P62,Salem,11.679966,78.154964,mobile,True
+classicbookstore6@ybl,Classic Book Store 1184,Bengaluru,13.006038,77.587792,fixed,True
+lakshmipharmacy7@ybl,Lakshmi Pharmacy 1060,Salem,11.628317,78.125936,fixed,True
+grandhotel@okaxis,Grand Hotel,Trichy,10.760143,78.74152,fixed,True
+harik69@okicici,Hari K69,Coimbatore,10.982128,76.96863,mobile,True
+vigneshp63@ybl,Vignesh P63,Madurai,9.885297,78.097745,mobile,True
+aishwaryar46@oksbi,Aishwarya R46,Erode,11.349355,77.687392,mobile,True
+mohans99@ybl,Mohan S99,Madurai,9.920373,78.15642,mobile,True
+lakshmitoolshardware3@okicici,Lakshmi Tools & Hardware,Salem,11.637841,78.10623,fixed,True
+newvegetableshop2@upi,New Vegetable Shop 1021,Salem,11.656219,78.159735,fixed,True
+grandsweets@okhdfcbank,Grand Sweets,Salem,11.666048,78.132548,fixed,True
+greentoolshardware3@ybl,Green Tools & Hardware,Erode,11.357786,77.734142,fixed,True
+ammanvegetableshop8@okicici,Amman Vegetable Shop 1485,Erode,11.361862,77.722182,fixed,True
+kavina50@okhdfcbank,Kavin A50,Erode,11.312836,77.713074,mobile,True
+ammantextiles2@okaxis,Amman Textiles 1039,Madurai,9.956377,78.139193,fixed,True
+greenstationery@okhdfcbank,Green Stationery,Chennai,13.141828,80.211335,fixed,True
+lakshmihardwarestore7@oksbi,Lakshmi Hardware Store,Erode,11.321341,77.736513,fixed,True
+primepetrolbunk2@okaxis,Prime Petrol Bunk,Salem,11.637477,78.138199,fixed,True
+xyzvehicleparking2@ybl,XYZ Vehicle Parking,Chennai,13.002829,80.232247,fixed,True
+vigneshm59@paytm,Vignesh M59,Coimbatore,10.985603,76.916884,mobile,True
+lakshmistationery9@oksbi,Lakshmi Stationery 1029,Madurai,9.923709,78.148972,fixed,True
+ammansalon4@paytm,Amman Salon 1486,Coimbatore,10.978822,76.927426,fixed,True
+elitedhaba@okhdfcbank,Elite Dhaba,Chennai,13.1449,80.262829,fixed,True
+harinip42@upi,Harini P42,Bengaluru,13.008884,77.599653,mobile,True
+sureshk85@paytm,Suresh K85,Tiruppur,11.075576,77.333857,mobile,True
+rahulr172@paytm,Rahul R17,Bengaluru,12.935983,77.603459,mobile,True
+bluebooksstationery@oksbi,Blue Books & Stationery,Salem,11.703064,78.12736,fixed,True
+shalinip90@oksbi,Shalini P90,Bengaluru,12.980905,77.579595,mobile,True
+cityboutique@upi,City Boutique,Erode,11.316642,77.73101,fixed,True
+ompetrolbunk@ybl,Om Petrol Bunk,Chennai,13.063459,80.339598,fixed,True
+poojak75@okaxis,Pooja K75,Erode,11.372038,77.686077,mobile,True
+ganeshgarments3@paytm,Ganesh Garments,Erode,11.351422,77.728547,fixed,True
+manojk32@ybl,Manoj K32,Bengaluru,12.950303,77.606228,mobile,True
+gokulr75@paytm,Gokul R75,Chennai,13.098258,80.267135,mobile,True
+nandhinim39@okhdfcbank,Nandhini M39,Bengaluru,12.963613,77.603607,mobile,True
+manoja502@paytm,Manoj A50,Coimbatore,10.984589,76.958303,mobile,True
+omvegetableshop2@paytm,Om Vegetable Shop,Trichy,10.769269,78.728069,fixed,True
+kavina91@ybl,Kavin A91,Erode,11.3576,77.697129,mobile,True
+kaveribusstandcounter3@okaxis,Kaveri Bus Stand Counter,Chennai,13.141608,80.338517,fixed,True
+rahulr66@upi,Rahul R66,Bengaluru,12.986629,77.623942,mobile,True
+bharathgarments2@okicici,Bharath Garments,Chennai,13.013236,80.311861,fixed,True
+rahulk74@upi,Rahul K74,Coimbatore,11.041811,76.962112,mobile,True
+ammanclothingstore10@paytm,Amman Clothing Store 1163,Tiruppur,11.087965,77.34821,fixed,True
+lakshmirestaurant7@okaxis,Lakshmi Restaurant 1496,Tiruchirappalli,10.83023,78.730595,fixed,True
+dinesha97@paytm,Dinesh A97,Madurai,9.959653,78.121982,mobile,True
+starpharmacy8@ybl,Star Pharmacy 1153,Coimbatore,11.022106,76.947863,fixed,True
+newpetrolstation4@oksbi,New Petrol Station 1368,Tiruchirappalli,10.809666,78.684107,fixed,True
+abcbhavan@okhdfcbank,ABC Bhavan,Coimbatore,11.015096,77.012501,fixed,True
+snehas302@okaxis,Sneha S30,Tiruchirappalli,10.807153,78.725657,mobile,True
+smartsalon6@okhdfcbank,Smart Salon 1181,Tiruppur,11.145801,77.366451,fixed,True
+eliteteashop@ybl,Elite Tea Shop,Madurai,9.913461,78.080202,fixed,True
+superfashionstore3@okicici,Super Fashion Store,Erode,11.317292,77.688396,fixed,True
+keerthanak17@okaxis,Keerthana K17,Madurai,9.915162,78.103529,mobile,True
+omstationery2@upi,Om Stationery,Madurai,9.974871,78.114362,fixed,True
+priyam93@okicici,Priya M93,Tiruchirappalli,10.809143,78.678351,mobile,True
+metrodigitalstore@oksbi,Metro Digital Store,Salem,11.639565,78.10649,fixed,True
+classicelectronics5@ybl,Classic Electronics 1077,Tiruppur,11.074017,77.352903,fixed,True
+primemobileshop@okaxis,Prime Mobile Shop,Trichy,10.793577,78.675367,fixed,True
+saivegetableshop@upi,Sai Vegetable Shop,Madurai,9.949743,78.10394,fixed,True
+shalinip99@okicici,Shalini P99,Chennai,13.075138,80.280003,mobile,True
+newclothingstore3@ybl,New Clothing Store 1017,Chennai,13.110034,80.271313,fixed,True
+lakshmivegetableshop7@okhdfcbank,Lakshmi Vegetable Shop 1276,Chennai,13.115855,80.28635,fixed,True
+ganeshmobileshop@paytm,Ganesh Mobile Shop,Madurai,9.950307,78.158911,fixed,True
+bluebeautyparlour@paytm,Blue Beauty Parlour,Salem,11.69937,78.12867,fixed,True
+vigneshk26@paytm,Vignesh K26,Salem,11.676511,78.113026,mobile,True
+supertoolshardware3@okhdfcbank,Super Tools & Hardware,Coimbatore,11.006082,76.939191,fixed,True
+ajayr66@okhdfcbank,Ajay R66,Erode,11.371357,77.738539,mobile,True
+primestationery@upi,Prime Stationery,Erode,11.321878,77.689419,fixed,True
+metroparkingzone@oksbi,Metro Parking Zone,Tirupur,11.091383,77.353069,fixed,True
+mohanp10@oksbi,Mohan P10,Coimbatore,11.044641,76.945496,mobile,True
+metroelectronics@ybl,Metro Electronics,Erode,11.367128,77.692047,fixed,True
+ajayp992@paytm,Ajay P99,Tiruppur,11.120225,77.37628,mobile,True
+newgrocerystore6@okicici,New Grocery Store 1130,Tiruppur,11.111426,77.337483,fixed,True
+royalbakery6@oksbi,Royal Bakery 1022,Bengaluru,12.949576,77.581647,fixed,True
+praveenp43@okaxis,Praveen P43,Salem,11.645853,78.182682,mobile,True
+harik48@oksbi,Hari K48,Tiruppur,11.132868,77.351066,mobile,True
+vijayk25@okicici,Vijay K25,Tiruppur,11.14307,77.314089,mobile,True
+royalchemist3@upi,Royal Chemist,Coimbatore,10.986619,76.92903,fixed,True
+elitecafe2@paytm,Elite Cafe,Erode,11.320883,77.702952,fixed,True
+classicvegetableshop6@paytm,Classic Vegetable Shop 1479,Salem,11.632921,78.139158,fixed,True
+starbookstore2@okicici,Star Book Store 1391,Erode,11.315088,77.724602,fixed,True
+sureshk60@oksbi,Suresh K60,Salem,11.651076,78.176408,mobile,True
+starstationery6@okicici,Star Stationery 1364,Erode,11.315317,77.754027,fixed,True
+ajaym93@ybl,Ajay M93,Madurai,9.937179,78.114663,mobile,True
+sungarments@oksbi,Sun Garments,Coimbatore,10.964683,76.983726,fixed,True
+harinip15@ybl,Harini P15,Chennai,13.056064,80.240145,mobile,True
+rahulm41@okicici,Rahul M41,Madurai,9.94354,78.094749,mobile,True
+greenbusstandcounter@upi,Green Bus Stand Counter,Erode,11.34665,77.70015,fixed,True
+harinim31@ybl,Harini M31,Coimbatore,11.041067,76.967532,mobile,True
+ammanbakery5@paytm,Amman Bakery 1298,Erode,11.301416,77.701861,fixed,True
+manojk11@paytm,Manoj K11,Tiruchirappalli,10.759675,78.738071,mobile,True
+deepaa56@okaxis,Deepa A56,Coimbatore,11.012206,76.977412,mobile,True
+elitejuicecorner@okaxis,Elite Juice Corner,Coimbatore,11.038908,77.007001,fixed,True
+kavinr72@upi,Kavin R72,Salem,11.629329,78.135555,mobile,True
+classicrestaurant4@paytm,Classic Restaurant 1268,Tiruchirappalli,10.796698,78.726503,fixed,True
+deepak29@ybl,Deepa K29,Tiruchirappalli,10.774514,78.715944,mobile,True
+cityfashionstore2@ybl,City Fashion Store,Trichy,10.785338,78.665752,fixed,True
+sunstationery2@paytm,Sun Stationery,Salem,11.679723,78.148464,fixed,True
+meenam98@oksbi,Meena M98,Erode,11.321587,77.739659,mobile,True
+tamilcafe2@okicici,Tamil Cafe,Madurai,9.908147,78.083453,fixed,True
+anithaa88@okaxis,Anitha A88,Bengaluru,12.950152,77.559456,mobile,True
+lakshmivegetableshop8@upi,Lakshmi Vegetable Shop 1083,Salem,11.675972,78.145266,fixed,True
+krishnacoffeeshop2@okhdfcbank,Krishna Coffee Shop,Trichy,10.767547,78.682609,fixed,True
+classicfruitsvegetables2@okicici,Classic Fruits & Vegetables,Salem,11.63822,78.158053,fixed,True
+kavyar99@oksbi,Kavya R99,Tiruppur,11.076286,77.326973,mobile,True
+grandbusstandcounter@ybl,Grand Bus Stand Counter,Chennai,13.059611,80.226347,fixed,True
+lakshmibusstandcounter@upi,Lakshmi Bus Stand Counter,Madurai,9.891387,78.127316,fixed,True
+classicbakery5@upi,Classic Bakery 1185,Tiruppur,11.086463,77.326595,fixed,True
+rahulp422@ybl,Rahul P42,Tiruchirappalli,10.781043,78.736993,mobile,True
+sreehotel@upi,Sree Hotel,Erode,11.363478,77.721629,fixed,True
+newhardwarestore5@upi,New Hardware Store 1216,Coimbatore,11.028153,76.939968,fixed,True
+poojar61@oksbi,Pooja R61,Coimbatore,10.994313,76.930496,mobile,True
+swethar22@okaxis,Swetha R22,Tiruchirappalli,10.800061,78.736709,mobile,True
+naveens172@okicici,Naveen S17,Coimbatore,11.042715,76.933342,mobile,True
+newhairstudio@okhdfcbank,New Hair Studio,Trichy,10.792659,78.672994,fixed,True
+divyas38@oksbi,Divya S38,Madurai,9.912543,78.111228,mobile,True
+saitoolshardware@upi,Sai Tools & Hardware,Chennai,13.054514,80.288865,fixed,True
+nandhinip88@okicici,Nandhini P88,Tiruchirappalli,10.804954,78.735348,mobile,True
+newstationery7@okhdfcbank,New Stationery 1483,Madurai,9.952646,78.123624,fixed,True
+muruganmedicals2@okaxis,Murugan Medicals,Coimbatore,10.984069,77.012024,fixed,True
+smartbookstore3@okicici,Smart Book Store 1239,Tiruppur,11.13397,77.377469,fixed,True
+abcpharmacy@okicici,ABC Pharmacy,Trichy,10.816632,78.710018,fixed,True
+praveenp89@okicici,Praveen P89,Tiruppur,11.138771,77.30633,mobile,True
+rahula78@okaxis,Rahul A78,Tiruppur,11.08369,77.355758,mobile,True
+starelectronics8@upi,Star Electronics 1096,Salem,11.696973,78.17213,fixed,True
+royalelectronics10@oksbi,Royal Electronics 1131,Chennai,13.080418,80.280264,fixed,True
+newgrocerystore7@paytm,New Grocery Store 1295,Erode,11.363684,77.713244,fixed,True
+blueparkingzone@paytm,Blue Parking Zone,Erode,11.358441,77.734512,fixed,True
