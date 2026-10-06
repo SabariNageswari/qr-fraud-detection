@@ -255,7 +255,6 @@ def go_to_scan():
     st.session_state.result = None
 
 def show_fraud_alert():
-    # Full-screen fraud alert
     alert_html = """
 <style>
 .fraud-overlay {
@@ -270,7 +269,6 @@ def show_fraud_alert():
     align-items: center;
     justify-content: center;
 }
-
 .fraud-alert-box {
     width: 85%;
     max-width: 600px;
@@ -279,71 +277,44 @@ def show_fraud_alert():
     padding: 35px 25px;
     text-align: center;
     border-radius: 20px;
-    box-shadow:
-        0 0 30px rgba(239, 68, 68, 0.95),
-        0 0 80px rgba(220, 38, 38, 0.65);
+    box-shadow: 0 0 30px rgba(239, 68, 68, 0.95), 0 0 80px rgba(220, 38, 38, 0.65);
     animation: fraudBlink 0.7s infinite;
 }
-
 @keyframes fraudBlink {
     0%, 100% {
         opacity: 1;
         transform: scale(1);
     }
-
     50% {
         opacity: 0.65;
         transform: scale(1.03);
     }
 }
-
 .fraud-title {
     font-size: 30px;
     font-weight: 800;
     margin-bottom: 15px;
 }
-
 .fraud-message {
     font-size: 20px;
     font-weight: 700;
 }
-
 .fraud-subtitle {
     margin-top: 18px;
     font-size: 14px;
 }
 </style>
-
-<div class="fraud-overlay">
-    <div class="fraud-alert-box">
-        <div class="fraud-title">
-            🚨 FRAUDULENT QR CODE 🚨
-        </div>
-
-        <div class="fraud-message">
-            ⚠️ DO NOT PROCEED
-        </div>
-
-        <div class="fraud-subtitle">
-            Security alert activated...
-        </div>
-    </div>
-</div>
+<div class="fraud-overlay"><div class="fraud-alert-box"><div class="fraud-title">🚨 FRAUDULENT QR CODE 🚨</div><div class="fraud-message">⚠️ DO NOT PROCEED</div><div class="fraud-subtitle">Security alert activated...</div></div></div>
 """
 
     st.markdown(alert_html, unsafe_allow_html=True)
 
-    # 3 beep sounds
     components.html(
         """
 <script>
 (function() {
-    const AudioContext =
-        window.AudioContext ||
-        window.webkitAudioContext;
-
+    const AudioContext = window.AudioContext || window.webkitAudioContext;
     if (!AudioContext) return;
-
     const audioContext = new AudioContext();
 
     function beep() {
@@ -353,19 +324,13 @@ def show_fraud_alert():
         oscillator.type = "square";
         oscillator.frequency.value = 900;
 
-        gain.gain.setValueAtTime(
-            0.18,
-            audioContext.currentTime
-        );
+        gain.gain.setValueAtTime(0.18, audioContext.currentTime);
 
         oscillator.connect(gain);
         gain.connect(audioContext.destination);
 
         oscillator.start();
-
-        oscillator.stop(
-            audioContext.currentTime + 0.25
-        );
+        oscillator.stop(audioContext.currentTime + 0.25);
     }
 
     async function playBeeps() {
@@ -374,17 +339,9 @@ def show_fraud_alert():
         }
 
         beep();
-
-        await new Promise(
-            resolve => setTimeout(resolve, 400)
-        );
-
+        await new Promise(resolve => setTimeout(resolve, 400));
         beep();
-
-        await new Promise(
-            resolve => setTimeout(resolve, 400)
-        );
-
+        await new Promise(resolve => setTimeout(resolve, 400));
         beep();
     }
 
@@ -395,6 +352,7 @@ def show_fraud_alert():
         height=1,
         width=1
     )
+        
 
         
 STATUS_STYLES = {
