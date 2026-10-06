@@ -255,74 +255,71 @@ def go_to_scan():
     st.session_state.result = None
 
 def show_fraud_alert():
-    components.html(
+    # Full-screen alert overlay
+    st.markdown(
         """
         <style>
-            html, body {
-                margin: 0;
-                padding: 0;
-                background: rgba(0, 0, 0, 0.95);
-                overflow: hidden;
+        .fraud-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: rgba(0, 0, 0, 0.96);
+            z-index: 999999;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .fraud-alert-box {
+            width: 85%;
+            max-width: 600px;
+            background: #DC2626;
+            color: white;
+            padding: 35px 25px;
+            text-align: center;
+            border-radius: 20px;
+
+            box-shadow:
+                0 0 30px rgba(239, 68, 68, 0.95),
+                0 0 80px rgba(220, 38, 38, 0.65);
+
+            animation: fraudBlink 0.7s infinite;
+        }
+
+        @keyframes fraudBlink {
+            0%, 100% {
+                opacity: 1;
+                transform: scale(1);
             }
 
-            .alert-screen {
-                width: 100%;
-                height: 100vh;
-                min-height: 420px;
-                background: rgba(0, 0, 0, 0.95);
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                font-family: Arial, sans-serif;
+            50% {
+                opacity: 0.65;
+                transform: scale(1.03);
             }
+        }
 
-            .fraud-alert {
-                width: 85%;
-                max-width: 520px;
-                background: #DC2626;
-                color: white;
-                padding: 32px 22px;
-                text-align: center;
-                border-radius: 18px;
-                box-shadow:
-                    0 0 25px rgba(239, 68, 68, 0.9),
-                    0 0 60px rgba(220, 38, 38, 0.5);
+        .fraud-title {
+            font-size: 30px;
+            font-weight: 800;
+            margin-bottom: 15px;
+        }
 
-                animation: alertPulse 0.7s infinite;
-            }
+        .fraud-message {
+            font-size: 20px;
+            font-weight: 700;
+        }
 
-            @keyframes alertPulse {
-                0%, 100% {
-                    opacity: 1;
-                    transform: scale(1);
-                }
-
-                50% {
-                    opacity: 0.65;
-                    transform: scale(1.03);
-                }
-            }
-
-            .fraud-title {
-                font-size: 28px;
-                font-weight: 800;
-                margin-bottom: 12px;
-            }
-
-            .fraud-message {
-                font-size: 18px;
-                font-weight: 700;
-            }
-
-            .beep-text {
-                margin-top: 18px;
-                font-size: 14px;
-                opacity: 0.9;
-            }
+        .fraud-subtitle {
+            margin-top: 18px;
+            font-size: 14px;
+        }
         </style>
 
-        <div class="alert-screen">
-            <div class="fraud-alert">
+        <div class="fraud-overlay">
+            <div class="fraud-alert-box">
+
                 <div class="fraud-title">
                     🚨 FRAUDULENT QR CODE 🚨
                 </div>
@@ -331,77 +328,84 @@ def show_fraud_alert():
                     ⚠️ DO NOT PROCEED
                 </div>
 
-                <div class="beep-text">
+                <div class="fraud-subtitle">
                     Security alert activated...
                 </div>
+
             </div>
         </div>
+        """,
+        unsafe_allow_html=True
+    )
 
+    # Beep sounds
+    components.html(
+        """
         <script>
-            (function() {
+        (function() {
 
-                const AudioContext =
-                    window.AudioContext ||
-                    window.webkitAudioContext;
+            const AudioContext =
+                window.AudioContext ||
+                window.webkitAudioContext;
 
-                if (!AudioContext) return;
+            if (!AudioContext) return;
 
-                const audioContext = new AudioContext();
+            const audioContext = new AudioContext();
 
-                function beep() {
+            function beep() {
 
-                    const oscillator =
-                        audioContext.createOscillator();
+                const oscillator =
+                    audioContext.createOscillator();
 
-                    const gain =
-                        audioContext.createGain();
+                const gain =
+                    audioContext.createGain();
 
-                    oscillator.type = "square";
-                    oscillator.frequency.value = 900;
+                oscillator.type = "square";
+                oscillator.frequency.value = 900;
 
-                    gain.gain.setValueAtTime(
-                        0.18,
-                        audioContext.currentTime
-                    );
+                gain.gain.setValueAtTime(
+                    0.18,
+                    audioContext.currentTime
+                );
 
-                    oscillator.connect(gain);
-                    gain.connect(audioContext.destination);
+                oscillator.connect(gain);
+                gain.connect(audioContext.destination);
 
-                    oscillator.start();
+                oscillator.start();
 
-                    oscillator.stop(
-                        audioContext.currentTime + 0.25
-                    );
+                oscillator.stop(
+                    audioContext.currentTime + 0.25
+                );
+            }
+
+            async function playBeeps() {
+
+                if (audioContext.state === "suspended") {
+                    await audioContext.resume();
                 }
 
-                async function playBeeps() {
+                beep();
 
-                    if (audioContext.state === "suspended") {
-                        await audioContext.resume();
-                    }
+                await new Promise(
+                    resolve => setTimeout(resolve, 400)
+                );
 
-                    beep();
+                beep();
 
-                    await new Promise(
-                        resolve => setTimeout(resolve, 400)
-                    );
+                await new Promise(
+                    resolve => setTimeout(resolve, 400)
+                );
 
-                    beep();
+                beep();
+            }
 
-                    await new Promise(
-                        resolve => setTimeout(resolve, 400)
-                    );
+            playBeeps();
 
-                    beep();
-                }
-
-                playBeeps();
-
-            })();
+        })();
         </script>
         """,
-        height=500,
-        scrolling=False
+        height=1,
+        width=1
     )
 
 
