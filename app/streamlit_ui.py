@@ -255,160 +255,148 @@ def go_to_scan():
     st.session_state.result = None
 
 def show_fraud_alert():
-    # Full-screen alert overlay
-    st.markdown(
-        """
-        <style>
-        .fraud-overlay {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100vw;
-            height: 100vh;
-            background: rgba(0, 0, 0, 0.96);
-            z-index: 999999;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
+    # Full-screen fraud alert
+    alert_html = """
+<style>
+.fraud-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.96);
+    z-index: 999999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
-        .fraud-alert-box {
-            width: 85%;
-            max-width: 600px;
-            background: #DC2626;
-            color: white;
-            padding: 35px 25px;
-            text-align: center;
-            border-radius: 20px;
+.fraud-alert-box {
+    width: 85%;
+    max-width: 600px;
+    background: #DC2626;
+    color: white;
+    padding: 35px 25px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow:
+        0 0 30px rgba(239, 68, 68, 0.95),
+        0 0 80px rgba(220, 38, 38, 0.65);
+    animation: fraudBlink 0.7s infinite;
+}
 
-            box-shadow:
-                0 0 30px rgba(239, 68, 68, 0.95),
-                0 0 80px rgba(220, 38, 38, 0.65);
+@keyframes fraudBlink {
+    0%, 100% {
+        opacity: 1;
+        transform: scale(1);
+    }
 
-            animation: fraudBlink 0.7s infinite;
-        }
+    50% {
+        opacity: 0.65;
+        transform: scale(1.03);
+    }
+}
 
-        @keyframes fraudBlink {
-            0%, 100% {
-                opacity: 1;
-                transform: scale(1);
-            }
+.fraud-title {
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
 
-            50% {
-                opacity: 0.65;
-                transform: scale(1.03);
-            }
-        }
+.fraud-message {
+    font-size: 20px;
+    font-weight: 700;
+}
 
-        .fraud-title {
-            font-size: 30px;
-            font-weight: 800;
-            margin-bottom: 15px;
-        }
+.fraud-subtitle {
+    margin-top: 18px;
+    font-size: 14px;
+}
+</style>
 
-        .fraud-message {
-            font-size: 20px;
-            font-weight: 700;
-        }
-
-        .fraud-subtitle {
-            margin-top: 18px;
-            font-size: 14px;
-        }
-        </style>
-
-        <div class="fraud-overlay">
-            <div class="fraud-alert-box">
-
-                <div class="fraud-title">
-                    🚨 FRAUDULENT QR CODE 🚨
-                </div>
-
-                <div class="fraud-message">
-                    ⚠️ DO NOT PROCEED
-                </div>
-
-                <div class="fraud-subtitle">
-                    Security alert activated...
-                </div>
-
-            </div>
+<div class="fraud-overlay">
+    <div class="fraud-alert-box">
+        <div class="fraud-title">
+            🚨 FRAUDULENT QR CODE 🚨
         </div>
-        """,
-        unsafe_allow_html=True
-    )
 
-    # Beep sounds
+        <div class="fraud-message">
+            ⚠️ DO NOT PROCEED
+        </div>
+
+        <div class="fraud-subtitle">
+            Security alert activated...
+        </div>
+    </div>
+</div>
+"""
+
+    st.markdown(alert_html, unsafe_allow_html=True)
+
+    # 3 beep sounds
     components.html(
         """
-        <script>
-        (function() {
+<script>
+(function() {
+    const AudioContext =
+        window.AudioContext ||
+        window.webkitAudioContext;
 
-            const AudioContext =
-                window.AudioContext ||
-                window.webkitAudioContext;
+    if (!AudioContext) return;
 
-            if (!AudioContext) return;
+    const audioContext = new AudioContext();
 
-            const audioContext = new AudioContext();
+    function beep() {
+        const oscillator = audioContext.createOscillator();
+        const gain = audioContext.createGain();
 
-            function beep() {
+        oscillator.type = "square";
+        oscillator.frequency.value = 900;
 
-                const oscillator =
-                    audioContext.createOscillator();
+        gain.gain.setValueAtTime(
+            0.18,
+            audioContext.currentTime
+        );
 
-                const gain =
-                    audioContext.createGain();
+        oscillator.connect(gain);
+        gain.connect(audioContext.destination);
 
-                oscillator.type = "square";
-                oscillator.frequency.value = 900;
+        oscillator.start();
 
-                gain.gain.setValueAtTime(
-                    0.18,
-                    audioContext.currentTime
-                );
+        oscillator.stop(
+            audioContext.currentTime + 0.25
+        );
+    }
 
-                oscillator.connect(gain);
-                gain.connect(audioContext.destination);
+    async function playBeeps() {
+        if (audioContext.state === "suspended") {
+            await audioContext.resume();
+        }
 
-                oscillator.start();
+        beep();
 
-                oscillator.stop(
-                    audioContext.currentTime + 0.25
-                );
-            }
+        await new Promise(
+            resolve => setTimeout(resolve, 400)
+        );
 
-            async function playBeeps() {
+        beep();
 
-                if (audioContext.state === "suspended") {
-                    await audioContext.resume();
-                }
+        await new Promise(
+            resolve => setTimeout(resolve, 400)
+        );
 
-                beep();
+        beep();
+    }
 
-                await new Promise(
-                    resolve => setTimeout(resolve, 400)
-                );
-
-                beep();
-
-                await new Promise(
-                    resolve => setTimeout(resolve, 400)
-                );
-
-                beep();
-            }
-
-            playBeeps();
-
-        })();
-        </script>
-        """,
+    playBeeps();
+})();
+</script>
+""",
         height=1,
         width=1
     )
 
-
+        
 STATUS_STYLES = {
     "Safe":       {"emoji": "✅", "accent": "#16A34A", "pill_bg": "#DCFCE7", "pill_text": "#166534",
                     "summary_bg": "#ECFDF5", "summary": "This QR code appears to be safe and does not show signs of fraudulent activity.",
