@@ -258,50 +258,88 @@ def show_fraud_alert():
     components.html(
         """
         <style>
-            @keyframes fraudBlink {
-                0%, 100% {
-                    opacity: 1;
-                }
-                50% {
-                    opacity: 0.3;
-                }
+            html, body {
+                margin: 0;
+                padding: 0;
+                background: rgba(0, 0, 0, 0.95);
+                overflow: hidden;
+            }
+
+            .alert-screen {
+                width: 100%;
+                height: 100vh;
+                min-height: 420px;
+                background: rgba(0, 0, 0, 0.95);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-family: Arial, sans-serif;
             }
 
             .fraud-alert {
+                width: 85%;
+                max-width: 520px;
                 background: #DC2626;
                 color: white;
-                padding: 22px;
+                padding: 32px 22px;
                 text-align: center;
-                border-radius: 14px;
-                font-family: Arial, sans-serif;
-                animation: fraudBlink 0.7s infinite;
-                box-shadow: 0 0 25px rgba(220, 38, 38, 0.7);
+                border-radius: 18px;
+                box-shadow:
+                    0 0 25px rgba(239, 68, 68, 0.9),
+                    0 0 60px rgba(220, 38, 38, 0.5);
+
+                animation: alertPulse 0.7s infinite;
+            }
+
+            @keyframes alertPulse {
+                0%, 100% {
+                    opacity: 1;
+                    transform: scale(1);
+                }
+
+                50% {
+                    opacity: 0.65;
+                    transform: scale(1.03);
+                }
             }
 
             .fraud-title {
-                font-size: 26px;
-                font-weight: bold;
+                font-size: 28px;
+                font-weight: 800;
+                margin-bottom: 12px;
             }
 
             .fraud-message {
-                font-size: 17px;
-                font-weight: 600;
-                margin-top: 8px;
+                font-size: 18px;
+                font-weight: 700;
+            }
+
+            .beep-text {
+                margin-top: 18px;
+                font-size: 14px;
+                opacity: 0.9;
             }
         </style>
 
-        <div class="fraud-alert">
-            <div class="fraud-title">
-                🚨 FRAUDULENT QR CODE 🚨
-            </div>
+        <div class="alert-screen">
+            <div class="fraud-alert">
+                <div class="fraud-title">
+                    🚨 FRAUDULENT QR CODE 🚨
+                </div>
 
-            <div class="fraud-message">
-                ⚠️ DO NOT PROCEED
+                <div class="fraud-message">
+                    ⚠️ DO NOT PROCEED
+                </div>
+
+                <div class="beep-text">
+                    Security alert activated...
+                </div>
             </div>
         </div>
 
         <script>
             (function() {
+
                 const AudioContext =
                     window.AudioContext ||
                     window.webkitAudioContext;
@@ -311,14 +349,18 @@ def show_fraud_alert():
                 const audioContext = new AudioContext();
 
                 function beep() {
-                    const oscillator = audioContext.createOscillator();
-                    const gain = audioContext.createGain();
+
+                    const oscillator =
+                        audioContext.createOscillator();
+
+                    const gain =
+                        audioContext.createGain();
 
                     oscillator.type = "square";
                     oscillator.frequency.value = 900;
 
                     gain.gain.setValueAtTime(
-                        0.15,
+                        0.18,
                         audioContext.currentTime
                     );
 
@@ -326,20 +368,39 @@ def show_fraud_alert():
                     gain.connect(audioContext.destination);
 
                     oscillator.start();
+
                     oscillator.stop(
-                        audioContext.currentTime + 0.3
+                        audioContext.currentTime + 0.25
                     );
                 }
 
-                if (audioContext.state === "suspended") {
-                    audioContext.resume().then(beep);
-                } else {
+                async function playBeeps() {
+
+                    if (audioContext.state === "suspended") {
+                        await audioContext.resume();
+                    }
+
+                    beep();
+
+                    await new Promise(
+                        resolve => setTimeout(resolve, 400)
+                    );
+
+                    beep();
+
+                    await new Promise(
+                        resolve => setTimeout(resolve, 400)
+                    );
+
                     beep();
                 }
+
+                playBeeps();
+
             })();
         </script>
         """,
-        height=130,
+        height=500,
         scrolling=False
     )
 
@@ -394,11 +455,30 @@ if st.session_state.view == "scan":
                     result = response.json()
 
                     st.session_state.result = result
-                    st.session_state.view = "result"
+
+                    if result.get("risk_label") == "Fraudulent":
+                        st.session_state.view = "alert"
+                    else:
+                        st.session_state.view = "result"
+
                     st.rerun()
 
                 except requests.exceptions.ConnectionError:
                     st.error("Could not connect to backend. Make sure Flask server is running (python -m app.main).")
+
+# ============================================================
+# FRAUD ALERT PAGE
+# ============================================================
+elif st.session_state.view == "alert":
+    show_fraud_alert()
+    trigger_browser_voice_alert("Fraudulent")
+
+    import time
+    time.sleep(5)
+
+    st.session_state.view = "result"
+    st.rerun()
+
 
 # ============================================================
 # RESULT PAGE
@@ -606,10 +686,7 @@ else:
             unsafe_allow_html=True
         )
 
-        # 🟢 UPDATED VOICE ALERT FUNCTION CALL:
-        if risk_label == "Fraudulent":
-            show_fraud_alert()
-            trigger_browser_voice_alert(risk_label)
+    
 
         st.write("")
         st.button("🔄 Scan Next QR Code", on_click=go_to_scan)
