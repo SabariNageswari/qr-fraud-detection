@@ -254,6 +254,95 @@ def go_to_scan():
     st.session_state.view = "scan"
     st.session_state.result = None
 
+def show_fraud_alert():
+    components.html(
+        """
+        <style>
+            @keyframes fraudBlink {
+                0%, 100% {
+                    opacity: 1;
+                }
+                50% {
+                    opacity: 0.3;
+                }
+            }
+
+            .fraud-alert {
+                background: #DC2626;
+                color: white;
+                padding: 22px;
+                text-align: center;
+                border-radius: 14px;
+                font-family: Arial, sans-serif;
+                animation: fraudBlink 0.7s infinite;
+                box-shadow: 0 0 25px rgba(220, 38, 38, 0.7);
+            }
+
+            .fraud-title {
+                font-size: 26px;
+                font-weight: bold;
+            }
+
+            .fraud-message {
+                font-size: 17px;
+                font-weight: 600;
+                margin-top: 8px;
+            }
+        </style>
+
+        <div class="fraud-alert">
+            <div class="fraud-title">
+                🚨 FRAUDULENT QR CODE 🚨
+            </div>
+
+            <div class="fraud-message">
+                ⚠️ DO NOT PROCEED
+            </div>
+        </div>
+
+        <script>
+            (function() {
+                const AudioContext =
+                    window.AudioContext ||
+                    window.webkitAudioContext;
+
+                if (!AudioContext) return;
+
+                const audioContext = new AudioContext();
+
+                function beep() {
+                    const oscillator = audioContext.createOscillator();
+                    const gain = audioContext.createGain();
+
+                    oscillator.type = "square";
+                    oscillator.frequency.value = 900;
+
+                    gain.gain.setValueAtTime(
+                        0.15,
+                        audioContext.currentTime
+                    );
+
+                    oscillator.connect(gain);
+                    gain.connect(audioContext.destination);
+
+                    oscillator.start();
+                    oscillator.stop(
+                        audioContext.currentTime + 0.3
+                    );
+                }
+
+                if (audioContext.state === "suspended") {
+                    audioContext.resume().then(beep);
+                } else {
+                    beep();
+                }
+            })();
+        </script>
+        """,
+        height=130,
+        scrolling=False
+    )
+
 
 STATUS_STYLES = {
     "Safe":       {"emoji": "✅", "accent": "#16A34A", "pill_bg": "#DCFCE7", "pill_text": "#166534",
@@ -518,7 +607,9 @@ else:
         )
 
         # 🟢 UPDATED VOICE ALERT FUNCTION CALL:
-        trigger_browser_voice_alert(risk_label)
+        if risk_label == "Fraudulent":
+            show_fraud_alert()
+            trigger_browser_voice_alert(risk_label)
 
         st.write("")
         st.button("🔄 Scan Next QR Code", on_click=go_to_scan)
