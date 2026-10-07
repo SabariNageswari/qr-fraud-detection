@@ -12,17 +12,18 @@ def classify_qr(payload: str) -> str:
     if cleaned.startswith("upi://"):
         return "UPI"
 
-    # Normal URLs
-    if cleaned.startswith("http://") or cleaned.startswith("https://"):
+    # URLs with protocol
+    if cleaned.startswith(("http://", "https://")):
         return "URL"
 
-    # Domain-style URLs without http/https
-    if (
-        cleaned.startswith("www.")
-        or "." in cleaned
-        and " " not in cleaned
-        and not cleaned.startswith("upi:")
-    ):
+    # URLs without protocol
+    if cleaned.startswith("www."):
+        return "URL"
+
+    # Domain-style URL
+    first_part = cleaned.split("/")[0]
+
+    if "." in first_part and " " not in cleaned:
         return "URL"
 
     return "UNKNOWN"
